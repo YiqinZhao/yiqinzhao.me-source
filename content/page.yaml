@@ -2,18 +2,29 @@ experiences:
   - affiliation: Google
     location: Mountain View, CA
     title: Student Researcher
-    time: May 2022 -- Present
+    time: May 2022 - Present
     icon: google.png
   - affiliation: Kuaishou Technology
     location: Palo Alto, CA
     title: Research Intern
-    time: Jan 2022 -- May 2022
+    time: Jan 2022 - May 2022
     icon: kuaishou.png
   - affiliation: Worcester Polytechnic Institute
     location: Worcester, MA
     title: Ph.D. Student in <a href="https://cake.wpi.edu">TheCakeLab</a>
-    time: Aug 2021 -- Present
+    time: Aug 2021 - Present
     icon: wpi.png
+  - affiliation: Baidu
+    location: Beijing, China
+    title: Software Engineering Intern
+    time: Jun, 2018 - Sept, 2018
+    icon: baidu.png
+  - affiliation: Tianjin Normal University
+    location: Tianjin, China
+    title: B.Eng. in Software Engineering
+    time: Sept, 2015 - Jun, 2019
+    icon: tjnu.png
+
 
 contacts:
   - platform: Email

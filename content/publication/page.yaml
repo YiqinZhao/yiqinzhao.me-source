@@ -1,4 +1,4 @@
-- publicationList:
+publicationList:
   - title: "Xihe: a 3D vision-based lighting estimation framework for mobile augmented reality"
     thumbnail: xihe-mobisys2021.png
     type: conference
