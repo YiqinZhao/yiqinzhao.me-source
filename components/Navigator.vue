@@ -18,7 +18,7 @@
     <div class="fixed flex md:hidden flex-row justify-between p-5 dark:text-white dark:bg-gray-900 z-30 w-full top-0">
         <span class="text-xl">{{ activeItem.text }}</span>
         <span v-on:click="onMenuButtonClick">
-            <img class="inline dark:invert" :src="menuOpen ? '/img/icons/close.svg' : '/img/icons/menu.svg'" alt="">
+            <img class="inline dark:invert" :src="menuOpen ? '/assets/img/icons/close.svg' : '/assets/img/icons/menu.svg'" alt="">
         </span>
     </div>
 
@@ -34,7 +34,7 @@
                     <span v-else class="transition-border hover:border-b-4 border-b-gray-400">{{ item.text }}</span>
                     <img class="dark:invert w-6 opacity-50"
                         :class="{ 'opacity-100': item.path.split('/')[1] === firstRoute }"
-                        src="/img/icons/arrow-right-bold.svg" alt="">
+                        src="/assets/img/icons/arrow-right-bold.svg" alt="">
                 </div>
             </a>
         </div>
@@ -52,6 +52,7 @@ const navigatorItems = [
     { path: '/', text: 'Home' },
     { path: '/news/', text: 'News' },
     { path: '/research/', text: 'Research' },
+    { path: '/project/', text: 'Projects' },
     { path: '/blog/', text: 'Blog' },
     { path: '/yiqinzhao-cv.pdf', text: 'CV' },
 ].map(v => {

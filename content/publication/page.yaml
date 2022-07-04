@@ -24,6 +24,7 @@ publicationList:
       name: IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
     artifactLinks:
       paper: https://ieeexplore.ieee.org/document/9757380
+    note: A followup work to Xihe, FusedAR now provides lighting information that can be used for high-quality reflection rendering for Mobile AR.
 
   - title: "Xihe: a 3D vision-based lighting estimation framework for mobile augmented reality"
     thumbnail: xihe-mobisys2021.png
@@ -81,7 +82,7 @@ publicationList:
     venue:
       acronym: Access
       year: 2019
-      name: "IEEE"
+      name: "IEEE Access"
     artifactLinks:
       paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8762126
       project: /project/deep-spectrum/
