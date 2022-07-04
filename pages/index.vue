@@ -8,7 +8,7 @@
 
 <template>
     <main>
-        <h1 class="text-4xl font-bold mt-20 mb-5">🦸🏻‍♂️ About Me</h1>
+        <h1 class="text-4xl font-bold mt-10 md:mt-20 mb-5">🦸🏻‍♂️ About Me</h1>
         <ContentDoc path="/about" class="prose dark:prose-invert max-w-none mb-10" />
 
         <h1 class="text-4xl font-bold mb-5">📰 News</h1>
@@ -32,10 +32,10 @@
 
         <h1 class="text-4xl font-bold mt-10 mb-5">📄 Publications</h1>
         <div v-for="pubItem in publicationData.publicationList" v-bind:key="pubItem.title">
-            <div class="flex flex-row py-4 items-center">
+            <div class="flex flex-row py-4 items-start">
                 <img class="mr-4 w-32" :src="`/img/publications/${pubItem.thumbnail}`" alt="">
 
-                <div class="prose dark:prose-invert ">
+                <div class="prose dark:prose-invert max-w-none">
                     <div class="dark:text-white font-medium">{{ pubItem.title }}</div>
                     <div>
                         <span v-for="(author, i) in pubItem.authors" v-bind:key="author"
@@ -52,7 +52,7 @@
             </div>
         </div>
 
-        <h1 class="text-4xl font-bold mt-10">📧 Contact</h1>
+        <h1 class="text-4xl font-bold mt-10">📧 Contacts</h1>
         <div class="prose dark:prose-invert max-w-none">
             <span v-for="contactItem in pageData.contacts" :key="contactItem.platform">
                 <a :href="contactItem.url" class="mr-4">

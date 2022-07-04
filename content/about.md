@@ -1,6 +1,6 @@
 🔊 *My name pounces as: Yi-Chin*
 
-🪧 **I'm currently interning at Google for the 2022 summer, hosted by [Sean Fanello](https://www.seanfanello.it).**
+🪧 **I'm currently interning at GoogleARVR for the 2022 summer, hosted by [Sean Fanello](https://www.seanfanello.it).**
 
 I am a third-year Computer Science M.S./Ph.D. student at [Worcester Polytechnic Institute (WPI)](https://wpi.edu) and a proud member of [The Cake Lab](https://cake-lab.github.io) research group.
 I feel extremely fortunate to be advised by my kind and wise advisor [Prof. Tian Guo](https://tianguo.info).

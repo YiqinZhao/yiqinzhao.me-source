@@ -1,11 +1,11 @@
 <template>
     <div class="w-full relative mb-10">
 
-        <div class="container mx-auto max-w-6xl px-4">
+        <div class="container mx-auto max-w-6xl px-0 md:px-4 pt-16 md:pt-0">
             <Navigator class="z-20"/>
 
-            <div v-if="path == '/'" class="flex py-20 dark:text-white relative">
-                <div class="w-1/2 flex flex-col justify-end z-10">
+            <div v-if="path == '/'" class="flex py-0 md:py-20 dark:text-white relative">
+                <div class="w-1/2 hidden md:flex flex-col justify-end z-10">
                     <p class="text-6xl font-bold py-4">Yiqin Zhao</p>
                     <p class="text-2xl pl-3 prose dark:prose-invert">
                         赵一勤 | Yiqin (Yi-Chin) <br />
@@ -15,7 +15,7 @@
                     </p>
                 </div>
 
-                <img class="w-1/2 shadow-md" src="img/hero.jpg" alt="">
+                <img class="w-full md:w-1/2 shadow-md" src="img/hero.jpg" alt="">
 
                 <img class="absolute w-2/3 top-[-5rem] left-[-5rem] dark:invert z-[-1]" src="img/qin-logo.svg" alt="">
             </div>

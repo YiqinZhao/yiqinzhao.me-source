@@ -1,4 +1,30 @@
 publicationList:
+  - title: "Privacy-preserving Reflection Rendering for Augmented Reality"
+    thumbnail: privacy-preserving-reflection.png
+    type: conference
+    authors:
+      - Yiqin Zhao
+      - Tian Guo
+    venue:
+      acronym: ACMMM
+      year: 2022
+      name: 30th ACM International Conference on Multimedia
+    artifactLinks:
+      paper: https://yiqinzhao.me
+
+  - title: "FusedAR: Adaptive Environment Lighting Reconstruction for Visually Coherent Mobile AR Rendering"
+    thumbnail: fusedar-ieeevrw22.png
+    type: workshop
+    authors:
+      - Yiqin Zhao
+      - Tian Guo
+    venue:
+      acronym: IEEEVRW
+      year: 2022
+      name: IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+    artifactLinks:
+      paper: https://ieeexplore.ieee.org/document/9757380
+
   - title: "Xihe: a 3D vision-based lighting estimation framework for mobile augmented reality"
     thumbnail: xihe-mobisys2021.png
     type: conference
