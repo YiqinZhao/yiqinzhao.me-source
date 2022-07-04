@@ -1,0 +1,97 @@
+- publicationList:
+  - title: "Xihe: a 3D vision-based lighting estimation framework for mobile augmented reality"
+    thumbnail: xihe-mobisys2021.png
+    type: conference
+    authors:
+      - Yiqin Zhao
+      - Tian Guo
+    venue:
+      acronym: MobiSys
+      year: 2021
+      name: The 19th ACM International Conference on Mobile Systems, Applications, and Services
+    artifactLinks:
+      paper: https://dl.acm.org/doi/10.1145/3458864.3467886?cid=99659479290
+      project: /project/xihe/
+
+  - title: "PointAR: Efficient Lighting Estimation for Mobile Augmented Reality"
+    thumbnail: pointar-eccv.png
+    type: conference
+    authors:
+      - Yiqin Zhao
+      - Tian Guo
+    venue:
+      acronym: ECCV
+      year: 2020
+      name: 16th European Conference on Computer Vision
+    artifactLinks:
+      paper: https://arxiv.org/abs/2004.00006
+      project: /project/point-ar/
+
+  - title: "PointAR: Efficient Lighting Estimation for Mobile Augmented Reality"
+    thumbnail: pointar-hotmobile.png
+    type: workshop
+    authors:
+      - Yiqin Zhao
+      - Tian Guo
+    venue:
+      acronym: ACM HotMobile
+      year: 2020
+      name: International Workshop on Mobile Computing Systems and Applications
+    artifactLinks:
+      paper: https://hotmobile.org/2020/downloads/hotmobile20-Zhao.pdf
+      project: /project/point-ar/
+
+  - title: "Exploring Deep Spectrum Representations via Attention-Based Recurrent and Convolutional Neural Networks for Speech Emotion Recognition"
+    thumbnail: deep-spectrum-ieee.png
+    type: journal
+    authors:
+      - Ziping Zhao
+      - Zhongtian Bao
+      - Yiqin Zhao
+      - Zixing Zhang
+      - Nicholas Cummins
+      - Zhao Ren
+      - Björn Schuller
+    venue:
+      acronym: Access
+      year: 2019
+      name: "IEEE"
+    artifactLinks:
+      paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8762126
+      project: /project/deep-spectrum/
+
+  - title: "Deep Spectrum Feature Representations for Speech Emotion Recognition"
+    thumbnail: deep-spectrum-acmmm.png
+    type: conference
+    authors:
+      - Ziping Zhao
+      - Yiqin Zhao
+      - Zhongtian Bao
+      - Haishuai Wang
+      - Zixing Zhang
+      - Chao Li
+    venue:
+      acronym: ASMMC-MMAC
+      year: 2018
+      name: "4th Workshop on Affective Social Multimedia Computing and first Multi-Modal Affective Computing of Large-Scale Multimedia Data"
+    artifactLinks:
+      paper: https://dl.acm.org/citation.cfm?doid=3267935.3267948
+      project: /project/deep-spectrum/
+
+  - title: "Exploring Spatio-Temporal Representations by Integrating Attention-based Bidirectional-LSTM-RNNs and FCNs for Speech Emotion Recognition"
+    thumbnail: deep-spectrum-interspeech.png
+    type: conference
+    authors:
+      - Ziping Zhao
+      - Yu Zheng
+      - Zixing Zhang
+      - Haishuai Wang
+      - Yiqin Zhao
+      - Chao Li
+    venue:
+      acronym: INTERSPEECH
+      year: 2018
+      name: "Annual Conference of the International Speech Communication Association"
+    artifactLinks:
+      paper: https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1477.pdf
+      project: /project/deep-spectrum/

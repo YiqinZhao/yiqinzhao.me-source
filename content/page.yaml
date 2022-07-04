@@ -1,0 +1,58 @@
+experiences:
+  - affiliation: Google
+    location: Mountain View, CA
+    title: Student Researcher
+    time: May 2022 -- Present
+    icon: google.png
+  - affiliation: Kuaishou Technology
+    location: Palo Alto, CA
+    title: Research Intern
+    time: Jan 2022 -- May 2022
+    icon: kuaishou.png
+  - affiliation: Worcester Polytechnic Institute
+    location: Worcester, MA
+    title: Ph.D. Student in <a href="https://cake.wpi.edu">TheCakeLab</a>
+    time: Aug 2021 -- Present
+    icon: wpi.png
+
+contacts:
+  - platform: Email
+    url: mailto:yiqinzhao@outlook.com
+    icon: email
+  - platform: GitHub
+    url: https://github.com/YiqinZhao
+    icon: github
+  - platform: Google Scholar
+    url: https://scholar.google.com/citations?user=2Dq4bAcAAAAJ&hl=en
+    icon: google-scholar
+  - platform: Twitter
+    url: https://twitter.com/yiqin_zhao
+    icon: twitter
+  - platform: Instagram
+    url: https://www.instagram.com/yiqinzhao1996
+    icon: instagram
+  - platform: Xbox Live
+    url: https://account.xbox.com/Profile?Gamertag=YiqinZhao
+    icon: xbox
+friends:
+  - name: Tian Guo
+    url: https://tianguo.info
+    portrait: tianguo.png
+  - name: TheCakeLab
+    url: https://cake-lab.github.io
+    portrait: thecakelab.svg
+  # - name: TJNU iOS Club
+  #   url: https://tjnuios.club
+  #   portrait: tjnu-ios-club.jpg
+  # - name: C422 Studio
+  #   url: https://c422.github.io
+  #   portrait: c422.jpg
+  # - name: Arabaku
+  #   url: https://fix.moe
+  #   portrait: arabaku.png
+  # - name: Kim Yang
+  #   url: https://kimyang.cn
+  #   portrait: yangjin.png
+  # - name: Cyber Jiao
+  #   url: https://cyberjiao.top
+  #   portrait: jiaojinlong.jpg
