@@ -1,3 +1,9 @@
+---
+title: News
+subtitle: "🎉 Latest: I'm a Googler now!"
+leadingImage: me-news-google.png
+---
+
 - **05/17/2022** 🎉 I joined Google as a student researcher intern, hosted by [Sean Fanello](https://www.seanfanello.it)!
 - **03/04/2022** 🎉 I will join Google as a research intern in the summer!
 - **01/18/2022** 🎉 I joined the [Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html) as a research intern.
