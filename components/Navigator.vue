@@ -1,16 +1,19 @@
 <template>
-    <div class="hidden md:flex justify-between text-2xl py-4 px-8 dark:text-gray-400 mx-auto bg-gray-800 rounded-md shadow-md">
-        <a class="text-3xl font-bold hover:text-white transition-colors" href="/">
-            <span v-show="path !== '/'">Yiqin Zhao</span>
+    <div
+        class="hidden md:flex justify-between text-normal px-4 py-2 dark:text-gray-400 mx-auto bg-gray-800 rounded-md shadow-md">
+        <a class="text-xl font-bold hover:text-white transition-colors" href="/">
+            <span :class="{ 'opacity-0': path === '/' }">
+                <img class="inline w-10 dark:invert transition-opacity opacity-60 hover:opacity-100" src="/assets/img/qin-logo.svg" alt="">
+            </span>
         </a>
 
-        <div class="flex flex-row">
+        <div class="flex flex-row justify-center">
 
-            <a class="pl-10 font-medium hover:text-white transition-colors" v-for="item in navigatorItems"
-                v-bind:key="item.text" :href="item.path">
+            <a class="pl-10 font-medium hover:text-white transition-colors flex items-center"
+                v-for="item in navigatorItems" v-bind:key="item.text" :href="item.path">
                 <span v-if="item.path.split('/')[1] === firstRoute"
-                    class="transition-border text-white border-b-4 border-b-gray-400">{{ item.text }}</span>
-                <span v-else class="transition-border hover:border-b-4 border-b-gray-400">{{ item.text }}</span>
+                    class="transition-border text-white border-b-2 border-b-gray-400">{{ item.text }}</span>
+                <span v-else class="transition-border hover:border-b-2 border-b-gray-400">{{ item.text }}</span>
             </a>
         </div>
     </div>
@@ -18,7 +21,8 @@
     <div class="fixed flex md:hidden flex-row justify-between p-5 dark:text-white dark:bg-gray-900 z-30 w-full top-0">
         <span class="text-xl">{{ activeItem.text }}</span>
         <span v-on:click="onMenuButtonClick">
-            <img class="inline dark:invert" :src="menuOpen ? '/assets/img/icons/close.svg' : '/assets/img/icons/menu.svg'" alt="">
+            <img class="inline dark:invert"
+                :src="menuOpen ? '/assets/img/icons/close.svg' : '/assets/img/icons/menu.svg'" alt="">
         </span>
     </div>
 
