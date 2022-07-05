@@ -1,9 +1,28 @@
+<script setup>
+const { path } = useRoute()
+
+const firstRoute = path.split('/')[1]
+const navigatorItems = [
+    { path: '/', text: 'Home' },
+    { path: '/news/', text: 'News' },
+    { path: '/research/', text: 'Research' },
+    { path: '/project/', text: 'Projects' },
+    { path: '/blog/', text: 'Blog' },
+    { path: '/yiqinzhao-cv.pdf', text: 'CV' },
+].map(v => {
+    v.active = v.path.split('/')[1] === firstRoute
+    return v
+})
+const activeItem = navigatorItems.filter(v => v.active)[0]
+</script>
+
 <template>
     <div
         class="hidden md:flex justify-between text-normal px-4 py-2 dark:text-gray-400 mx-auto bg-gray-800 rounded-md shadow-md">
         <a class="text-xl font-bold hover:text-white transition-colors" href="/">
             <span :class="{ 'opacity-0': path === '/' }">
-                <img class="inline w-10 dark:invert transition-opacity opacity-60 hover:opacity-100" src="/assets/img/qin-logo.svg" alt="">
+                <img class="inline w-10 dark:invert transition-opacity opacity-60 hover:opacity-100"
+                    src="/assets/img/qin-logo.svg" alt="">
             </span>
         </a>
 
@@ -47,24 +66,6 @@
     </div>
 
 </template>
-
-<script setup>
-const { path } = useRoute()
-
-const firstRoute = path.split('/')[1]
-const navigatorItems = [
-    { path: '/', text: 'Home' },
-    { path: '/news/', text: 'News' },
-    { path: '/research/', text: 'Research' },
-    { path: '/project/', text: 'Projects' },
-    { path: '/blog/', text: 'Blog' },
-    { path: '/yiqinzhao-cv.pdf', text: 'CV' },
-].map(v => {
-    v.active = v.path.split('/')[1] === firstRoute
-    return v
-})
-const activeItem = navigatorItems.filter(v => v.active)[0]
-</script>
 
 <script>
 export default {

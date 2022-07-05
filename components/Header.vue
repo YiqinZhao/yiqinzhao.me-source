@@ -1,11 +1,7 @@
 <script setup>
 const { path } = useRoute()
 
-useHead({
-    titleTemplate: (titleChunk) => {
-        return titleChunk ? `${titleChunk} - Yiqin Zhao` : 'Yiqin Zhao';
-    }
-})
+
 </script>
 
 <template>

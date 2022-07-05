@@ -4,8 +4,17 @@ body {
 }
 </style>
 
+<script setup>
+useHead({
+    titleTemplate: (titleChunk) => {
+        return titleChunk ? `${titleChunk} - Yiqin Zhao` : 'Yiqin Zhao';
+    }
+})
+</script>
+
 <template>
-  <Meta property="twitter:card" content="summary_large_image" />
+
+  <Link rel="icon" type="image/x-icon" href="/site-icons/favicon.ico"/>
 
   <Header></Header>
   <NuxtLayout></NuxtLayout>
