@@ -1,3 +1,13 @@
+<script setup>
+const { path } = useRoute()
+
+useHead({
+    titleTemplate: (titleChunk) => {
+        return titleChunk ? `${titleChunk} - Yiqin Zhao` : 'Yiqin Zhao';
+    }
+})
+</script>
+
 <template>
     <div class="w-full relative mb-10 md:pt-4">
 
@@ -23,7 +33,3 @@
         </div>
     </div>
 </template>
-
-<script setup>
-const { path } = useRoute()
-</script>
