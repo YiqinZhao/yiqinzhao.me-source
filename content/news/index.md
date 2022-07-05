@@ -1,6 +1,6 @@
 ---
 title: News
-subtitle: "🎉 Latest: I'm a Googler now!"
+subtitle: "📢 Latest: I'm a Googler now!"
 leadingImage: me-news-google.png
 ---
 

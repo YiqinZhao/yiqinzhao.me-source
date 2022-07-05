@@ -20,5 +20,9 @@ export default defineNuxtConfig({
       theme: 'dracula',
       preload: ['bibtex']
     }
-  }
+  },
+  components: [{
+    path: '~/components',
+    global: true
+  }]
 })

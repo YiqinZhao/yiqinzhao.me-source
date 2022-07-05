@@ -1,5 +1,5 @@
 <template>
-    <div class="hidden md:flex justify-between text-2xl pt-8 dark:text-gray-400">
+    <div class="hidden md:flex justify-between text-2xl pt-8 dark:text-gray-400 max-w-prose mx-auto">
         <a class="text-3xl font-bold hover:text-white transition-colors" href="/">
             <span v-show="path !== '/'">Yiqin Zhao</span>
         </a>

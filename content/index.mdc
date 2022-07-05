@@ -1,0 +1,181 @@
+# 🦸🏻‍♂️ About Me
+
+🔊 *My name pounces as: Yi-Chin*
+
+🪧 **I'm currently interning at GoogleARVR for the 2022 summer, hosted by [Sean Fanello](https://www.seanfanello.it).**
+
+I am a third-year Computer Science M.S./Ph.D. student at [Worcester Polytechnic Institute (WPI)](https://wpi.edu) and a proud member of [The Cake Lab](https://cake-lab.github.io) research group.
+I feel extremely fortunate to be advised by my kind and wise advisor [Prof. Tian Guo](https://tianguo.info).
+I'm interested in designing system supports and optimizations for Augmented Reality (AR) applications.
+My recent research has a strong focus on designing system support for AR environment lighting understanding and photorealistic rendering.
+
+Prior to WPI, I obtained my Bachelor's degree in Software Engineering from [Tianjin Normal University (TJNU)](https://tjnu.edu.cn), Tianjin, China in 2019.
+During my undergraduate study, I worked with [Prof. Ziping Zhao](https://www.researchgate.net/profile/Ziping-Zhao-2) on audio signal processing, speech emotion recognition, and affective computing.
+I was also a software engineer intern at [Baidu](https://baidu.com) during the summer time in 2018.
+In spring 2022, I interned in the [Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html) at [Kuaishou](https://www.kuaishou.com/en), mentored by [Haibin Huang](https://brotherhuang.github.io) and [Chongyang Ma](http://www.chongyangma.com).
+Apart from my research, I love cooking and playing guitar (check my [Instagram](https://www.instagram.com/yiqinzhao1996)).
+More about me at my [blog page](/blog/about-me/).
+
+# 📰 News
+
+::ShortNews
+::
+
+[More news >>>](/news/)
+
+# 🥷 Experiences
+
+::ExperienceRow{icon=google.png}
+**Google, Mountain View, CA**\
+Student Researcher\
+May 2022 - Present
+::
+
+::ExperienceRow{icon=kuaishou.png}
+**Kuaishou Technology, Palo Alto, CA**\
+Research Intern\
+Jan, 2022 - May, 2022
+::
+
+::ExperienceRow{icon=wpi.png}
+**Worcester Polytechnic Institute, Worcester, MA**\
+Ph.D. Student in [TheCakeLab](https://cake.wpi.edu), advised by [Prof. Tian Guo](https://tianguo.info)\
+Aug 2021 - Present
+::
+
+::ExperienceRow{icon=baidu.png}
+**Baidu, Beijing, China**\
+Software Engineering Intern\
+Jun, 2018 - Sept, 2018
+::
+
+::ExperienceRow{icon="tjnu.png"}
+**Tianjin Normal University, Tianjin, China**\
+Bachelor of Engineering in Software Engineering\
+Sept, 2015 - Jun, 2019
+::
+
+# 📄 Publications
+
+::PublicationRow
+---
+title: "Privacy-preserving Reflection Rendering for Augmented Reality"
+thumbnail: privacy-preserving-reflection.png
+type: conference
+authors:
+    - Yiqin Zhao
+    - Tian Guo
+venue:
+    acronym: ACMMM
+    year: 2022
+    name: 30th ACM International Conference on Multimedia
+artifactLinks:
+    paper: https://yiqinzhao.me
+---
+::
+
+::PublicationRow
+---
+title: "FusedAR: Adaptive Environment Lighting Reconstruction for Visually Coherent Mobile AR Rendering"
+thumbnail: fusedar-ieeevrw22.png
+type: workshop
+authors:
+    - Yiqin Zhao
+    - Tian Guo
+venue:
+    acronym: IEEEVRW
+    year: 2022
+    name: IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
+artifactLinks:
+    paper: https://ieeexplore.ieee.org/document/9757380
+---
+::
+
+
+::PublicationRow
+---
+title: "Xihe: a 3D vision-based lighting estimation framework for mobile augmented reality"
+thumbnail: xihe-mobisys2021.png
+type: conference
+authors:
+    - Yiqin Zhao
+    - Tian Guo
+venue:
+    acronym: MobiSys
+    year: 2021
+    name: The 19th ACM International Conference on Mobile Systems, Applications, and Services
+artifactLinks:
+    paper: https://dl.acm.org/doi/10.1145/3458864.3467886?cid=99659479290
+    project: /project/xihe/
+---
+::
+
+::PublicationRow
+---
+title: "PointAR: Efficient Lighting Estimation for Mobile Augmented Reality"
+thumbnail: pointar-eccv.png
+type: conference
+authors:
+    - Yiqin Zhao
+    - Tian Guo
+venue:
+    acronym: ECCV
+    year: 2020
+    name: 16th European Conference on Computer Vision
+artifactLinks:
+    paper: https://arxiv.org/abs/2004.00006
+    project: /project/point-ar/
+---
+::
+
+::PublicationRow
+---
+title: "PointAR: Efficient Lighting Estimation for Mobile Augmented Reality"
+thumbnail: pointar-hotmobile.png
+type: workshop
+authors:
+    - Yiqin Zhao
+    - Tian Guo
+venue:
+    acronym: ACM HotMobile
+    year: 2020
+    name: International Workshop on Mobile Computing Systems and Applications
+artifactLinks:
+    paper: https://hotmobile.org/2020/downloads/hotmobile20-Zhao.pdf
+    project: /project/point-ar/
+---
+::
+
+# 📧 Contacts
+
+::contact-item
+---
+icon: email
+url: mailto:yiqinzhao@outlook.com
+---
+Email
+::
+
+::contact-item
+---
+icon: github
+url: https://github.com/YiqinZhao
+---
+GitHub
+::
+
+::contact-item
+---
+icon: Twitter
+url: https://twitter.com/yiqin_zhao
+---
+Twitter
+::
+
+::contact-item
+---
+icon: Instagram
+url: https://www.instagram.com/yiqinzhao1996
+---
+Instagram
+::
