@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full relative mb-10">
+    <div class="w-full relative mb-10 md:pt-4">
 
         <div class="container mx-auto max-w-6xl px-0 md:px-4 pt-16 md:pt-0">
             <Navigator class="z-20"/>
@@ -15,9 +15,9 @@
                     </p>
                 </div>
 
-                <img class="w-full md:w-1/2 shadow-md" src="/assets/img/hero.jpg" alt="">
+                <img class="w-full md:w-1/2 shadow-md rounded-md" src="/assets/img/hero.jpg" alt="">
 
-                <img class="absolute w-2/3 top-[-5rem] left-[-5rem] dark:invert z-[-1]" src="/assets/img/qin-logo.svg" alt="">
+                <img class="absolute w-2/3 top-[-5rem] left-[-5rem] dark:invert z-[-1] opacity-40" src="/assets/img/qin-logo.svg" alt="">
             </div>
             <div v-if="path == '/'" class="w-full h-full absolute top-0 left-0 z-[-2] dark:bg-neutral-800"></div>
         </div>
