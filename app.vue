@@ -16,6 +16,8 @@ useHead({
 
   <Link rel="icon" type="image/x-icon" href="/site-icons/favicon.ico"/>
 
+  <Navigator/>
+
   <Header></Header>
   <NuxtLayout></NuxtLayout>
   <Footer></Footer>
