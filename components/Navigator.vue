@@ -18,8 +18,9 @@ const activeItem = navigatorItems.filter(v => v.active)[0]
 
 <template>
     <div
-        class="hidden md:flex justify-between text-normal px-4 py-2 dark:text-gray-400 max-w-6xl mx-auto mt-6 bg-gray-800 rounded-md shadow-md">
-        <a class="text-xl font-bold hover:text-white transition-colors" href="/">
+        class="text-normal px-4 py-2 dark:text-gray-400 mx-auto dark:bg-gray-800">
+        <div class="md:flex justify-between max-w-6xl mx-auto">
+            <a class="text-xl font-bold hover:text-white transition-colors" href="/">
             <span :class="{ 'opacity-0': path === '/' }">
                 <img class="inline w-10 dark:invert transition-opacity opacity-60 hover:opacity-100"
                     src="/assets/img/qin-logo.svg" alt="">
@@ -34,6 +35,7 @@ const activeItem = navigatorItems.filter(v => v.active)[0]
                     class="transition-border text-white border-b-2 border-b-gray-400">{{ item.text }}</span>
                 <span v-else class="transition-border hover:border-b-2 border-b-gray-400">{{ item.text }}</span>
             </a>
+        </div>
         </div>
     </div>
 

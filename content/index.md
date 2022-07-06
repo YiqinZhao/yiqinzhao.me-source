@@ -135,19 +135,68 @@ artifactLinks:
 
 ::PublicationRow
 ---
-title: "PointAR: Efficient Lighting Estimation for Mobile Augmented Reality"
-thumbnail: pointar-hotmobile.png
-type: workshop
+title: "Exploring Deep Spectrum Representations via Attention-Based Recurrent and Convolutional Neural Networks for Speech Emotion Recognition"
+thumbnail: deep-spectrum-ieee.png
+type: journal
 authors:
+    - Ziping Zhao
+    - Zhongtian Bao
     - Yiqin Zhao
-    - Tian Guo
+    - Zixing Zhang
+    - Nicholas Cummins
+    - Zhao Ren
+    - Björn Schuller
 venue:
-    acronym: ACM HotMobile
-    year: 2020
-    name: International Workshop on Mobile Computing Systems and Applications
+    acronym: Access
+    year: 2019
+    name: "IEEE Access"
 artifactLinks:
-    paper: https://hotmobile.org/2020/downloads/hotmobile20-Zhao.pdf
-    project: /project/point-ar/
+    paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8762126
+    project: /project/deep-spectrum/
+---
+::
+
+::PublicationRow
+---
+title: "Deep Spectrum Feature Representations for Speech Emotion Recognition"
+thumbnail: deep-spectrum-acmmm.png
+type: conference
+authors:
+    - Ziping Zhao
+    - Yiqin Zhao
+    - Zhongtian Bao
+    - Haishuai Wang
+    - Zixing Zhang
+    - Chao Li
+venue:
+    acronym: ASMMC-MMAC
+    year: 2018
+    name: "4th Workshop on Affective Social Multimedia Computing and first Multi-Modal Affective Computing of Large-Scale Multimedia Data"
+artifactLinks:
+    paper: https://dl.acm.org/citation.cfm?doid=3267935.3267948
+    project: /project/deep-spectrum/
+---
+::
+
+::PublicationRow
+---
+title: "Exploring Spatio-Temporal Representations by Integrating Attention-based Bidirectional-LSTM-RNNs and FCNs for Speech Emotion Recognition"
+thumbnail: deep-spectrum-interspeech.png
+type: conference
+authors:
+    - Ziping Zhao
+    - Yu Zheng
+    - Zixing Zhang
+    - Haishuai Wang
+    - Yiqin Zhao
+    - Chao Li
+venue:
+    acronym: INTERSPEECH
+    year: 2018
+    name: "Annual Conference of the International Speech Communication Association"
+artifactLinks:
+    paper: https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1477.pdf
+    project: /project/deep-spectrum/
 ---
 ::
 

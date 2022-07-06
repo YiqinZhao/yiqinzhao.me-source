@@ -1,7 +1,7 @@
 <template>
     <article class="p-4">
         <ContentDoc v-slot="{ doc }">
-            <h1 v-if="!doc.hideTitle" class="dark:text-white text-center text-5xl font-bold mt-0 md:mt-16">{{ doc.title }}
+            <h1 v-if="!doc.hideTitle" class="dark:text-white text-center text-5xl font-bold mt-0 md:mt-10">{{ doc.title }}
             </h1>
             <h2 v-if="doc.subtitle" class="dark:text-gray-200 text-center text-2xl font-normal mt-3">{{ doc.subtitle }}
             </h2>
