@@ -1,4 +1,10 @@
-# Deep Spectrum
+---
+title: Deep Spectrum Feature Representations for Speech Emotion Recognition
+date: June, 2018
+thumbnail: /assets/img/project/deep-spectrum/thumbnail.png
+tag: research
+layout: default
+---
 
 Zhao, Ziping and **Zhao, Yiqin** and Bao, Zhongtian and Wang, Haishuai and Zhang, Zixing and Li, Chao
 
