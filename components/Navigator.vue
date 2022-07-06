@@ -18,7 +18,7 @@ const activeItem = navigatorItems.filter(v => v.active)[0]
 
 <template>
     <div
-        class="text-normal px-4 py-2 dark:text-gray-400 mx-auto dark:bg-gray-800">
+        class="hidden md:block text-normal px-4 py-2 dark:text-gray-400 mx-auto dark:bg-gray-800">
         <div class="md:flex justify-between max-w-6xl mx-auto">
             <a class="text-xl font-bold hover:text-white transition-colors" href="/">
             <span :class="{ 'opacity-0': path === '/' }">

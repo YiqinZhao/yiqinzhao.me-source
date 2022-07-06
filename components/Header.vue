@@ -3,7 +3,7 @@ const { path } = useRoute()
 </script>
 
 <template>
-    <div class="w-full relative">
+    <div class="w-full relative mt-16 md:mt-0">
         <div class="container mx-auto max-w-5xl px-0 md:px-4 md:pt-0">
             <div v-if="path == '/'" class="flex py-0 md:py-16 dark:text-white relative justify-between mx-auto">
 
