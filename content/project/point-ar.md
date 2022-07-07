@@ -3,10 +3,21 @@ title: "PointAR: Efficient Lighting Estimation for Mobile Augmented Reality"
 date: Aug, 2020
 thumbnail: /assets/img/project/point-ar/thumbnail.png
 tag: research
-layout: project
+layout: default
+---
 
-headerImage: /assets/img/project/point-ar/title-bg.svg
+<!-- Insert a header image here. -->
 
+![](/assets/img/project/point-ar/title-bg.svg){.dark:invert}
+
+<!-- Document starts here, please first insert a title component. -->
+
+::ProjectHeader
+---
+title: "PointAR: Efficient Lighting Estimation for Mobile Augmented Reality"
+headerImage:
+venue: ECCV 2020
+videoLink: https://www.youtube.com/embed/Mg-dFJRPSH4
 authors:
     - name: Yiqin Zhao
       url: https://yiqinzhao.me
@@ -14,15 +25,14 @@ authors:
     - name: Tian Guo
       url: https://tianguo.info
       affiliation: Worcester Polytechnic Institute
-
-venue: ECCV 2020
-
 artifactLinks:
     paper: https://arxiv.org/abs/2004.00006
+    poster: https://github.com/cake-lab/PointAR
     project: /project/point-ar/
+    video: https://www.youtube.com/embed/Mg-dFJRPSH4
+    code: https://github.com/cake-lab/PointAR
 ---
-
-<iframe width="100%" src="https://www.youtube.com/embed/Mg-dFJRPSH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="height: min(50vw, 500px)"></iframe>
+::
 
 ## Abstract
 
@@ -34,8 +44,6 @@ We propose an efficient lighting estimation pipeline that is suitable to run on 
 **PointAR: Efficient Lighting Estimation for Mobile Augmented Reality**
 
 *Yiqin Zhao and Tian Guo*
-
-<!-- [&_img]:dark:invert-[0.9] [&_img]:dark:border [&_img]:border-gray-500  -->
 
 [**![](/assets/img/project/point-ar/arxiv-paper-thumbnails.png)**](https://arxiv.org/abs/2004.00006)
 

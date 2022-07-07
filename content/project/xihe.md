@@ -7,8 +7,25 @@ tag: research
 layout: default
 ---
 
-
-<iframe style="width: 100%; height: min(50vw, 400px); margin: 0 auto 2rem auto; display: block;" src="https://www.youtube.com/embed/ovTUDxt86mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+::ProjectHeader
+---
+title: "Xihe: A 3D Vision based Lighting Estimation for Mobile AR"
+venue: MobiSys 2021
+videoLink: https://www.youtube.com/embed/ovTUDxt86mk
+authors:
+    - name: Yiqin Zhao
+      url: https://yiqinzhao.me
+      affiliation: Worcester Polytechnic Institute
+    - name: Tian Guo
+      url: https://tianguo.info
+      affiliation: Worcester Polytechnic Institute
+artifactLinks:
+    paper: https://github.com/cake-lab/Xihe/blob/main/xihe_mobisys21.pdf
+    project: /project/xihe/
+    video: https://www.youtube.com/watch?v=ovTUDxt86mk
+    code: https://github.com/cake-lab/Xihe
+---
+::
 
 # Abstract
 
