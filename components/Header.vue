@@ -13,7 +13,7 @@ const { path } = useRoute()
                     <p class="w-full text-6xl font-bold py-4">Yiqin Zhao</p>
                     <p class="w-full text-xl pl-3 prose dark:prose-invert">
                         赵一勤 | Yiqin (Yi-Chin) <br />
-                        PhD student <a href="https://cake.wpi.edu">@wpicakelab</a> <br />
+                        CS PhD student <a href="https://cake.wpi.edu">@wpicakelab</a> <br />
                         Student Researcher <a href="https://arvr.google.com">@GoogleARVR</a> <br />
                         Research: AR, System, CV, CG
                     </p>

@@ -1,7 +1,10 @@
 <template>
-    <div class="text-center py-8 border-t border-t-gray-700 dark:text-gray-400 max-w-6xl mx-auto">
-        <p>© <a href="https://yiqinzhao.me">Yiqin Zhao</a> {{year}}. Last updated: {{datetime}}</p>
-        <p>Use my website <a class="underline" href="https://github.com/YiqinZhao/yiqinzhao.me-source">template</a>.</p>
+    <div class="dark:bg-gray-800 py-12">
+        <div class="text-center dark:text-gray-400 max-w-6xl mx-auto">
+            <p>© <a href="https://yiqinzhao.me">Yiqin Zhao</a> {{ year }}. Last updated: {{ datetime }}</p>
+            <p>Use my website <a class="underline" href="https://github.com/YiqinZhao/yiqinzhao.me-source">template</a>.
+            </p>
+        </div>
     </div>
 </template>
 

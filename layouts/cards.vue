@@ -18,7 +18,7 @@
                     <div class="p-4 flex flex-col justify-between w-full h-full">
 
                         <div class="uppercase text-xs font-bold opacity-70">{{ article.tag }}</div>
-                        <h1 class="text-bold font-bold text-xl m-0">{{ article.title }}</h1>
+                        <h1 class="text-bold font-bold text-xl m-0 py-4">{{ article.title }}</h1>
 
                         <div class="text-xs opacity-70">{{ article.date }}</div>
                     </div>
@@ -36,4 +36,6 @@
             <!-- <ContentRenderer :value="doc" class="prose dark:prose-invert mx-auto m-8" /> -->
         </ContentList>
     </article>
+
+    <Footer></Footer>
 </template>

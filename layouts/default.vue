@@ -2,7 +2,7 @@
     <Navigator />
     <Header></Header>
 
-    <article class="p-4">
+    <article class="p-4 min-h-[100vh]">
         <ContentDoc v-slot="{ doc }">
             <h1 v-if="!doc.hideTitle"
                 class="dark:text-white text-center text-5xl font-bold mt-0 md:mt-10 max-w-5xl mx-auto">{{ doc.title }}
