@@ -39,7 +39,7 @@ Specifically, we develop a novel sampling technique that efficiently compresses 
 
 *Yiqin Zhao and Tian Guo*
 
-[**![](./arxiv-paper-thumbnails.png)**](https://github.com/cake-lab/Xihe/blob/main/xihe_mobisys21.pdf)
+[**![](/assets/img/project/xihe/arxiv-paper-thumbnails.png)**](https://github.com/cake-lab/Xihe/blob/main/xihe_mobisys21.pdf)
 
 ```bibtex
 @InProceedings{xihe_mobisys2021,

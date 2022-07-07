@@ -48,7 +48,7 @@ defineProps([
             </div>
         </div>
 
-        <iframe width="100%" :src="videoLink" title="YouTube video player" frameborder="0"
+        <iframe class="w-full my-12" :src="videoLink" title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen style="height: min(50vw, 500px)"></iframe>
     </header>

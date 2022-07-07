@@ -1,8 +1,16 @@
 ---
 title: News
-subtitle: "📢 Latest: I'm a Googler now!"
 leadingImage: me-news-google.png
 ---
+
+::MarkdownHeader
+---
+title: News
+subtitle: "📢 Latest: I'm a Googler now!"
+---
+::
+
+![](/assets/img/me-news-google.png)
 
 - **05/17/2022** 🎉 I joined Google as a student researcher intern, hosted by [Sean Fanello](https://www.seanfanello.it)!
 - **03/04/2022** 🎉 I will join Google as a research intern in the summer!

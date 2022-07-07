@@ -1,6 +1,7 @@
 ---
 title: Home
 hideTitle: true
+disableFancyImage: true
 ---
 
 # 🦸🏻‍♂️ About Me

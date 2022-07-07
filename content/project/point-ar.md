@@ -27,8 +27,7 @@ authors:
       affiliation: Worcester Polytechnic Institute
 artifactLinks:
     paper: https://arxiv.org/abs/2004.00006
-    poster: https://github.com/cake-lab/PointAR
-    project: /project/point-ar/
+    poster: /assets/img/project/point-ar/poster.png
     video: https://www.youtube.com/embed/Mg-dFJRPSH4
     code: https://github.com/cake-lab/PointAR
 ---
