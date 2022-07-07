@@ -1,0 +1,80 @@
+---
+title: "PointAR: Efficient Lighting Estimation for Mobile Augmented Reality"
+date: Aug, 2020
+thumbnail: /assets/img/project/point-ar/thumbnail.png
+tag: research
+layout: project
+
+headerImage: /assets/img/project/point-ar/title-bg.svg
+
+authors:
+    - name: Yiqin Zhao
+      url: https://yiqinzhao.me
+      affiliation: Worcester Polytechnic Institute
+    - name: Tian Guo
+      url: https://tianguo.info
+      affiliation: Worcester Polytechnic Institute
+
+venue: ECCV 2020
+
+artifactLinks:
+    paper: https://arxiv.org/abs/2004.00006
+    project: /project/point-ar/
+---
+
+<iframe width="100%" src="https://www.youtube.com/embed/Mg-dFJRPSH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="height: min(50vw, 500px)"></iframe>
+
+## Abstract
+
+We propose an efficient lighting estimation pipeline that is suitable to run on modern mobile devices, with comparable resource complexities to state-of-the-art on-device deep learning models. Our pipeline, referred to as PointAR, takes a single RGB-D image captured from the mobile camera and a 2D location in that image, and estimates a 2nd order spherical harmonics coefficients which can be directly utilized by rendering engines for indoor lighting in the context of augmented reality. Our key insight is to formulate the lighting estimation as a learning problem directly from point clouds, which is in part inspired by the Monte Carlo integration leveraged by real-time spherical harmonics lighting. While existing approaches estimate lighting information with complex deep learning pipelines, our method focuses on reducing the computational complexity. Through both quantitative and qualitative experiments, we demonstrate that PointAR achieves lower lighting estimation errors compared to state-of-the-art methods. Further, our method requires an order of magnitude lower resource, comparable to that of mobile-specific DNNs.
+
+
+## ECCV'20 Paper
+
+**PointAR: Efficient Lighting Estimation for Mobile Augmented Reality**
+
+*Yiqin Zhao and Tian Guo*
+
+<!-- [&_img]:dark:invert-[0.9] [&_img]:dark:border [&_img]:border-gray-500  -->
+
+[**![](/assets/img/project/point-ar/arxiv-paper-thumbnails.png)**](https://arxiv.org/abs/2004.00006)
+
+```bibtex
+@InProceedings{pointar_eccv2020,
+    author="Zhao, Yiqin
+    and Guo, Tian",
+    title="PointAR: Efficient Lighting Estimation for Mobile Augmented Reality",
+    booktitle="European Conference on Computer Vision (ECCV)",
+    year="2020",
+}
+```
+
+We propose an efficient lighting estimation pipeline that is suitable to run on modern mobile devices, with comparable resource complexities to state-of-the-art on-device deep learning models. Our pipeline, referred to as PointAR, takes a single RGB-D image captured from the mobile camera and a 2D location in that image, and estimates a 2nd order spherical harmonics coefficients which can be directly utilized by rendering engines for indoor lighting in the context of augmented reality. Our key insight is to formulate the lighting estimation as a learning problem directly from point clouds, which is in part inspired by the Monte Carlo integration leveraged by real-time spherical harmonics lighting. While existing approaches estimate lighting information with complex deep learning pipelines, our method focuses on reducing the computational complexity. Through both quantitative and qualitative experiments, we demonstrate that PointAR achieves lower lighting estimation errors compared to state-of-the-art methods. Further, our method requires an order of magnitude lower resource, comparable to that of mobile-specific DNNs.
+
+---
+
+## HotMobile'20 Poster
+
+**PointAR: Efficient Lighting Estimation for Mobile Augmented Reality**
+
+*Yiqin Zhao and Tian Guo*
+
+International Workshop on Mobile Computing Systems and Applications (HotMobile'20), Poster
+
+![](/assets/img/project/point-ar/poster.png)
+
+[**![](/assets/img/project/point-ar/poster-paper-thumbnails.png)**](https://hotmobile.org/2020/downloads/hotmobile20-Zhao.pdf)
+
+
+```bibtex
+@article{pointar_hotmobile2020,
+  title={PointAR: Efficient Lighting Estimation for Mobile Augmented Reality},
+  author={Yiqin Zhao and Tian Guo},
+  journal={International Workshop on Mobile Computing Systems and Applications (HotMobile'20)},
+  year={2020},
+}
+```
+
+## Acknowledgement
+
+This work is supported in part by National Science Foundation grants #1755659 and #1815619.

@@ -1,9 +1,15 @@
 <template>
+    <Navigator />
+    <Header></Header>
+
     <article class="p-4">
         <ContentDoc v-slot="{ doc }">
-            <h1 v-if="!doc.hideTitle" class="dark:text-white text-center text-5xl font-bold mt-0 md:mt-10 max-w-prose mx-auto">{{ doc.title }}
+            <h1 v-if="!doc.hideTitle"
+                class="dark:text-white text-center text-5xl font-bold mt-0 md:mt-10 max-w-5xl mx-auto">{{ doc.title }}
             </h1>
-            <h2 v-if="doc.subtitle" class="dark:text-gray-200 text-center text-xl font-normal my-6 max-w-prose mx-auto">{{ doc.subtitle }}
+            <h2 v-if="doc.subtitle" class="dark:text-gray-200 text-center text-xl font-normal my-6 max-w-4xl mx-auto">{{
+                    doc.subtitle
+            }}
             </h2>
 
             <div v-if="doc.leadingImage" class="prose lg:prose-xl mx-auto my-8">
@@ -13,4 +19,6 @@
             <ContentRenderer :value="doc" class="prose dark:prose-invert mx-auto m-8" />
         </ContentDoc>
     </article>
+
+    <Footer></Footer>
 </template>

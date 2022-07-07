@@ -1,5 +1,5 @@
 ---
-title: 3D Vision based Lighting Estimation for Mobile AR
+title: "Xihe: A 3D Vision based Lighting Estimation for Mobile AR"
 date: Aug, 2021
 thumbnail: /assets/img/project/xihe/thumbnail.png
 previewCardDirection: horizontal
@@ -8,7 +8,7 @@ layout: default
 ---
 
 
-<iframe style="width: 100%; height: min(50vw, 600px); margin: 0 auto 2rem auto; display: block;" src="https://www.youtube.com/embed/ovTUDxt86mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width: 100%; height: min(50vw, 400px); margin: 0 auto 2rem auto; display: block;" src="https://www.youtube.com/embed/ovTUDxt86mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Abstract
 
