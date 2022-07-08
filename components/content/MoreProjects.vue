@@ -25,7 +25,7 @@ defineProps([
                         <div class="uppercase text-xs font-bold opacity-70">{{ article.tag }}</div>
                         <h1 class="text-bold font-bold text-sm md:text-xl m-0 py-2 md:py-3">{{ article.title }}</h1>
 
-                        <div class="text-xs opacity-70">{{ article.date }}</div>
+                        <div class="text-xs opacity-70">{{ new Date(article.date).toLocaleDateString() }}</div>
                     </div>
                 </a>
             </div>
