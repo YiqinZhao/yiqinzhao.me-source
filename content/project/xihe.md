@@ -57,3 +57,11 @@ Specifically, we develop a novel sampling technique that efficiently compresses 
 
 We thank all anonymous reviewers, our shepherd, and our artifact evaluator Tianxing Li for their insight feedback.
 This work was supported in part by NSF Grants #1755659 and #1815619.
+
+::MoreProjects
+---
+title: Related Projects
+links:
+  - /project/point-ar
+---
+::

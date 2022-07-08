@@ -1,5 +1,5 @@
 <template>
-    <div class="my-16 md:mt-0">
+    <div class="mb-16">
         <div class="container md:w-[140%] md:ml-[-20%] px-0 md:pt-0">
             <div class="flex py-0 dark:text-white relative justify-end items-center mx-auto">
 

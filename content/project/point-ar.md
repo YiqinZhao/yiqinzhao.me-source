@@ -85,3 +85,11 @@ International Workshop on Mobile Computing Systems and Applications (HotMobile'2
 ## Acknowledgement
 
 This work is supported in part by National Science Foundation grants #1755659 and #1815619.
+
+::MoreProjects
+---
+title: Related Projects
+links:
+  - /project/xihe
+---
+::
