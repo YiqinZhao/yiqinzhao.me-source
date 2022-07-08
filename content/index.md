@@ -4,6 +4,9 @@ hideTitle: true
 disableFancyImage: true
 ---
 
+::IndexHeader
+::
+
 # 🦸🏻‍♂️ About Me
 
 🔊 *My name pounces as: Yi-Chin*

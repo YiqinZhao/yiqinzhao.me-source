@@ -17,25 +17,25 @@ const activeItem = navigatorItems.filter(v => v.active)[0]
 </script>
 
 <template>
-    <div
-        class="hidden md:block text-normal px-4 py-2 dark:text-gray-400 mx-auto dark:bg-gray-800">
+    <div class="hidden md:block text-normal px-4 py-2 dark:text-gray-400 mx-auto dark:bg-gray-800"
+        :class="path === '/' ? 'bg-transparent dark:bg-transparent' : ''">
         <div class="md:flex justify-between max-w-6xl mx-auto">
             <a class="text-xl font-bold hover:text-white transition-colors" href="/">
-            <span :class="{ 'opacity-0': path === '/' }">
-                <img class="inline w-10 dark:invert transition-opacity opacity-60 hover:opacity-100"
-                    src="/assets/img/qin-logo.svg" alt="">
-            </span>
-        </a>
-
-        <div class="flex flex-row justify-center">
-
-            <a class="pl-10 font-medium hover:text-white transition-colors flex items-center"
-                v-for="item in navigatorItems" v-bind:key="item.text" :href="item.path">
-                <span v-if="item.path.split('/')[1] === firstRoute"
-                    class="transition-border text-white border-b-2 border-b-gray-400">{{ item.text }}</span>
-                <span v-else class="transition-border hover:border-b-2 border-b-gray-400">{{ item.text }}</span>
+                <span :class="{ 'opacity-0': path === '/' }">
+                    <img class="inline w-10 dark:invert transition-opacity opacity-60 hover:opacity-100"
+                        src="/assets/img/qin-logo.svg" alt="">
+                </span>
             </a>
-        </div>
+
+            <div class="flex flex-row justify-center">
+
+                <a class="pl-10 font-medium hover:text-white transition-colors flex items-center"
+                    v-for="item in navigatorItems" v-bind:key="item.text" :href="item.path">
+                    <span v-if="item.path.split('/')[1] === firstRoute"
+                        class="transition-border text-white border-b-2 border-b-gray-400">{{ item.text }}</span>
+                    <span v-else class="transition-border hover:border-b-2 border-b-gray-400">{{ item.text }}</span>
+                </a>
+            </div>
         </div>
     </div>
 

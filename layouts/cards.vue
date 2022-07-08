@@ -1,6 +1,5 @@
 <template>
     <Navigator />
-    <Header></Header>
 
     <article class="px-4 py-8 max-w-prose mx-auto flex flex-row flex-wrap justify-between">
         <ContentList v-slot="{ list }" :path="$route.path">
