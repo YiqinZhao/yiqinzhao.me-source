@@ -6,7 +6,7 @@ defineProps([
 
 <template>
 
-    <div class="w-full border-gray-600 border my-12"></div>
+    <div class="w-full dark:border-gray-600 border-gray-200 border my-12"></div>
     <div class="text-2xl font-bold dark:text-white text-black">{{ title }}</div>
 
     <section class="max-w-prose mx-auto flex flex-row flex-wrap justify-between items-center">

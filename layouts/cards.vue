@@ -5,7 +5,8 @@
         <ContentList v-slot="{ list }" :path="$route.path">
             <div v-for="article in (list.sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime()).reverse())"
                 :key="article._path"
-                class="w-full rounded-md bg-gray-100 dark:bg-gray-800 prose dark:prose-invert my-4 flex overflow-hidden flex-col"
+                class="w-full rounded-md bg-gray-100 dark:bg-gray-800 prose dark:prose-invert my-4 flex overflow-hidden flex-col
+                       hover:shadow-lg transition-shadow"
                 :class="article.previewCardDirection === 'horizontal' ? 'md:flex-row' : 'flex-col md:w-[47.5%]'">
 
                 <div class="w-full" :class="article.previewCardDirection === 'horizontal' ? 'md:w-1/2' : ''">

@@ -45,7 +45,7 @@ defineProps([
             <div class="flex flex-row flex-wrap justify-center capitalize">
                 <a class="md:text-xl p-3 no-underline my-2" :href="`${link}`" v-for="(link, name) in artifactLinks"
                     :key="name">
-                    <span class="p-4 bg-neutral-600 hover:bg-slate-700 rounded-md shadow-md transition">
+                    <span class="p-4 bg-neutral-300 dark:bg-neutral-600 hover:dark:bg-slate-700 hover:bg-slate-200 rounded-md shadow-md transition">
                         {{ name }}
                     </span>
                 </a>

@@ -4,7 +4,7 @@
             <div class="flex py-0 dark:text-white relative justify-end items-center mx-auto">
 
                 <div class="w-[55%] hidden md:flex flex-col items-center justify-start shadow-lg
-                            p-12 py-8 z-20 h-fit absolute left-0 dark:bg-neutral-700 bottom-16">
+                            p-12 py-8 z-20 h-fit absolute left-0 bg-neutral-100 dark:bg-neutral-700 bottom-16">
                     <p class="w-full text-6xl font-bold py-4 m-0">Yiqin Zhao</p>
                     <p class="w-full text-xl pl-3 prose dark:prose-invert m-0">
                         赵一勤 | Yiqin (Yi-Chin) <br />
@@ -44,7 +44,7 @@
 
         </div>
 
-        <div class="hidden md:block w-full h-fit p-0 m-0 absolute mx-auto top-0 left-0 z-[-2] dark:bg-neutral-800">
+        <div class="hidden md:block w-full h-fit p-0 m-0 absolute mx-auto top-0 left-0 z-[-2] bg-neutral-200 dark:bg-neutral-800">
             <div class="max-w-prose mt-[3.4rem] opacity-0">
                 <div class="container w-[140%] ml-[-20%] px-0 md:pt-0">
                     <div class="flex py-0 dark:text-white relative justify-end items-center mx-auto">
