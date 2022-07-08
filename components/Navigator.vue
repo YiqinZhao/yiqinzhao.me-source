@@ -39,8 +39,8 @@ const activeItem = navigatorItems.filter(v => v.active)[0]
         </div>
     </div>
 
-    <div class="fixed flex md:hidden flex-row justify-between p-5 text-black dark:text-white bg-gray-100 dark:bg-gray-900 z-30 w-full top-0">
-        <span class="text-xl">{{ activeItem.text }}</span>
+    <div class="fixed flex md:hidden flex-row justify-between p-5 text-black dark:text-white bg-gray-100 dark:bg-gray-900 z-30 w-full top-0 shadow-md">
+        <span class="text-xl font-bold">{{ activeItem.text }}</span>
         <span v-on:click="onMenuButtonClick">
             <img class="inline dark:invert"
                 :src="menuOpen ? '/assets/img/icons/close.svg' : '/assets/img/icons/menu.svg'" alt="">
