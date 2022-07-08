@@ -5,7 +5,7 @@ title: Research
 ::MarkdownHeader
 ---
 title: Research Statement
-subtitle: "📢 NEW: one paper accepted to ACM MM'22, arXiv paper and code coming soon!"
+subtitle: "📢 NEW: one paper accepted to ACM MM'22!"
 ---
 ::
 

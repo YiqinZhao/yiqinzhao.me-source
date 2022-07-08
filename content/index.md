@@ -80,6 +80,7 @@ venue:
     name: 30th ACM International Conference on Multimedia
 artifactLinks:
     paper: https://arxiv.org/abs/2207.03056
+    project: /project/privacy-preserving-reflection
 ---
 ::
 

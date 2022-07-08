@@ -17,5 +17,9 @@
     "nuxt": "^3.0.0-rc.4",
     "postcss": "^8.4.14",
     "tailwindcss": "^3.1.4"
+  },
+  "dependencies": {
+    "rehype-katex": "^5.0.0",
+    "remark-math": "^4.0.0"
   }
 }

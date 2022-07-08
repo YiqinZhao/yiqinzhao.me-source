@@ -4,11 +4,11 @@
     <article class="px-4 pt-16 md:pt-4 p-4 max-w-prose mx-auto flex flex-row flex-wrap justify-between">
         <ContentList v-slot="{ list }" :path="$route.path" :query="{ sort: { date: -1 } }">
             <div v-for="article in list" :key="article._path" class="w-full rounded-md bg-gray-100 dark:bg-gray-800 prose dark:prose-invert my-4 flex overflow-hidden flex-col
-                       hover:shadow-lg transition-shadow"
+                       hover:shadow-lg hover:dark:bg-gray-700 hover:bg-gray-50 [&_img]:hover:opacity-70 transition-[background,shadow]"
                 :class="article.previewCardDirection === 'horizontal' ? 'md:flex-row' : 'flex-col md:w-[47.5%]'">
 
                 <div class="w-full" :class="article.previewCardDirection === 'horizontal' ? 'md:w-1/2' : ''">
-                    <a :href="`${article._path}`"><img class="m-0" :src="article.thumbnail" alt="" /></a>
+                    <a :href="`${article._path}`"><img class="m-0 transition-opacity" :src="article.thumbnail" alt="" /></a>
                 </div>
 
                 <a :href="`${article._path}`" class="h-full decoration-transparent"

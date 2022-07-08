@@ -12,9 +12,9 @@ title: Deep Spectrum Feature Representations for Speech Emotion Recognition
 ---
 ::
 
-Zhao, Ziping and **Zhao, Yiqin** and Bao, Zhongtian and Wang, Haishuai and Zhang, Zixing and Li, Chao
+## Deep Spectrum Feature Representations for Speech Emotion Recognition
 
-**Deep Spectrum Feature Representations for Speech Emotion Recognition**
+Zhao, Ziping and **Zhao, Yiqin** and Bao, Zhongtian and Wang, Haishuai and Zhang, Zixing and Li, Chao
 
 Proceedings of the Joint Workshop of the 4th Workshop on Affective Social Multimedia Computing and first Multi-Modal Affective Computing of Large-Scale Multimedia Data (**ASMMC-MMAC'18**)
 
@@ -45,9 +45,9 @@ Proceedings of the Joint Workshop of the 4th Workshop on Affective Social Multim
 
 ---
 
-Ziping Zhao, Zhongtian Bao, **Yiqin Zhao**, Zixing Zhang, Nicholas Cummins, Zhao Ren, Björn Schuller
+## Exploring Deep Spectrum Representations via Attention-Based Recurrent and Convolutional Neural Networks for Speech Emotion Recognition
 
-**Exploring Deep Spectrum Representations via Attention-Based Recurrent and Convolutional Neural Networks for Speech Emotion Recognition**
+Ziping Zhao, Zhongtian Bao, **Yiqin Zhao**, Zixing Zhang, Nicholas Cummins, Zhao Ren, Björn Schuller
 
 **IEEE Access 2019**
 
@@ -71,9 +71,9 @@ Ziping Zhao, Zhongtian Bao, **Yiqin Zhao**, Zixing Zhang, Nicholas Cummins, Zhao
 ---
 
 
-Ziping Zhao, Yu Zheng, Zixing Zhang, Haishuai Wang, **Yiqin Zhao**, Chao Li.
+## Exploring Spatio-Temporal Representations by Integrating Attention-based Bidirectional-LSTM-RNNs and FCNs for Speech Emotion Recognition
 
-**Exploring Spatio-Temporal Representations by Integrating Attention-based Bidirectional-LSTM-RNNs and FCNs for Speech Emotion Recognition**
+Ziping Zhao, Yu Zheng, Zixing Zhang, Haishuai Wang, **Yiqin Zhao**, Chao Li.
 
 Annual Conference of the International Speech Communication Association, **INTERSPEECH 2018**
 
@@ -88,6 +88,6 @@ Annual Conference of the International Speech Communication Association, **INTER
 }
 ```
 
-# Contact
+## Contact
 
 If you have any questions, please feel free to contact [Yiqin Zhao](mailto:yiqinzhao@outlook.com).

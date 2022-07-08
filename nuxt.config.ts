@@ -20,6 +20,14 @@ export default defineNuxtConfig({
       // See the available themes on https://github.com/shikijs/shiki/blob/main/docs/themes.md#all-theme
       theme: 'dracula',
       preload: ['bibtex']
+    },
+    markdown: {
+      remarkPlugins: [
+        'remark-math'
+      ],
+      rehypePlugins: [
+        ['rehype-katex', { output: 'html' }]
+      ]
     }
   },
   components: [{

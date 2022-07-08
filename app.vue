@@ -15,6 +15,7 @@ useHead({
 <template>
 
   <Link rel="icon" type="image/x-icon" href="/site-icons/favicon.ico"/>
+  <Link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.0/dist/katex.min.css"/>
 
   <NuxtPage></NuxtPage>
 

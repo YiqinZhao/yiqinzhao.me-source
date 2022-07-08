@@ -26,10 +26,10 @@ authors:
       url: https://tianguo.info
       affiliation: Worcester Polytechnic Institute
 artifactLinks:
-    paper: https://arxiv.org/abs/2004.00006
-    poster: /assets/img/project/point-ar/poster.png
-    video: https://www.youtube.com/watch?v=Mg-dFJRPSH4
-    code: https://github.com/cake-lab/PointAR
+    Paper: https://arxiv.org/abs/2004.00006
+    Poster: /assets/img/project/point-ar/poster.png
+    Video: https://www.youtube.com/watch?v=Mg-dFJRPSH4
+    Code: https://github.com/cake-lab/PointAR
 ---
 ::
 

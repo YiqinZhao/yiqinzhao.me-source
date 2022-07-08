@@ -2,7 +2,6 @@
 title: "Xihe: A 3D Vision based Lighting Estimation for Mobile AR"
 date: 2021-08-23
 thumbnail: /assets/img/project/xihe/thumbnail.png
-previewCardDirection: horizontal
 tag: research
 layout: default
 ---
@@ -22,10 +21,9 @@ authors:
       url: https://tianguo.info
       affiliation: Worcester Polytechnic Institute
 artifactLinks:
-    paper: https://github.com/cake-lab/Xihe/blob/main/xihe_mobisys21.pdf
-    project: /project/xihe/
-    video: https://www.youtube.com/watch?v=ovTUDxt86mk
-    code: https://github.com/cake-lab/Xihe
+    Paper: https://github.com/cake-lab/Xihe/blob/main/xihe_mobisys21.pdf
+    Video: https://www.youtube.com/watch?v=ovTUDxt86mk
+    Code: https://github.com/cake-lab/Xihe
 ---
 ::
 
@@ -56,7 +54,7 @@ Specifically, we develop a novel sampling technique that efficiently compresses 
 # Acknowledgement
 
 We thank all anonymous reviewers, our shepherd, and our artifact evaluator Tianxing Li for their insight feedback.
-This work was supported in part by NSF Grants #1755659 and #1815619.
+This work was supported in part by NSF Grants.
 
 ::MoreProjects
 ---
