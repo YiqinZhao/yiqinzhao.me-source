@@ -1,6 +1,6 @@
-# Content v2 Minimal Starter
+# Website Source
 
-Look at the [Content documentation](https://content-v2.nuxtjs.org/) to learn more.
+This repo is built with [Nuxt Content V3](https://content.nuxtjs.org).
 
 ## Setup
 
@@ -38,5 +38,3 @@ Locally preview production build:
 ```bash
 npm run preview
 ```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment) for more information.
