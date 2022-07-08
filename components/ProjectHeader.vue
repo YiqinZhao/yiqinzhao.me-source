@@ -17,13 +17,17 @@ defineProps([
         <div class="prose dark:prose-invert mx-auto md:my-12 pb-6">
 
             <div class="flex flex-row flex-wrap justify-center">
-                <a class="md:text-xl p-3" :href="author.url" v-for="(author, i) in authors" :key="author.name">
-                    {{ author.name }}
-                    <span class="no-underline">
-                        <sup class="no-underline">{{ [... new Set(authors.map(v =>
-                                v.affiliation))].indexOf(author.affiliation)
-                                + 1
-                        }}</sup>{{ i < authors.length - 1 ? ', ' : '' }} </span>
+                <a class="md:text-xl p-3 flex flex-col justify-between items-center" :href="author.url"
+                    v-for="(author, i) in authors" :key="author.name">
+                    <img v-if="author.avatar" class="w-24 m-0 mb-4" :src="author.avatar" alt="">
+                    <div>
+                        <span>{{ author.name }}</span>
+                        <span class="no-underline">
+                            <sup class="no-underline">{{ [... new Set(authors.map(v =>
+                                    v.affiliation))].indexOf(author.affiliation)
+                                    + 1
+                            }}</sup>{{ i < authors.length - 1 ? ', ' : '' }} </span>
+                    </div>
                 </a>
             </div>
 

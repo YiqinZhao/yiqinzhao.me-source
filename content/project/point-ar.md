@@ -28,7 +28,7 @@ authors:
 artifactLinks:
     paper: https://arxiv.org/abs/2004.00006
     poster: /assets/img/project/point-ar/poster.png
-    video: https://www.youtube.com/embed/Mg-dFJRPSH4
+    video: https://www.youtube.com/watch?v=Mg-dFJRPSH4
     code: https://github.com/cake-lab/PointAR
 ---
 ::

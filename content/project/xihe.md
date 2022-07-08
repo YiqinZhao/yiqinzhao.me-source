@@ -14,9 +14,11 @@ venue: MobiSys 2021
 videoLink: https://www.youtube.com/embed/ovTUDxt86mk
 authors:
     - name: Yiqin Zhao
+      avatar: /assets/img/project/xihe/avatars/yiqin.png
       url: https://yiqinzhao.me
       affiliation: Worcester Polytechnic Institute
     - name: Tian Guo
+      avatar: /assets/img/project/xihe/avatars/tian.png
       url: https://tianguo.info
       affiliation: Worcester Polytechnic Institute
 artifactLinks:
