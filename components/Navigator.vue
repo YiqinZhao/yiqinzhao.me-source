@@ -7,7 +7,7 @@ const navigatorItems = [
     { path: '/news/', text: 'News' },
     { path: '/research/', text: 'Research' },
     { path: '/project/', text: 'Projects' },
-    { path: '/blog/', text: 'Blog' },
+    // { path: '/blog/', text: 'Blog' },
     { path: '/yiqinzhao-cv.pdf', text: 'CV' },
 ].map(v => {
     v.active = v.path.split('/')[1] === firstRoute

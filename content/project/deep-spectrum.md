@@ -6,6 +6,12 @@ tag: research
 layout: default
 ---
 
+::MarkdownHeader
+---
+title: Deep Spectrum Feature Representations for Speech Emotion Recognition
+---
+::
+
 Zhao, Ziping and **Zhao, Yiqin** and Bao, Zhongtian and Wang, Haishuai and Zhang, Zixing and Li, Chao
 
 **Deep Spectrum Feature Representations for Speech Emotion Recognition**

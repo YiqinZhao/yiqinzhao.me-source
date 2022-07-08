@@ -9,8 +9,6 @@ subtitle: "📢 NEW: one paper accepted to ACM MM'22, arXiv paper and code comin
 ---
 ::
 
-> TODO: add an image.
-
 I'm a computer science Ph.D. student at [Worcester Polytechnic Institute](https://wpi.edu) and a member of [TheCakeLab](https://cake.wpi.edu).
 My current research interests focus on the algorithm and system designs for novel Augmented Reality (AR) systems.
 Specifically, I have recently worked on several projects on improving the environment lighting estimation accuracy and runtime performance for mobile AR.
