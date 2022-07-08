@@ -22,8 +22,8 @@ Prior to WPI, I obtained my Bachelor's degree in Software Engineering from [Tian
 During my undergraduate study, I worked with [Prof. Ziping Zhao](https://www.researchgate.net/profile/Ziping-Zhao-2) on audio signal processing, speech emotion recognition, and affective computing.
 I was also a software engineer intern at [Baidu](https://baidu.com) during the summer time in 2018.
 In spring 2022, I interned in the [Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html) at [Kuaishou](https://www.kuaishou.com/en), mentored by [Haibin Huang](https://brotherhuang.github.io) and [Chongyang Ma](http://www.chongyangma.com).
-Apart from my research, I love cooking and playing guitar (check my [Instagram](https://www.instagram.com/yiqinzhao1996)).
-More about me at my [blog page](/blog/about-me/).
+<!-- Apart from my research, I love cooking and playing guitar (check my [Instagram](https://www.instagram.com/yiqinzhao1996)).
+More about me at my [blog page](/blog/about-me/). -->
 
 # 📰 News
 
@@ -79,7 +79,7 @@ venue:
     year: 2022
     name: 30th ACM International Conference on Multimedia
 artifactLinks:
-    paper: https://yiqinzhao.me
+    paper: https://arxiv.org/abs/2207.03056
 ---
 ::
 

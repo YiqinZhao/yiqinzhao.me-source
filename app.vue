@@ -16,6 +16,6 @@ useHead({
 
   <Link rel="icon" type="image/x-icon" href="/site-icons/favicon.ico"/>
 
-  <NuxtLayout></NuxtLayout>
+  <NuxtPage></NuxtPage>
 
 </template>

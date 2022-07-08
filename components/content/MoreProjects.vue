@@ -10,9 +10,10 @@ defineProps([
     <div class="text-2xl font-bold dark:text-white text-black">{{ title }}</div>
 
     <section class="max-w-prose mx-auto flex flex-row flex-wrap justify-between items-center">
-        <ContentList v-slot="{ list }" :path="$route.path.split('/').slice(0, 2).join('/') + '/'" :head="false">
-            <div v-for="article in (list.sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime()).reverse().filter(v => links.includes(v._path)))"
-                :key="article._path" class="w-full prose dark:prose-invert md:my-4 flex overflow-hidden flex-row">
+        <ContentList v-slot="{ list }" :path="$route.path.split('/').slice(0, 2).join('/') + '/'" :head="false"
+            :query="{ sort: { date: -1 }, where: { _path: { $in: links } } }">
+            <div v-for="article in list" :key="article._path"
+                class="w-full prose dark:prose-invert md:my-4 flex overflow-hidden flex-row">
 
                 <div class="w-1/4 flex items-center">
                     <a :href="`${article._path}`"><img class="m-0 rounded-md" :src="article.thumbnail" alt="" /></a>

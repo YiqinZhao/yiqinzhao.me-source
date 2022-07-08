@@ -1,6 +1,6 @@
 ---
 title: "Xihe: A 3D Vision based Lighting Estimation for Mobile AR"
-date: Aug, 2021
+date: 2021-08-23
 thumbnail: /assets/img/project/xihe/thumbnail.png
 previewCardDirection: horizontal
 tag: research

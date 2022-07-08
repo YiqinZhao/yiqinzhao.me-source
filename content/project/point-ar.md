@@ -1,6 +1,6 @@
 ---
 title: "PointAR: Efficient Lighting Estimation for Mobile Augmented Reality"
-date: Aug, 2020
+date: 2020-08-25
 thumbnail: /assets/img/project/point-ar/thumbnail.png
 tag: research
 layout: default
