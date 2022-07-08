@@ -224,7 +224,7 @@ GitHub
 
 ::contact-item
 ---
-icon: Twitter
+icon: twitter
 url: https://twitter.com/yiqin_zhao
 ---
 Twitter
@@ -232,7 +232,7 @@ Twitter
 
 ::contact-item
 ---
-icon: Instagram
+icon: instagram
 url: https://www.instagram.com/yiqinzhao1996
 ---
 Instagram
