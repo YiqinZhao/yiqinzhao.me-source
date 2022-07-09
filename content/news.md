@@ -1,6 +1,7 @@
 ---
 title: News
 leadingImage: me-news-google.png
+disableFancyImage: true
 ---
 
 ::MarkdownHeader
