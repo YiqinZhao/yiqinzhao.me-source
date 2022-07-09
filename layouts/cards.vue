@@ -1,10 +1,10 @@
 <template>
     <Navigator />
 
-    <article class="px-4 pt-16 md:pt-4 p-4 max-w-5xl mx-auto flex flex-row flex-wrap justify-between">
+    <article class="p-4 md:pt-8 max-w-5xl mx-auto flex flex-row flex-wrap justify-between">
         <ContentList v-slot="{ list }" :path="$route.path" :query="{ sort: { date: -1 } }">
-            <div v-for="article in list" :key="article._path" class="w-full max-w-none rounded-md md:rounded-xl bg-gray-100 dark:bg-gray-800 prose dark:prose-invert my-4 flex overflow-hidden flex-col
-                       hover:shadow-lg hover:dark:bg-gray-700 hover:bg-gray-50 [&_img]:hover:opacity-70 transition-all isolate"
+            <div v-for="article in list" :key="article._path" class="w-full max-w-none rounded-md md:rounded-xl bg-gray-100 dark:bg-gray-800 prose dark:prose-invert mb-8 flex overflow-hidden flex-col
+                       hover:shadow-lg hover:dark:bg-gray-700 hover:bg-gray-50 [&_img]:hover:opacity-70 transition-[opacity,background] isolate"
                 :class="article.previewCardDirection === 'horizontal' ? 'md:flex-row' : 'flex-col md:w-[48%]'">
 
                 <div class="w-full" :class="article.previewCardDirection === 'horizontal' ? 'md:w-1/2' : ''">
