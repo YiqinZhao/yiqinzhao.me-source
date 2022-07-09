@@ -13,14 +13,14 @@ defineProps([
         <ContentList v-slot="{ list }" :path="$route.path.split('/').slice(0, 2).join('/') + '/'" :head="false"
             :query="{ sort: { date: -1 }, where: { _path: { $in: links } } }">
             <div v-for="article in list" :key="article._path"
-                class="w-full prose dark:prose-invert md:my-4 flex overflow-hidden flex-row [&_img]:hover:opacity-70">
+                class="w-full prose dark:prose-invert md:my-4 flex overflow-hidden flex-row [&_img]:hover:opacity-70 max-w-none">
 
                 <div class="w-1/4 flex items-center">
                     <a :href="`${article._path}`"><img class="m-0 rounded-md transition-opacity" :src="article.thumbnail" alt="" /></a>
                 </div>
 
                 <a :href="`${article._path}`" class="w-3/4 h-full decoration-transparent">
-                    <div class="p-4 flex flex-col justify-between w-full h-full">
+                    <div class="p-4 flex flex-col justify-between w-full h-full [&_h1]:mt-0">
 
                         <div class="uppercase text-xs font-bold opacity-70">{{ article.tag }}</div>
                         <h1 class="text-bold font-bold text-sm md:text-xl m-0 py-2 md:py-3">{{ article.title }}</h1>
