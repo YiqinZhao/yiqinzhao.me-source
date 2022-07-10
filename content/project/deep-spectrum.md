@@ -77,7 +77,7 @@ Ziping Zhao, Yu Zheng, Zixing Zhang, Haishuai Wang, **Yiqin Zhao**, Chao Li.
 
 Annual Conference of the International Speech Communication Association, **INTERSPEECH 2018**
 
-[**![](thumbnail-interspeech-18.png)**](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1477.pdf)
+[**![](/assets/img/project/deep-spectrum/thumbnail-interspeech-18.png)**](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1477.pdf)
 
 ```bibtex
 @article{zhao2018exploring,
