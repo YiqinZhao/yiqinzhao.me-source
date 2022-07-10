@@ -43,9 +43,9 @@ defineProps([
             <div class="text-center p-4 md:p-6 md:text-2xl text-black dark:text-white font-bold">{{ venue }}</div>
 
             <div class="flex flex-row flex-wrap justify-center">
-                <a class="md:text-xl p-3 no-underline my-2" :href="`${link}`" v-for="(link, name) in artifactLinks"
+                <a class="md:text-xl px-3 no-underline my-2" :href="`${link}`" v-for="(link, name) in artifactLinks"
                     :key="name">
-                    <span class="px-4 py-3 bg-neutral-300 dark:bg-neutral-600 hover:dark:bg-slate-700 hover:bg-slate-200 rounded-md shadow-md transition">
+                    <span class="inline-block px-4 py-3 bg-neutral-300 dark:bg-neutral-600 hover:dark:bg-slate-700 hover:bg-slate-200 isolate rounded-md shadow-md transition">
                         {{ name }}
                     </span>
                 </a>
