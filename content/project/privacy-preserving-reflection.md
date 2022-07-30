@@ -2,7 +2,6 @@
 title: "Privacy-preserving Reflection Rendering for Augmented Reality"
 date: 2022-07-08
 thumbnail: /assets/img/project/privacy-preserving-reflection/thumbnail.png
-previewCardDirection: horizontal
 tag: research
 layout: default
 ---
