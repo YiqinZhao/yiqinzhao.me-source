@@ -68,6 +68,26 @@ Sept, 2015 - Jun, 2019
 
 ::PublicationRow
 ---
+title: "LitAR: Visually Coherent Lighting for Mobile Augmented Reality"
+thumbnail: litar-ubicomp22.png
+type: journal
+authors:
+    - Yiqin Zhao
+    - Chongyang Ma
+    - Haibin Huang
+    - Tian Guo
+venue:
+    acronym: IMWUT
+    year: 2022
+    name: "The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
+artifactLinks:
+    Paper: /assets/img/project/litar/litar_imwut22.pdf
+    Code (coming soon): /project/litar/
+---
+::
+
+::PublicationRow
+---
 title: "Privacy-preserving Reflection Rendering for Augmented Reality"
 thumbnail: privacy-preserving-reflection.png
 type: conference
