@@ -40,16 +40,16 @@ Student Researcher\
 May 2022 - Present
 ::
 
-::ExperienceRow{icon=kuaishou.png}
-**Kuaishou Technology, Palo Alto, CA**\
-Research Intern\
-Jan, 2022 - May, 2022
-::
-
 ::ExperienceRow{icon=wpi.png}
 **Worcester Polytechnic Institute, Worcester, MA**\
 Ph.D. Student in [TheCakeLab](https://cake.wpi.edu), advised by [Prof. Tian Guo](https://tianguo.info)\
 Aug 2021 - Present
+::
+
+::ExperienceRow{icon=kuaishou.png}
+**Kuaishou Technology, Palo Alto, CA**\
+Research Intern\
+Jan, 2022 - May, 2022
 ::
 
 ::ExperienceRow{icon=baidu.png}
