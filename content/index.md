@@ -11,17 +11,15 @@ disableFancyImage: true
 
 🔊 *My name pounces as: Yi-Chin*
 
-I am a forth-year Computer Science M.S./Ph.D. student at [Worcester Polytechnic Institute (WPI)](https://wpi.edu) and a proud member of [The Cake Lab](https://cake-lab.github.io) research group.
+I am a fourth-year Computer Science M.S./Ph.D. student at [Worcester Polytechnic Institute (WPI)](https://wpi.edu) and a proud member of [The Cake Lab](https://cake-lab.github.io) research group.
 I feel extremely fortunate to be advised by my kind and wise advisor [Prof. Tian Guo](https://tianguo.info).
 I'm interested in designing system supports and optimizations for Augmented Reality (AR) applications.
 My recent research has a strong focus on designing system support for AR environment lighting understanding and photorealistic rendering.
 
 Prior to WPI, I obtained my Bachelor's degree in Software Engineering from [Tianjin Normal University (TJNU)](https://tjnu.edu.cn), Tianjin, China in 2019.
 During my undergraduate study, I worked with [Prof. Ziping Zhao](https://www.researchgate.net/profile/Ziping-Zhao-2) on audio signal processing, speech emotion recognition, and affective computing.
-I was also a software engineer intern at [Baidu](https://baidu.com) during the summer time in 2018.
-In spring 2022, I interned in the [Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html) at [Kuaishou](https://www.kuaishou.com/en), mentored by [Haibin Huang](https://brotherhuang.github.io) and [Chongyang Ma](http://www.chongyangma.com).
+In the past, I interned at [Baidu](https://baidu.com) (Summer 2018), [Kuaishou Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html) in Spring 2022, and [GoogleVRAR](https://arvr.google.com) in Summer/Fall 2022.
 
-Also check my cross-country (USA) road trip and foods I cooked on my [Instagram](https://www.instagram.com/yiqinzhao1996).
 
 # 📰 News
 
@@ -91,6 +89,7 @@ thumbnail: privacy-preserving-reflection.png
 type: conference
 authors:
     - Yiqin Zhao
+    - Sheng Wei
     - Tian Guo
 venue:
     acronym: ACMMM

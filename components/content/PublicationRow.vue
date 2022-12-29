@@ -21,7 +21,7 @@ defineProps(['title', 'thumbnail', 'authors', 'venue', 'artifactLinks'])
                     </span>
             </div>
             <div class="prose dark:prose-invert [&_p]:my-0">
-                <Markdown />
+                <ContentSlot :use="$slots.default" unwrap="p"/>
             </div>
         </div>
     </div>

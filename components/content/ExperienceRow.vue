@@ -7,7 +7,7 @@ defineProps(['icon'])
         <img :id="`publication-${icon}`" class="mr-4 w-20 my-0" :src="`/assets/img/affiliation/${icon}`" alt="" />
 
         <div class="prose dark:prose-invert [&_p]:my-0">
-            <Markdown />
+            <ContentSlot :use="$slots.default" unwrap="p" />
         </div>
     </div>
 </template>
