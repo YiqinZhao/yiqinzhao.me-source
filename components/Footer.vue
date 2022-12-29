@@ -5,7 +5,7 @@
             <div class="flex-col md:flex-row flex justify-between border-b-2 border-b-gray-300">
                 <div>
                     <p class="text-sm">
-                        赵一勤 | Yiqin (Yi-Chin) <br />
+                        赵一勤 | Yiqin (Pronunciation: Yi-Chin) <br />
                         CS Ph.D. Candidate <a href="https://cake.wpi.edu">@wpicakelab</a> <br />
                         Student Researcher <a href="https//arvr.google.com">@GoogleVRAR</a> <br />
                         Research Interests: Mobile System, AR, CV, CG

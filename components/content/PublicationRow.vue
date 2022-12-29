@@ -10,7 +10,7 @@ defineProps(['title', 'thumbnail', 'authors', 'venue', 'artifactLinks'])
             <div class="dark:text-white  font-bold mt-2 md:mt-0  md:text-lg">{{ title }}</div>
             <div class="pt-1">
                 <span v-for="(author, i) in authors" v-bind:key="author"
-                    v-bind:class="{ 'font-bold underline dark:text-white': author === 'Yiqin Zhao' }">
+                    v-bind:class="{ 'font-bold dark:text-white': author === 'Yiqin Zhao' }">
                     {{ author + (i < authors.length - 1 ? ', ' : '') }} </span>
             </div>
             <div>{{ venue.name }} <b>({{ venue.acronym }}'{{ venue.year % 1000 }})</b></div>

@@ -8,6 +8,13 @@ p {
   text-justify: inter-word;
   line-height: 1.6em;
 }
+
+a {
+  transition: opacity 100ms linear;
+}
+a:hover {
+  opacity: 0.4;
+}
 </style>
 
 <script setup>
