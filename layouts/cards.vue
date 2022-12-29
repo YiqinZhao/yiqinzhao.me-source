@@ -1,8 +1,13 @@
+<script setup lang="ts">
+import type { QueryBuilderParams } from '@nuxt/content/dist/runtime/types'
+const query: QueryBuilderParams = { sort: [{ date: -1 }] }
+</script>
+
 <template>
     <Navigator />
 
     <article class="p-4 md:pt-8 max-w-5xl mx-auto flex flex-row flex-wrap justify-between font-serif">
-        <ContentList v-slot="{ list }" :path="$route.path" :query="{ sort: { date: -1 } }">
+        <ContentList v-slot="{ list }" :path="$route.path" :query="query">
             <div v-for="article in list" :key="article._path" class="w-full max-w-none rounded-sm bg-gray-100 dark:bg-gray-800 prose dark:prose-invert mb-8 flex overflow-hidden flex-col
                        hover:shadow-lg hover:dark:bg-gray-700 hover:bg-gray-50 [&_img]:hover:opacity-70 [&_img]:hover:scale-[1.02] transition-background isolate duration-500"
                 :class="article.previewCardDirection === 'horizontal' ? 'md:flex-row' : 'flex-col md:w-[48%]'">

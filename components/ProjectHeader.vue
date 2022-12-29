@@ -9,7 +9,7 @@ defineProps([
     <header>
         <!-- Title and artifacts. -->
         <div class="flex flex-col md:flex-row justify-between pb-6">
-            <div class="md:w-3/4 border-t-2 border-t-black mt-12 [&_h1]:mt-4">
+            <div class="md:w-3/4 border-t-2 border-t-black mt-4 md:mt-12 [&_h1]:mt-3 [&_h1]:md:mt-4">
                 <h1 v-if="!hideTitle" class="dark:text-white md:text-4xl font-normal max-w-5xl mx-auto">
                     {{ title }}
                 </h1>
