@@ -8,7 +8,7 @@
                     <p class="w-full text-6xl py-4 m-0">Yiqin Zhao</p>
                     <p class="w-full text-xl pl-3 prose dark:prose-invert m-0">
                         赵一勤 | Yiqin (Pronunciation: Yi-Chin) <br />
-                        CS PhD student <a href="https://cake.wpi.edu">@wpicakelab</a> <br />
+                        CS Ph.D. candidate <a href="https://cake.wpi.edu">@wpicakelab</a> <br />
                         Student Researcher <a href="https://arvr.google.com">@GoogleARVR</a> <br />
                         Research: AR, System, CV, CG
                     </p>
