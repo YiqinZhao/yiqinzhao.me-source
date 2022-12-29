@@ -44,3 +44,13 @@ We thank the anonymous reviewers for their constructive reviews. This work was s
 ## News
 
 - **July 29, 2022** website is online now.
+
+::MoreProjects
+---
+title: Related Projects
+links:
+  - /project/privacy-preserving-reflection
+  - /project/xihe
+  - /project/point-ar
+---
+::
