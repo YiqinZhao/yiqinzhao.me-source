@@ -47,7 +47,7 @@ defineProps([
                 <div class="md:pt-6 md:text-sm text-black dark:text-white font-normal opacity-60 italic">Accepted by <strong>{{ venue }}</strong>.</div>
             </div>
 
-            <div class="md:w-1/5 mt-12 border-t-2 border-t-black">
+            <div class="md:w-1/5 mt-12 md:border-t-2 border-t-black">
                 <div class="flex flex-row flex-wrap justify-center">
                     <a class="w-full md:text-xl no-underline mt-2" :href="`${link}`" v-for="(link, name) in artifactLinks"
                         :key="name">
