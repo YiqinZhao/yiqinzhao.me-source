@@ -11,7 +11,9 @@ p {
 
 a {
   transition: opacity 100ms linear;
+  text-decoration-color: rgba(0, 0, 0, 0.4) !important;
 }
+
 a:hover {
   opacity: 0.4;
 }
