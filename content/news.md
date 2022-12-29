@@ -7,14 +7,16 @@ disableFancyImage: true
 ::MarkdownHeader
 ---
 title: News
-subtitle: "📢 Latest: I jointed Google as an intern!"
+subtitle: "📢 Latest: I'm a Ph.D. candidate now!"
 ---
 ::
 
 ![](/assets/img/me-news-google.png)
 
 - **12/15/2022** 🎉 Passed my classes and research qualifications, I'm a Ph.D. candidate now!
-- **05/17/2022** 🎉 I joined Google as a student researcher intern, hosted by [Sean Fanello](https://www.seanfanello.it)!
+- **01/18/2022** 🎉 I joined the [Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html) as a research intern.
+- **05/17/2022** 🎉 Our paper [LitAR](/project/litar) is accepted by UbiComp 2022!
+- **05/17/2022** 🎉 Our paper [Privacy-preserving Reflection Rendering for Augmented Reality](/project/privacy-preserving-reflection) is accepted by ACM MM 2022!
 - **03/04/2022** 🎉 I will join Google as a research intern in the summer!
 - **01/18/2022** 🎉 I joined the [Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html) as a research intern.
 - **05/24/2021** ✨ We just released the [Xihe](/project/point-ar) source code! Check our [GitHub](https://github.com/cake-lab/Xihe) repo.
