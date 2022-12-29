@@ -2,7 +2,7 @@
     <div class="bg-gray-100 dark:bg-gray-800 py-4">
         <div class="prose mx-auto dark:prose-invert p-4 md:text-lg opacity-60">
 
-            <div class="flex justify-between border-b-2 border-b-gray-700">
+            <div class="flex-col md:flex-row flex justify-between border-b-2 border-b-gray-300">
                 <div>
                     <p class="text-sm">
                         赵一勤 | Yiqin (Yi-Chin) <br />
@@ -13,7 +13,7 @@
                 </div>
 
                 <div>
-                    <p class="text-sm text-right">
+                    <p class="text-sm md:text-right [&_br]:hidden [&_br]:md:inline">
                         <a href="mailto:yiqinzhao.me">E-Mail</a> <br />
                         <a href="https://github.com/YiqinZhao">GitHub</a> <br />
                         <a href="https://twitter.com/yiqin_zhao">Twitter</a> <br />

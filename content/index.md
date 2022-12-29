@@ -13,7 +13,7 @@ disableFancyImage: true
 
 I am a fourth-year Computer Science M.S./Ph.D. student at [Worcester Polytechnic Institute (WPI)](https://wpi.edu) and a proud member of [The Cake Lab](https://cake-lab.github.io) research group.
 I feel extremely fortunate to be advised by my kind and wise advisor [Prof. Tian Guo](https://tianguo.info).
-I'm interested in designing system supports and optimizations for Augmented Reality (AR) applications.
+I am interested in designing system supports and optimizations for Augmented Reality (AR) applications.
 My recent research has a strong focus on designing system support for AR environment lighting understanding and photorealistic rendering.
 
 Prior to WPI, I obtained my Bachelor's degree in Software Engineering from [Tianjin Normal University (TJNU)](https://tjnu.edu.cn), Tianjin, China in 2019.

@@ -1,6 +1,12 @@
 <style lang="postcss">
 body {
-  @apply bg-gray-50 dark:bg-gray-900;
+  @apply bg-[#FAFAF9] dark:bg-gray-900;
+}
+
+p {
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.6em;
 }
 </style>
 
@@ -17,8 +23,8 @@ useHead({
   <Link rel="icon" type="image/x-icon" href="/site-icons/favicon.ico"/>
   <Link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.0/dist/katex.min.css"/>
 
-  <Meta name="theme-color" content="#f5f5f4" media="(prefers-color-scheme: light)"/>
-  <Meta name="theme-color" content="#292525" media="(prefers-color-scheme: dark)"/>
+  <!-- <Meta name="theme-color" content="#f5f5f4" media="(prefers-color-scheme: light)"/> -->
+  <!-- <Meta name="theme-color" content="#292525" media="(prefers-color-scheme: dark)"/> -->
 
   <NuxtPage></NuxtPage>
 

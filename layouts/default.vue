@@ -3,14 +3,14 @@ const { page } = useContent()
 </script>
 
 <template>
-    <Navigator />
+    <Navigator class="font-sans" />
 
     <article class="pb-8 min-h-[100vh]
                     [&_header]:md:max-w-[140%] [&_header]:md:mx-[-20%]
-                    [&_pre]:md:max-w-[140%] [&_pre]:md:mx-[-20%]"
+                    [&_pre]:md:max-w-[140%] [&_pre]:md:mx-[-20%] font-serif"
         :class="page.disableFancyImage ? '' : '[&_p_img]:md:max-w-[140%] [&_p_img]:md:mx-[-20%]'">
         <ContentDoc v-slot="{ doc }">
-            <ContentRenderer :value="doc" class="prose dark:prose-invert mx-auto p-4 md:text-lg [&_h1]:mt-12" />
+            <ContentRenderer :value="doc" class="prose dark:prose-invert mx-auto p-4 md:text-xl [&_h1]:mt-12" />
         </ContentDoc>
     </article>
 
