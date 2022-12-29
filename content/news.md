@@ -7,7 +7,7 @@ disableFancyImage: true
 ::MarkdownHeader
 ---
 title: News
-subtitle: "📢 Latest: I'm a Googler now!"
+subtitle: "📢 Latest: I jointed Google as an intern!"
 ---
 ::
 
