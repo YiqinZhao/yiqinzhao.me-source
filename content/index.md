@@ -222,9 +222,24 @@ artifactLinks:
 ---
 ::
 
-# Services
+# ❤️ Services and Awards
+
+**Academic services**
 
 -  UbiComp 2022 student volunteer.
+
+**Awards**
+
+- ACM HotMobile 2020 Student Travel Grant.
+- China Collegiate Computing Contest, jointly held by Tsinghua University, Zhejiang University and Apple, Inc.
+    - 2017 national third prize, top 6%
+    - 2016 national third prize, top 10%
+- University Scholarship, Tianjin Normal University
+    - 2018 - 2019 academic first grade scholarship, top 10%
+    - Wang Kechang Culture and Technology Innovation Scholarship, ≤ 1%
+    - 2017 - 2018 academic year top grade scholarship, top 5%
+    - 2016 - 2017 academic year second grade scholarship, top 20%
+    - 2015 - 2016 academic year first grade scholarship, top 10%
 
 # 📧 Contacts
 
