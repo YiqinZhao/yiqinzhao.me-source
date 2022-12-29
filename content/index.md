@@ -18,7 +18,7 @@ My recent research has a strong focus on designing system support for AR environ
 
 Prior to WPI, I obtained my Bachelor's degree in Software Engineering from [Tianjin Normal University (TJNU)](https://tjnu.edu.cn), Tianjin, China in 2019.
 During my undergraduate study, I worked with [Prof. Ziping Zhao](https://www.researchgate.net/profile/Ziping-Zhao-2) on audio signal processing, speech emotion recognition, and affective computing.
-In the past, I interned at [Baidu](https://baidu.com) (Summer 2018), [Kuaishou Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html) in Spring 2022, and [GoogleVRAR](https://arvr.google.com) in Summer/Fall 2022.
+In the past, I interned at [Baidu](https://baidu.com) (Summer 2018), [Kuaishou Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html) in Spring 2022, and [GoogleARVR](https://arvr.google.com) in Summer/Fall 2022.
 
 
 ## 📰 News
