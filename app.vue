@@ -15,6 +15,22 @@ a {
 a:hover {
   opacity: 0.4;
 }
+
+h2 a {
+  text-decoration: none !important;
+  font-weight: 900 !important;
+}
+
+h2 a:before {
+  display: block;
+  width: 100px;
+  max-width: 100%;
+
+  border-top: 1px solid rgba(0, 0, 0, 1);
+  padding-bottom: 0.2em;
+
+  content: "";
+}
 </style>
 
 <script setup>

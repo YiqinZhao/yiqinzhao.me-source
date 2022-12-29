@@ -7,7 +7,7 @@ disableFancyImage: true
 ::IndexHeader
 ::
 
-# 🦸🏻‍♂️ About Me
+## 🦸🏻‍♂️ About Me
 
 🔊 *My name pounces as: Yi-Chin*
 
@@ -21,14 +21,14 @@ During my undergraduate study, I worked with [Prof. Ziping Zhao](https://www.res
 In the past, I interned at [Baidu](https://baidu.com) (Summer 2018), [Kuaishou Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html) in Spring 2022, and [GoogleVRAR](https://arvr.google.com) in Summer/Fall 2022.
 
 
-# 📰 News
+## 📰 News
 
 ::ShortNews
 ::
 
 [More news >>>](/news/)
 
-# 🥷 Experiences
+## 🥷 Experiences
 
 ::ExperienceRow{icon=google.png}
 **Google, Mountain View, CA**\
@@ -60,7 +60,7 @@ Bachelor of Engineering in Software Engineering\
 Sept, 2015 - Jun, 2019
 ::
 
-# 📄 Publications
+## 📄 Publications
 
 ::PublicationRow
 ---
@@ -222,7 +222,7 @@ artifactLinks:
 ---
 ::
 
-# ❤️ Services and Awards
+## ❤️ Services and Awards
 
 **Academic services**
 
@@ -241,7 +241,7 @@ artifactLinks:
     - 2016 - 2017 academic year second grade scholarship, top 20%
     - 2015 - 2016 academic year first grade scholarship, top 10%
 
-# 📧 Contacts
+## 📧 Contacts
 
 ::contact-item
 ---
