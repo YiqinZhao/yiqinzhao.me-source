@@ -22,7 +22,7 @@ defineProps([
                 <a :href="`${article._path}`" class="w-3/4 h-full decoration-transparent">
                     <div class="p-4 flex flex-col justify-between w-full h-full">
 
-                        <div class="text-bold font-bold text-sm md:text-xl m-0 py-2 md:py-3">{{ article.title }}</div>
+                        <div class="text-sm md:text-xl m-0 py-2 md:py-3">{{ article.title }}</div>
 
                         <div class="text-xs opacity-70">{{ new Date(article.date).toLocaleDateString() }}</div>
                     </div>
