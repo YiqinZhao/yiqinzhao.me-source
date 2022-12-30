@@ -9,5 +9,6 @@
         "Nuxt",
         "xihe"
     ],
-    "explorer.excludeGitIgnore": true
+    "explorer.excludeGitIgnore": true,
+    "nuxt.isNuxtApp": true
 }
