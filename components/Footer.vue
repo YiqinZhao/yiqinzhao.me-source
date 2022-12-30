@@ -14,7 +14,7 @@
 
                 <div>
                     <p class="text-sm md:text-right [&_br]:hidden [&_br]:md:inline">
-                        <a href="mailto:yiqinzhao.me">E-Mail</a> <br />
+                        <a href="mailto:yiqinzhao@outlook.com">E-Mail</a> <br />
                         <a href="https://github.com/YiqinZhao">GitHub</a> <br />
                         <a href="https://twitter.com/yiqin_zhao">Twitter</a> <br />
                         <a href="https://www.instagram.com/yiqinzhao1996">Instagram</a> <br />
