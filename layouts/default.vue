@@ -5,7 +5,7 @@ const { page } = useContent()
 <template>
     <Navigator class="font-sans" />
 
-    <article class="pb-8 min-h-[100vh]
+    <article class="pb-16 min-h-[100vh]
                     [&_header]:md:max-w-[140%] [&_header]:md:mx-[-20%]
                     [&_pre]:md:text-xs
                     font-serif"
