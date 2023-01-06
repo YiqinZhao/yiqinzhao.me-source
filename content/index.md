@@ -64,6 +64,24 @@ Sept, 2015 - Jun, 2019
 
 ::PublicationRow
 ---
+title: "Multi-Camera Lighting Estimation for Photorealistic Front-Facing Mobile Augmented Reality"
+thumbnail: dual-light-hotmobile2023.png
+type: conference
+authors:
+    - Yiqin Zhao
+    - Sean Fanello
+    - Tian Guo
+venue:
+    acronym: HotMobile
+    year: 2023
+    name: "The Twenty-fourth International Workshop on Mobile Computing Systems and Applications"
+artifactLinks:
+    Paper (coming soon): /
+---
+::
+
+::PublicationRow
+---
 title: "LitAR: Visually Coherent Lighting for Mobile Augmented Reality"
 thumbnail: litar-ubicomp22.png
 type: journal

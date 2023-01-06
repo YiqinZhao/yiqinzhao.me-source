@@ -10,5 +10,5 @@
         "xihe"
     ],
     "explorer.excludeGitIgnore": true,
-    "nuxt.isNuxtApp": true
+    "nuxt.isNuxtApp": false
 }
