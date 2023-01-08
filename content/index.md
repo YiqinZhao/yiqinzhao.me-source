@@ -39,7 +39,7 @@ May 2022 - Present
 ::ExperienceRow{icon=wpi.png}
 **Worcester Polytechnic Institute, Worcester, MA**\
 Ph.D. Student in [TheCakeLab](https://cake.wpi.edu), advised by [Prof. Tian Guo](https://tianguo.info)\
-Aug 2021 - Present
+Aug 2021 - Dec, 2022
 ::
 
 ::ExperienceRow{icon=kuaishou.png}
