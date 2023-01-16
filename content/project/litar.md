@@ -11,6 +11,7 @@ layout: default
 ---
 title: "LitAR: Visually Coherent Lighting for Mobile Augmented Reality"
 venue: UbiComp 2022 (IMWUT 2022)
+videoLink: https://www.youtube.com/embed/tpvCqiFV9sM
 authors:
     - name: Yiqin Zhao
       url: https://yiqinzhao.me
@@ -30,7 +31,7 @@ artifactLinks:
 ---
 ::
 
-![](/assets/img/project/litar/teaser.png)
+<!-- ![](/assets/img/project/litar/teaser.png) -->
 
 ## Abstract
 
