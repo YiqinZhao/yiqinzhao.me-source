@@ -26,7 +26,7 @@ authors:
       url: https://tianguo.info
       affiliation: Worcester Polytechnic Institute
 artifactLinks:
-    Paper: /assets/img/project/litar/litar_imwut22.pdf
+    arXiv: https://arxiv.org/pdf/2301.06184.pdf
     Code (coming soon): /project/litar/
 ---
 ::

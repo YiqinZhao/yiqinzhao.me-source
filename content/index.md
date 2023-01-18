@@ -76,7 +76,7 @@ venue:
     year: 2023
     name: "The Twenty-fourth International Workshop on Mobile Computing Systems and Applications"
 artifactLinks:
-    Paper (coming soon): /
+    Paper: https://arxiv.org/pdf/2301.06143.pdf
 ---
 ::
 
@@ -95,7 +95,7 @@ venue:
     year: 2022
     name: "The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
 artifactLinks:
-    Paper: /assets/img/project/litar/litar_imwut22.pdf
+    Paper: https://arxiv.org/pdf/2301.06184.pdf
     Code (coming soon): /project/litar/
 ---
 ::
