@@ -248,6 +248,7 @@ artifactLinks:
 
 **Awards**
 
+- ACM HotMobile 2023 Student Travel Grant.
 - ACM HotMobile 2020 Student Travel Grant.
 - China Collegiate Computing Contest, jointly held by Tsinghua University, Zhejiang University and Apple, Inc.
     - 2017 national third prize, top 6%

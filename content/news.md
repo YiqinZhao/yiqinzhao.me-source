@@ -13,6 +13,7 @@ subtitle: "📢 Latest: I'm a Ph.D. candidate now!"
 
 ![](/assets/img/me-news-google.png)
 
+- **12/15/2022** 🎉 Received student travel grant from HotMobile 2023, thank you!
 - **12/15/2022** 🎉 Passed my classes and research qualifications, I'm a Ph.D. candidate now!
 - **12/09/2022** 🎉 One paper accepted by HotMobile 2023!
 - **01/18/2022** 🎉 I joined the [Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html) as a research intern.
