@@ -34,7 +34,7 @@ const query: QueryBuilderParams = { sort: [{ date: -1 }] }
             </template>
 
             <template #not-found>
-                <div></div>
+                <div class="h-screen w-full"></div>
             </template>
 
         </ContentList>
