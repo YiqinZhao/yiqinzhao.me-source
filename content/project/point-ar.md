@@ -30,6 +30,7 @@ artifactLinks:
     Paper: https://link.springer.com/chapter/10.1007/978-3-030-58592-1_40
     Poster: /assets/img/project/point-ar/poster.png
     Video: https://www.youtube.com/watch?v=Mg-dFJRPSH4
+    Slides: https://1drv.ms/b/s!AoSPO4UGy118lLJzZPQKoMEl4c7vHA?e=HnVhsv
     Code: https://github.com/cake-lab/PointAR
 ---
 ::

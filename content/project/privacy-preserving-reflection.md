@@ -22,6 +22,7 @@ authors:
       affiliation: Worcester Polytechnic Institute
 artifactLinks:
     arXiv: https://arxiv.org/pdf/2207.03056.pdf
+    Slides: https://1drv.ms/p/s!AoSPO4UGy118lLJvuTFPetG2NDtdtw?e=ZtQYWm
     Code (coming soon): /project/privacy-preserving-reflection/
 headline: 📢 code release coming soon!
 ---

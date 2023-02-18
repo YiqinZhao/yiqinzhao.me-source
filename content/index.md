@@ -75,6 +75,7 @@ venue:
     year: 2023
     name: "The Twenty-fourth International Workshop on Mobile Computing Systems and Applications"
 artifactLinks:
+    Poster: https://1drv.ms/b/s!AoSPO4UGy118lLJ0ddd6zyOkUmCDBg?e=YctJPs
     Paper: https://arxiv.org/pdf/2301.06143.pdf
 ---
 ::
@@ -95,6 +96,7 @@ venue:
     name: "The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
 artifactLinks:
     Paper: https://arxiv.org/pdf/2301.06184.pdf
+    Slides: https://1drv.ms/p/s!AoSPO4UGy118lLJtq-nwxkcswqpBFw?e=FuyWkW
     Code (coming soon): /project/litar/
 ---
 ::
@@ -113,7 +115,8 @@ venue:
     year: 2022
     name: 30th ACM International Conference on Multimedia
 artifactLinks:
-    paper: https://arxiv.org/abs/2207.03056
+    Paper: https://arxiv.org/abs/2207.03056
+    Slides: https://1drv.ms/p/s!AoSPO4UGy118lLJvuTFPetG2NDtdtw?e=ZtQYWm
     project: /project/privacy-preserving-reflection
 ---
 ::
@@ -131,7 +134,8 @@ venue:
     year: 2022
     name: IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
 artifactLinks:
-    paper: https://ieeexplore.ieee.org/document/9757380
+    Paper: https://ieeexplore.ieee.org/document/9757380
+    Poster: https://1drv.ms/b/s!AoSPO4UGy118lLJwKAj94bdXews6Tw?e=e7feW8
 ---
 ::
 
@@ -149,8 +153,9 @@ venue:
     year: 2021
     name: The 19th ACM International Conference on Mobile Systems, Applications, and Services
 artifactLinks:
-    paper: https://dl.acm.org/doi/10.1145/3458864.3467886?cid=99659479290
-    project: /project/xihe/
+    Paper: https://dl.acm.org/doi/10.1145/3458864.3467886?cid=99659479290
+    Slides: https://1drv.ms/b/s!AoSPO4UGy118lLJxnEXH31vwb9rzVw?e=kc8h4c
+    Project: /project/xihe/
 ---
 ::
 
@@ -167,8 +172,9 @@ venue:
     year: 2020
     name: 16th European Conference on Computer Vision
 artifactLinks:
-    paper: https://arxiv.org/abs/2004.00006
-    project: /project/point-ar/
+    Paper: https://arxiv.org/abs/2004.00006
+    Slides: https://1drv.ms/b/s!AoSPO4UGy118lLJzZPQKoMEl4c7vHA?e=HnVhsv
+    Project: /project/point-ar/
 ---
 ::
 
