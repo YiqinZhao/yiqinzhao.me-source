@@ -75,7 +75,7 @@ venue:
     year: 2023
     name: "The Twenty-fourth International Workshop on Mobile Computing Systems and Applications"
 artifactLinks:
-    Poster: https://1drv.ms/b/s!AoSPO4UGy118lLJ0ddd6zyOkUmCDBg?e=YctJPs
+    Poster: https://drive.google.com/file/d/1KtCARV-pV8DKFMGCRE0Qw6rgR3esFdX6/view?usp=sharing
     Paper: https://arxiv.org/pdf/2301.06143.pdf
 ---
 ::
@@ -96,7 +96,7 @@ venue:
     name: "The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
 artifactLinks:
     Paper: https://arxiv.org/pdf/2301.06184.pdf
-    Slides: https://1drv.ms/p/s!AoSPO4UGy118lLJtq-nwxkcswqpBFw?e=FuyWkW
+    Slides: https://docs.google.com/presentation/d/1wrHaZorkVvMyE2NENwS43vlrEm2Vt4iaAH3X-wsYBuE/edit?usp=sharing
     Code (coming soon): /project/litar/
 ---
 ::
@@ -116,7 +116,7 @@ venue:
     name: 30th ACM International Conference on Multimedia
 artifactLinks:
     Paper: https://arxiv.org/abs/2207.03056
-    Slides: https://1drv.ms/p/s!AoSPO4UGy118lLJvuTFPetG2NDtdtw?e=ZtQYWm
+    Slides: https://docs.google.com/presentation/d/1goYpS9PXr0YLLPQUJcF9P-q8n0iV1A1UvReFDSuV3dk/edit?usp=sharing
     project: /project/privacy-preserving-reflection
 ---
 ::
@@ -135,7 +135,7 @@ venue:
     name: IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
 artifactLinks:
     Paper: https://ieeexplore.ieee.org/document/9757380
-    Poster: https://1drv.ms/b/s!AoSPO4UGy118lLJwKAj94bdXews6Tw?e=e7feW8
+    Poster: https://drive.google.com/file/d/1HeFelhKlv2ZXxKI-hCxk4pI_4-v_26KA/view?usp=sharing
 ---
 ::
 
@@ -154,7 +154,7 @@ venue:
     name: The 19th ACM International Conference on Mobile Systems, Applications, and Services
 artifactLinks:
     Paper: https://dl.acm.org/doi/10.1145/3458864.3467886?cid=99659479290
-    Slides: https://1drv.ms/b/s!AoSPO4UGy118lLJxnEXH31vwb9rzVw?e=kc8h4c
+    Slides: https://drive.google.com/file/d/1iWW6l6XQu_LL-EuA323jecwnVPOa3mWa/view?usp=sharing
     Project: /project/xihe/
 ---
 ::
@@ -173,7 +173,7 @@ venue:
     name: 16th European Conference on Computer Vision
 artifactLinks:
     Paper: https://arxiv.org/abs/2004.00006
-    Slides: https://1drv.ms/b/s!AoSPO4UGy118lLJzZPQKoMEl4c7vHA?e=HnVhsv
+    Slides: https://drive.google.com/file/d/1NUHDf3uxNuXwvqFjXw6BGFADgQdOc9tp/view?usp=sharing
     Project: /project/point-ar/
 ---
 ::

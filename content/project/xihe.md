@@ -23,7 +23,7 @@ authors:
 artifactLinks:
     Paper: https://github.com/cake-lab/Xihe/blob/main/xihe_mobisys21.pdf
     Video: https://www.youtube.com/watch?v=ovTUDxt86mk
-    Slides: https://1drv.ms/b/s!AoSPO4UGy118lLJxnEXH31vwb9rzVw?e=kc8h4c
+    Slides: https://drive.google.com/file/d/1iWW6l6XQu_LL-EuA323jecwnVPOa3mWa/view?usp=sharing
     Code: https://github.com/cake-lab/Xihe
 ---
 ::

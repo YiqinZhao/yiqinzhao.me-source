@@ -27,7 +27,7 @@ authors:
       affiliation: Worcester Polytechnic Institute
 artifactLinks:
     arXiv: https://arxiv.org/pdf/2301.06184.pdf
-    Slides: https://1drv.ms/p/s!AoSPO4UGy118lLJtq-nwxkcswqpBFw?e=FuyWkW
+    Slides: https://docs.google.com/presentation/d/1wrHaZorkVvMyE2NENwS43vlrEm2Vt4iaAH3X-wsYBuE/edit?usp=sharing
     Code (coming soon): /project/litar/
 ---
 ::
