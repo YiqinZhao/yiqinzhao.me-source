@@ -75,9 +75,10 @@ venue:
     year: 2023
     name: "The Twenty-fourth International Workshop on Mobile Computing Systems and Applications"
 artifactLinks:
-    Slides: https://docs.google.com/presentation/d/1Hu4WWFL4gnMPgSf68ntfeSme2KnY3MQKopG9w4BirQI/edit?usp=sharing
+    Paper: https://dl.acm.org/doi/10.1145/3572864.3580337
+    arXiv: https://arxiv.org/pdf/2301.06143.pdf
     Poster: https://drive.google.com/file/d/1KtCARV-pV8DKFMGCRE0Qw6rgR3esFdX6/view?usp=sharing
-    Paper: https://arxiv.org/pdf/2301.06143.pdf
+    Slides: https://docs.google.com/presentation/d/1Hu4WWFL4gnMPgSf68ntfeSme2KnY3MQKopG9w4BirQI/edit?usp=sharing
 ---
 ::
 
@@ -96,9 +97,11 @@ venue:
     year: 2022
     name: "The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
 artifactLinks:
-    Paper: https://arxiv.org/pdf/2301.06184.pdf
+    Paper: https://dl.acm.org/doi/abs/10.1145/3550291
+    arXiv: https://arxiv.org/pdf/2301.06184.pdf
     Slides: https://docs.google.com/presentation/d/1wrHaZorkVvMyE2NENwS43vlrEm2Vt4iaAH3X-wsYBuE/edit?usp=sharing
     Code (coming soon): /project/litar/
+    Project: /project/litar/
 ---
 ::
 
@@ -116,9 +119,10 @@ venue:
     year: 2022
     name: 30th ACM International Conference on Multimedia
 artifactLinks:
-    Paper: https://arxiv.org/abs/2207.03056
+    arXiv: https://arxiv.org/abs/2207.03056
+    Paper: https://dl.acm.org/doi/abs/10.1145/3503161.3548386
     Slides: https://docs.google.com/presentation/d/1goYpS9PXr0YLLPQUJcF9P-q8n0iV1A1UvReFDSuV3dk/edit?usp=sharing
-    project: /project/privacy-preserving-reflection
+    Project: /project/privacy-preserving-reflection
 ---
 ::
 
@@ -155,6 +159,7 @@ venue:
     name: The 19th ACM International Conference on Mobile Systems, Applications, and Services
 artifactLinks:
     Paper: https://dl.acm.org/doi/10.1145/3458864.3467886?cid=99659479290
+    arXiv: https://arxiv.org/abs/2106.15280
     Slides: https://drive.google.com/file/d/1iWW6l6XQu_LL-EuA323jecwnVPOa3mWa/view?usp=sharing
     Project: /project/xihe/
 ---
@@ -174,6 +179,7 @@ venue:
     name: 16th European Conference on Computer Vision
 artifactLinks:
     Paper: https://arxiv.org/abs/2004.00006
+    arXiv: https://arxiv.org/abs/2004.00006
     Slides: https://drive.google.com/file/d/1NUHDf3uxNuXwvqFjXw6BGFADgQdOc9tp/view?usp=sharing
     Project: /project/point-ar/
 ---
@@ -197,8 +203,8 @@ venue:
     year: 2019
     name: "IEEE Access"
 artifactLinks:
-    paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8762126
-    project: /project/deep-spectrum/
+    Paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8762126
+    Project: /project/deep-spectrum/
 ---
 ::
 
@@ -219,8 +225,8 @@ venue:
     year: 2018
     name: "4th Workshop on Affective Social Multimedia Computing and first Multi-Modal Affective Computing of Large-Scale Multimedia Data"
 artifactLinks:
-    paper: https://dl.acm.org/citation.cfm?doid=3267935.3267948
-    project: /project/deep-spectrum/
+    Paper: https://dl.acm.org/citation.cfm?doid=3267935.3267948
+    Project: /project/deep-spectrum/
 ---
 ::
 
@@ -241,8 +247,8 @@ venue:
     year: 2018
     name: "Annual Conference of the International Speech Communication Association"
 artifactLinks:
-    paper: https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1477.pdf
-    project: /project/deep-spectrum/
+    Paper: https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1477.pdf
+    Project: /project/deep-spectrum/
 ---
 ::
 
