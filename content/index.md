@@ -75,6 +75,7 @@ venue:
     year: 2023
     name: "The Twenty-fourth International Workshop on Mobile Computing Systems and Applications"
 artifactLinks:
+    Slides: https://docs.google.com/presentation/d/1Hu4WWFL4gnMPgSf68ntfeSme2KnY3MQKopG9w4BirQI/edit?usp=sharing
     Poster: https://drive.google.com/file/d/1KtCARV-pV8DKFMGCRE0Qw6rgR3esFdX6/view?usp=sharing
     Paper: https://arxiv.org/pdf/2301.06143.pdf
 ---
