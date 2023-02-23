@@ -4,7 +4,7 @@ defineProps(['title', 'thumbnail', 'authors', 'venue', 'artifactLinks'])
 
 <template>
     <div class="flex flex-col md:flex-row py-2 items-start my-5">
-        <img class="mr-4 w-full md:w-32 my-2" :src="`/assets/img/publications/${thumbnail}`" alt="" />
+        <img class="mr-4 w-full md:w-40 my-2" :src="`/assets/img/publications/${thumbnail}`" alt="" />
 
         <div class="prose dark:prose-invert max-w-none font-normal">
             <div class="dark:text-white  font-bold mt-2 md:mt-0  md:text-lg">{{ title }}</div>
