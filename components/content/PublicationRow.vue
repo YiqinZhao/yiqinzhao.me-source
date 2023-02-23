@@ -16,12 +16,11 @@ defineProps(['title', 'thumbnail', 'authors', 'venue', 'artifactLinks'])
             <div>{{ venue.name }} <b>({{ venue.acronym }}'{{ venue.year % 1000 }})</b></div>
             <div>
                 <span v-for="(link, artifact, i) in artifactLinks" v-bind:key="artifact">
-                    <a :href="link">[{{ artifact }}]</a>
-                    <span>{{ (i < Object.keys(artifactLinks).length - 1 ? ', ' : '' ) }} </span>
-                    </span>
+                    <a class="bg-gray-700 text-white px-2 py-[0.2em] mr-1 no-underline text-sm" :href="link">{{ artifact }}</a>
+                </span>
             </div>
             <div class="prose dark:prose-invert [&_p]:my-0">
-                <ContentSlot :use="$slots.default" unwrap="p"/>
+                <ContentSlot :use="$slots.default" unwrap="p" />
             </div>
         </div>
     </div>

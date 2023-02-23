@@ -119,8 +119,8 @@ venue:
     year: 2022
     name: 30th ACM International Conference on Multimedia
 artifactLinks:
-    arXiv: https://arxiv.org/abs/2207.03056
     Paper: https://dl.acm.org/doi/abs/10.1145/3503161.3548386
+    arXiv: https://arxiv.org/abs/2207.03056
     Slides: https://docs.google.com/presentation/d/1goYpS9PXr0YLLPQUJcF9P-q8n0iV1A1UvReFDSuV3dk/edit?usp=sharing
     Project: /project/privacy-preserving-reflection
 ---
