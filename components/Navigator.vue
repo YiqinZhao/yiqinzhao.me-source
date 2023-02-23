@@ -32,31 +32,38 @@ const activeItem = navigatorItems.filter(v => v.active)[0]
                 <a class="pl-10 font-medium hover:dark:text-white hover:text-black transition-colors flex items-center"
                     v-for="item in navigatorItems" v-bind:key="item.text" :href="item.path">
                     <span v-if="item.path.split('/')[1] === firstRoute"
-                        class="transition-border text-black dark:text-white border-b-2 border-b-gray-400">{{ item.text }}</span>
+                        class="transition-border text-black dark:text-white border-b-2 border-b-gray-400">{{ item.text
+                        }}</span>
                     <span v-else class="transition-border hover:border-b-2 border-b-gray-400">{{ item.text }}</span>
                 </a>
             </div>
         </div>
     </div>
 
-    <div class="fixed flex md:hidden flex-row justify-between p-5 text-black dark:text-white bg-gray-100 dark:bg-gray-800 z-30 w-full top-0">
+    <div
+        class="fixed flex md:hidden flex-row justify-between p-5 text-black dark:text-white bg-gray-100 dark:bg-gray-800 z-30 w-full top-0">
         <span class="text-xl font-bold">{{ activeItem.text }}</span>
         <span v-on:click="onMenuButtonClick">
-            <img class="inline dark:invert"
-                :src="menuOpen ? '/assets/img/icons/close.svg' : '/assets/img/icons/menu.svg'" alt="">
+            <img class="inline dark:invert" :src="menuOpen ? '/assets/img/icons/close.svg' : '/assets/img/icons/menu.svg'"
+                alt="">
         </span>
     </div>
 
-    <div class="flex md:hidden opacity-0 flex-row justify-between p-5 text-black dark:text-white bg-gray-100 dark:bg-gray-800 z-30 w-full top-0">
+    <div
+        class="flex md:hidden opacity-0 flex-row justify-between p-5 text-black dark:text-white bg-gray-100 dark:bg-gray-800 z-30 w-full top-0">
         <span class="text-xl font-bold">{{ activeItem.text }}</span>
         <span v-on:click="onMenuButtonClick">
-            <img class="inline dark:invert"
-                :src="menuOpen ? '/assets/img/icons/close.svg' : '/assets/img/icons/menu.svg'" alt="">
+            <img class="inline dark:invert" :src="menuOpen ? '/assets/img/icons/close.svg' : '/assets/img/icons/menu.svg'"
+                alt="">
         </span>
     </div>
 
-    <div class="fixed flex flex-col justify-between w-full h-full top-0 left-0 bg-gray-100 dark:bg-gray-800 z-20"
-        :class="{ 'hidden': !menuOpen }">
+    <div class="fixed w-full h-full top-0 left-0 z-20 bg-black transform-gpu transition-opacity opacity-0"
+        :class="{ 'translate-y-[-100vh]': !menuOpen, 'opacity-40': menuOpen }">
+    </div>
+    <div class="fixed flex flex-col justify-between w-full h-full top-0 left-0 bg-gray-100 dark:bg-gray-800 z-20
+                            transform-gpu transition-transform duration-700"
+        :class="{ 'translate-y-[-100vh]': !menuOpen }">
         <div class="flex flex-col p-5 pt-24 text-xl text-gray-400 dark:text-gray-500">
             <a class="hover:text-white transition-color py-3" v-for="item in navigatorItems" v-bind:key="item.text"
                 :href="item.path">
@@ -74,7 +81,6 @@ const activeItem = navigatorItems.filter(v => v.active)[0]
 
         <div class="text-gray-400 dark:text-gray-500 text-center py-4">Yiqin Zhao</div>
     </div>
-
 </template>
 
 <script>
