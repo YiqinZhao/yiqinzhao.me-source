@@ -20,7 +20,7 @@ defineProps(['title', 'thumbnail', 'authors', 'venue', 'artifactLinks', 'hideBot
             <div class="md:flex md:flex-row items-start">
                 <img class="mr-4 w-full md:w-40 mt-1 mb-0 flex-grow-0" :src="`/assets/img/publications/${thumbnail}`" alt="" />
 
-                <div class="w-full">
+                <div class="w-full mt-4 md:mt-0">
                     <div class="text-lg">
                         <span v-for="(author, i) in authors" v-bind:key="author"
                             v-bind:class="{ 'font-bold dark:text-white underline': author === 'Yiqin Zhao' }">
