@@ -248,7 +248,7 @@ venue:
     year: 2018
     name: "Annual Conference of the International Speech Communication Association"
 artifactLinks:
-    Paper: https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1477.pdf
+    Paper: https://www.isca-speech.org/archive_v0/Interspeech_2018/abstracts/1477.html
     Project: /project/deep-spectrum/
 hideBottomBorder: true
 ---
