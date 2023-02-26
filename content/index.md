@@ -163,6 +163,7 @@ artifactLinks:
     Slides: https://drive.google.com/file/d/1iWW6l6XQu_LL-EuA323jecwnVPOa3mWa/view?usp=sharing
     Project: /project/xihe/
 ---
+<span class="text-red-600"><img class="inline w-4 my-0 mt-[-0.2em]" src="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_evaluated_functional_dl.jpg"/> Artifacts Evaluated – Functional v1.1</span>
 ::
 
 ::PublicationRow
@@ -249,6 +250,7 @@ venue:
 artifactLinks:
     Paper: https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1477.pdf
     Project: /project/deep-spectrum/
+hideBottomBorder: true
 ---
 ::
 
