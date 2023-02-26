@@ -11,7 +11,7 @@ disableFancyImage: true
 
 🔊 *My name pounces as: Yi-Chin*
 
-I am a fourth-year Computer Science M.S./Ph.D. student at [Worcester Polytechnic Institute (WPI)](https://wpi.edu) and a proud member of [The Cake Lab](https://cake-lab.github.io) research group.
+I am a fourth-year Computer Science M.S./Ph.D. candidate at [Worcester Polytechnic Institute (WPI)](https://wpi.edu) and a proud member of [The Cake Lab](https://cake-lab.github.io) research group.
 I feel extremely fortunate to be advised by my kind and wise advisor [Prof. Tian Guo](https://tianguo.info).
 I am interested in designing system supports and optimizations for Augmented Reality (AR) applications.
 My recent research has a strong focus on designing system support for AR environment lighting understanding and photorealistic rendering.
@@ -38,7 +38,7 @@ May 2022 - Present
 ::ExperienceRow{icon=wpi.png}
 **Worcester Polytechnic Institute, Worcester, MA**\
 Ph.D. Student in [TheCakeLab](https://cake.wpi.edu), advised by [Prof. Tian Guo](https://tianguo.info)\
-Aug 2021 - Dec, 2022
+Aug 2021 - Present
 ::
 
 ::ExperienceRow{icon=kuaishou.png}
