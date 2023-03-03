@@ -274,7 +274,7 @@ hideBottomBorder: true
     - 2016 - 2017 academic year second grade scholarship, top 20%
     - 2015 - 2016 academic year first grade scholarship, top 10%
 
-## 📧 Contacts
+## 📧 Find Me
 
 ::contact-item
 ---

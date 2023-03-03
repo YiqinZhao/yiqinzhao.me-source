@@ -22,13 +22,13 @@
                                 <img class="inline dark:invert w-6 mr-3 opacity-75 hover:opacity-100 transition-opacity m-0"
                                     src="/assets/img/icons/github.svg" alt="">
                             </a>
+                            <a href="https://scholar.google.com/citations?user=2Dq4bAcAAAAJ&hl=en">
+                                <img class="inline dark:invert w-6 mr-3 opacity-75 hover:opacity-100 transition-opacity m-0"
+                                    src="/assets/img/icons/google-scholar.svg" alt="">
+                            </a>
                             <a href="https://twitter.com/yiqin_zhao">
                                 <img class="inline dark:invert w-6 mr-3 opacity-75 hover:opacity-100 transition-opacity m-0"
                                     src="/assets/img/icons/twitter.svg" alt="">
-                            </a>
-                            <a href="https://www.instagram.com/yiqinzhao1996">
-                                <img class="inline dark:invert w-6 mr-3 opacity-75 hover:opacity-100 transition-opacity m-0"
-                                    src="/assets/img/icons/instagram.svg" alt="">
                             </a>
                         </span>
                     </p>
