@@ -100,7 +100,7 @@ artifactLinks:
     Paper: https://dl.acm.org/doi/abs/10.1145/3550291
     arXiv: https://arxiv.org/pdf/2301.06184.pdf
     Slides: https://docs.google.com/presentation/d/1wrHaZorkVvMyE2NENwS43vlrEm2Vt4iaAH3X-wsYBuE/edit?usp=sharing
-    Code (coming soon): /project/litar/
+    Code: https://github.com/cake-lab/LitAR
     Project: /project/litar/
 ---
 ::
