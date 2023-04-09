@@ -6,9 +6,13 @@
         "Haibin",
         "hotmobile",
         "IMWUT",
+        "katex",
         "Kuaishou",
         "litar",
         "Nuxt",
+        "nuxtjs",
+        "rehype",
+        "tailwindcss",
         "xihe"
     ],
     "explorer.excludeGitIgnore": true,
