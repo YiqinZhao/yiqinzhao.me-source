@@ -11,7 +11,7 @@ subtitle: "📢 Latest: I'm a Ph.D. candidate now!"
 ---
 ::
 
-![](/assets/img/me-news-google.png)
+<!-- ![](/assets/img/me-news-google.png) -->
 
 - **03/31/2023** 🎉 We have released the [code](https://github.com/cake-lab/LitAR) of our UbiComp 2022 paper LitAR.
 - **12/15/2022** 🎉 Received student travel grant from HotMobile 2023, thank you!

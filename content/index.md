@@ -16,7 +16,7 @@ I feel extremely fortunate to be advised by my kind and wise advisor [Prof. Tian
 I am interested in designing system supports and optimizations for Augmented Reality (AR) applications.
 My recent research has a strong focus on designing system support for AR environment lighting understanding and photorealistic rendering.
 
-In the past, I have interned at [Baidu](https://baidu.com) (Summer 2018), [Kuaishou Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html) in Spring 2022, and [GoogleARVR](https://arvr.google.com) in Summer/Fall 2022.
+In the past, I have interned at [Baidu](https://baidu.com) (Summer 2018), [Kuaishou Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html) in Spring 2022, and [GoogleARVR](https://arvr.google.com) in Summer, Fall 2022 and Spring 2023.
 In my spare time, I enjoy hiking, road tripping, and work on my [website templates](https://github.com/YiqinZhao/yiqinzhao.me-source).
 
 
@@ -32,7 +32,7 @@ In my spare time, I enjoy hiking, road tripping, and work on my [website templat
 ::ExperienceRow{icon=google.png}
 **Google, Mountain View, CA**\
 Student Researcher\
-May 2022 - Present
+May 2022 - May 2023
 ::
 
 ::ExperienceRow{icon=wpi.png}

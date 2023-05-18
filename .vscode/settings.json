@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+        "ARVR",
         "arxiv",
         "Chongyang",
         "Fanello",
@@ -13,6 +14,7 @@
         "nuxtjs",
         "rehype",
         "tailwindcss",
+        "ubicomp",
         "xihe"
     ],
     "explorer.excludeGitIgnore": true,
