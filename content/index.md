@@ -29,16 +29,16 @@ In my spare time, I enjoy hiking, road tripping, and work on my [website templat
 
 ## 🥷 Experiences
 
-::ExperienceRow{icon=google.png}
-**Google, Mountain View, CA**\
-Student Researcher\
-May 2022 - May 2023
-::
-
 ::ExperienceRow{icon=wpi.png}
 **Worcester Polytechnic Institute, Worcester, MA**\
 Ph.D. Student in [TheCakeLab](https://cake.wpi.edu), advised by [Prof. Tian Guo](https://tianguo.info)\
 Aug 2021 - Present
+::
+
+::ExperienceRow{icon=google.png}
+**Google, Mountain View, CA**\
+Student Researcher\
+May 2022 - May 2023
 ::
 
 ::ExperienceRow{icon=kuaishou.png}
@@ -60,6 +60,27 @@ Sept, 2015 - Jun, 2019
 ::
 
 ## 📄 Publications
+
+
+::PublicationRow
+---
+title: "Toward Scalable and Controllable AR Experimentation"
+thumbnail: expar.png
+type: conference
+authors:
+    - Ashkan Ganj
+    - Yiqin Zhao
+    - Federico Galbiati
+    - Tian Guo
+venue:
+    acronym: arXiv
+    year: 2023
+    name: "Paper coming soon."
+artifactLinks:
+    arXiv: https://arxiv.org/abs/2307.08587
+    Project: https://cake.wpi.edu/expar/
+---
+::
 
 ::PublicationRow
 ---

@@ -16,11 +16,13 @@ const query: QueryBuilderParams = { sort: [{ date: -1 }] }
                     :class="article.previewCardDirection === 'horizontal' ? 'md:flex-row' : 'flex-col md:w-[48%]'">
 
                     <div class="w-full" :class="article.previewCardDirection === 'horizontal' ? 'md:w-1/2' : ''">
-                        <a :href="`${article._path}`"><img class="m-0 transition-[opacity,transform] duration-500"
-                                :src="article.thumbnail" alt="" /></a>
+                        <a :href="article.previewRedirectLink ? article.previewRedirectLink : `${article._path}`">
+                            <img class="m-0 transition-[opacity,transform] duration-500" :src="article.thumbnail"
+                                alt="" /></a>
                     </div>
 
-                    <a :href="`${article._path}`" class="h-full decoration-transparent"
+                    <a :href="article.previewRedirectLink ? article.previewRedirectLink : `${article._path}`"
+                        class="h-full decoration-transparent"
                         :class="article.previewCardDirection === 'horizontal' ? 'md:w-1/2' : ''">
                         <div class="p-4 flex flex-col justify-between w-full h-full">
 
