@@ -11,13 +11,17 @@ disableFancyImage: true
 
 🔊 *My name pounces as: Yi-Chin*
 
-I am a fourth-year Computer Science M.S./Ph.D. candidate at [Worcester Polytechnic Institute (WPI)](https://wpi.edu) and a proud member of [The Cake Lab](https://cake-lab.github.io) research group.
+I am a fifth-year Computer Science M.S./Ph.D. candidate at [Worcester Polytechnic Institute (WPI)](https://wpi.edu) and a proud member of [The Cake Lab](https://cake-lab.github.io) research group.
 I feel extremely fortunate to be advised by my kind and wise advisor [Prof. Tian Guo](https://tianguo.info).
-I am interested in designing system supports and optimizations for Augmented Reality (AR) applications.
-My recent research has a strong focus on designing system support for AR environment lighting understanding and photorealistic rendering.
 
-In the past, I have interned at [Baidu](https://baidu.com) (Summer 2018), [Kuaishou Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html) in Spring 2022, and [GoogleARVR](https://arvr.google.com) in Summer, Fall 2022 and Spring 2023.
-In my spare time, I enjoy hiking, road tripping, and work on my [website templates](https://github.com/YiqinZhao/yiqinzhao.me-source).
+My research interest lies in ubiquitous computing, augmented reality, and computer vision.
+My recent research projects have a strong focus on improving photorealism in mobile AR by developing novel environment lighting sensing systems.
+The insights of my research are mainly derived from the investigation of mobile device dynamics, physical modeling of spatial transformations, and data-driven studies.
+In the past, I have designed machine learning models and real-time systems for mobile AR environment lighting estimation.
+I’m also interested in security and privacy issues associated with photorealism in AR.
+
+In the past, I have interned at [Google AR&VR](https://arvr.google.com), [Kuaishou Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html), [Baidu](https://baidu.com).
+In my spare time, I enjoy being in the nature, road tripping, and work on my [website templates](https://github.com/YiqinZhao/yiqinzhao.me-source).
 
 
 ## 📰 News
@@ -73,12 +77,13 @@ authors:
     - Federico Galbiati
     - Tian Guo
 venue:
-    acronym: arXiv
+    acronym: ImmerCom
     year: 2023
-    name: "Paper coming soon."
+    name: "1st ACM Workshop on Mobile Immersive Computing, Networking, and Systems"
 artifactLinks:
+    Proceeding: https://dl.acm.org/doi/abs/10.1145/3615452.3617941
     arXiv: https://arxiv.org/abs/2307.08587
-    Project: https://cake.wpi.edu/expar/
+    Website: https://cake.wpi.edu/expar/
 ---
 ::
 
@@ -96,7 +101,7 @@ venue:
     year: 2023
     name: "The Twenty-fourth International Workshop on Mobile Computing Systems and Applications"
 artifactLinks:
-    Paper: https://dl.acm.org/doi/10.1145/3572864.3580337
+    Proceeding: https://dl.acm.org/doi/10.1145/3572864.3580337
     arXiv: https://arxiv.org/pdf/2301.06143.pdf
     Poster: https://drive.google.com/file/d/1KtCARV-pV8DKFMGCRE0Qw6rgR3esFdX6/view?usp=sharing
     Slides: https://docs.google.com/presentation/d/1Hu4WWFL4gnMPgSf68ntfeSme2KnY3MQKopG9w4BirQI/edit?usp=sharing
@@ -118,11 +123,11 @@ venue:
     year: 2022
     name: "The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
 artifactLinks:
-    Paper: https://dl.acm.org/doi/abs/10.1145/3550291
+    Proceeding: https://dl.acm.org/doi/abs/10.1145/3550291
     arXiv: https://arxiv.org/pdf/2301.06184.pdf
     Slides: https://docs.google.com/presentation/d/1wrHaZorkVvMyE2NENwS43vlrEm2Vt4iaAH3X-wsYBuE/edit?usp=sharing
     Code: https://github.com/cake-lab/LitAR
-    Project: /project/litar/
+    Website: /project/litar/
 ---
 ::
 
@@ -140,10 +145,10 @@ venue:
     year: 2022
     name: 30th ACM International Conference on Multimedia
 artifactLinks:
-    Paper: https://dl.acm.org/doi/abs/10.1145/3503161.3548386
+    Proceeding: https://dl.acm.org/doi/abs/10.1145/3503161.3548386
     arXiv: https://arxiv.org/abs/2207.03056
     Slides: https://docs.google.com/presentation/d/1goYpS9PXr0YLLPQUJcF9P-q8n0iV1A1UvReFDSuV3dk/edit?usp=sharing
-    Project: /project/privacy-preserving-reflection
+    Website: /project/privacy-preserving-reflection
 ---
 ::
 
@@ -160,7 +165,7 @@ venue:
     year: 2022
     name: IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)
 artifactLinks:
-    Paper: https://ieeexplore.ieee.org/document/9757380
+    Proceeding: https://ieeexplore.ieee.org/document/9757380
     Poster: https://drive.google.com/file/d/1HeFelhKlv2ZXxKI-hCxk4pI_4-v_26KA/view?usp=sharing
 ---
 ::
@@ -179,10 +184,10 @@ venue:
     year: 2021
     name: The 19th ACM International Conference on Mobile Systems, Applications, and Services
 artifactLinks:
-    Paper: https://dl.acm.org/doi/10.1145/3458864.3467886?cid=99659479290
+    Proceeding: https://dl.acm.org/doi/10.1145/3458864.3467886?cid=99659479290
     arXiv: https://arxiv.org/abs/2106.15280
     Slides: https://drive.google.com/file/d/1iWW6l6XQu_LL-EuA323jecwnVPOa3mWa/view?usp=sharing
-    Project: /project/xihe/
+    Website: /project/xihe/
 ---
 <span class="text-red-600"><img class="inline w-4 my-0 mt-[-0.2em]" src="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_evaluated_functional_dl.jpg"/> Artifacts Evaluated – Functional v1.1</span>
 ::
@@ -200,10 +205,10 @@ venue:
     year: 2020
     name: 16th European Conference on Computer Vision
 artifactLinks:
-    Paper: https://arxiv.org/abs/2004.00006
+    Proceeding: https://arxiv.org/abs/2004.00006
     arXiv: https://arxiv.org/abs/2004.00006
     Slides: https://drive.google.com/file/d/1NUHDf3uxNuXwvqFjXw6BGFADgQdOc9tp/view?usp=sharing
-    Project: /project/point-ar/
+    Website: /project/point-ar/
 ---
 ::
 
@@ -225,8 +230,8 @@ venue:
     year: 2019
     name: "IEEE Access"
 artifactLinks:
-    Paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8762126
-    Project: /project/deep-spectrum/
+    Proceeding: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8762126
+    Website: /project/deep-spectrum/
 ---
 ::
 
@@ -247,8 +252,8 @@ venue:
     year: 2018
     name: "4th Workshop on Affective Social Multimedia Computing and first Multi-Modal Affective Computing of Large-Scale Multimedia Data"
 artifactLinks:
-    Paper: https://dl.acm.org/citation.cfm?doid=3267935.3267948
-    Project: /project/deep-spectrum/
+    Proceeding: https://dl.acm.org/citation.cfm?doid=3267935.3267948
+    Website: /project/deep-spectrum/
 ---
 ::
 
@@ -269,8 +274,8 @@ venue:
     year: 2018
     name: "Annual Conference of the International Speech Communication Association"
 artifactLinks:
-    Paper: https://www.isca-speech.org/archive_v0/Interspeech_2018/abstracts/1477.html
-    Project: /project/deep-spectrum/
+    Proceeding: https://www.isca-speech.org/archive_v0/Interspeech_2018/abstracts/1477.html
+    Website: /project/deep-spectrum/
 hideBottomBorder: true
 ---
 ::
