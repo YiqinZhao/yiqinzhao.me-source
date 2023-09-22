@@ -7,8 +7,7 @@
                     <p class="text-sm">
                         赵一勤 | Yiqin (Pronunciation: Yi-Chin) <br />
                         CS Ph.D. Candidate <a href="https://cake.wpi.edu">@wpicakelab</a> <br />
-                        Student Researcher <a href="https//arvr.google.com">@GoogleVRAR</a> <br />
-                        Research Interests: Mobile System, AR, CV, CG
+                        Research Interests: Ubiquitous Computing, AR, CV
                     </p>
                 </div>
 
