@@ -85,6 +85,7 @@ artifactLinks:
     arXiv: https://arxiv.org/abs/2307.08587
     Website: https://cake.wpi.edu/expar/
 ---
+<span class="text-red-600 font-bold">🏆 Best Paper Shortlisted.</span>
 ::
 
 ::PublicationRow
@@ -288,6 +289,7 @@ hideBottomBorder: true
 
 **Awards**
 
+- Best paper shortlisted, ImmerCcom'23.
 - ACM HotMobile 2023 Student Travel Grant.
 - ACM HotMobile 2020 Student Travel Grant.
 - China Collegiate Computing Contest.

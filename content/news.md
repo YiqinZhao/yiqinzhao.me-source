@@ -13,6 +13,7 @@ subtitle: "📢 Latest: I'm a Ph.D. candidate now!"
 
 <!-- ![](/assets/img/me-news-google.png) -->
 
+- **06/10/2023** 🏆 Our paper, *Toward Scalable and Controllable AR Experimentation*, got **best paper shortlisted** at ImmerCom'23.
 - **03/31/2023** 🎉 We have released the [code](https://github.com/cake-lab/LitAR) of our UbiComp 2022 paper LitAR.
 - **12/15/2022** 🎉 Received student travel grant from HotMobile 2023, thank you!
 - **12/15/2022** 🎉 Passed my classes and research qualifications, I'm a Ph.D. candidate now!
