@@ -85,7 +85,7 @@ artifactLinks:
     arXiv: https://arxiv.org/abs/2307.08587
     Website: https://cake.wpi.edu/expar/
 ---
-<span class="text-red-600 font-bold">🏆 Best Paper Shortlisted.</span>
+<span class="text-red-600 font-bold">🏆 Best Paper Runner-up.</span>
 ::
 
 ::PublicationRow
