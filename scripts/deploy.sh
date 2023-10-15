@@ -10,7 +10,7 @@ mv ./.deploy/deployment/.git ./.deploy/
 rm -rf ./.deploy/deployment/*
 mv ./.deploy/.git ./.deploy/deployment/
 
-cp -r ./dist/* ./.deploy/deployment/
+cp -r ./.output/public/* ./.deploy/deployment/
 touch ./.deploy/deployment/.nojekyll
 touch ./.deploy/deployment/CNAME
 
