@@ -9,7 +9,7 @@
                     <p class="w-full text-xl pl-3 prose dark:prose-invert m-0">
                         赵一勤 | Yiqin (Pronunciation: Yi-Chin) <br />
                         CS Ph.D. candidate <a href="https://cake.wpi.edu">@wpicakelab</a> <br />
-                        Research: Ubiquitous Computing, AR, CV
+                        Research: Mobile Computing, AR, CV
                     </p>
                     <p class="mt-4 w-full pl-3 m-0">
                         <span class="m-0">
