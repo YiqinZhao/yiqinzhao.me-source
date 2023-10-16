@@ -215,7 +215,7 @@ hideBottomBorder: true
 
 **Awards**
 
-- Best paper shortlisted, ImmerCcom'23.
+- Best paper runner-up, ImmerCom'23.
 - ACM HotMobile 2023 Student Travel Grant.
 - ACM HotMobile 2020 Student Travel Grant.
 - China Collegiate Computing Contest.
