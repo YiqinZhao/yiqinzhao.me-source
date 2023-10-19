@@ -79,8 +79,8 @@ title: "Get-A-Sense: Designing Spatial Context Awareness for Mobile AR Environme
 thumbnail: get-a-sense-hotmobile.png
 type: conference
 authors:
-    - Ashkan Ganj
     - Yiqin Zhao
+    - Ashkan Ganj
     - Tian Guo
 venue:
     acronym: arXiv
