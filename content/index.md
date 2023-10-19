@@ -73,6 +73,23 @@ Sept, 2015 - Jun, 2019
 
 ## 📄 Selected Publications
 
+::PublicationRow
+---
+title: "Get-A-Sense: Designing Spatial Context Awareness for Mobile AR Environment Understanding"
+thumbnail: get-a-sense-hotmobile.png
+type: conference
+authors:
+    - Ashkan Ganj
+    - Yiqin Zhao
+    - Tian Guo
+venue:
+    acronym: arXiv
+    year: 2023
+    name: "In submission."
+artifactLinks:
+    arXiv: https://arxiv.org/abs/2310.10821
+---
+::
 
 ::PublicationRow
 ---
