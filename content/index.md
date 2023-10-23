@@ -14,11 +14,10 @@ disableFancyImage: true
 I am a fifth-year Computer Science M.S./Ph.D. candidate at [Worcester Polytechnic Institute (WPI)](https://wpi.edu) and a proud member of [The Cake Lab](https://cake-lab.github.io) research group.
 I feel extremely fortunate to be advised by my kind and wise advisor [Prof. Tian Guo](https://tianguo.info).
 
-My research interest lies in ubiquitous computing, augmented reality, and computer vision.
-My recent research projects have a strong focus on improving photorealism in mobile AR by developing novel environment lighting sensing systems.
-The insights of my research are mainly derived from the investigation of mobile device dynamics, physical modeling of spatial transformations, and data-driven studies.
-In the past, I have designed machine learning models and real-time systems for mobile AR environment lighting estimation.
-I’m also interested in security and privacy issues associated with photorealism in AR.
+My research interests lie in mobile computing, augmented reality, and computer vision. Recently, my research projects had a strong focus on improving photorealism in mobile AR by developing novel
+mobile AR environment understanding systems. In the past, I have designed machine learning models and real-time systems for improving mobile AR environment lighting estimation. I’m also interested in security and privacy
+issues associated with photorealism in AR. In addition to my primary focus on lighting estimation, I have also participated in multiple mobile AR research projects including depth estimation for mobile AR, mobile portrait photo editing, and AR software architecture design.
+
 
 In the past, I have interned at [Google AR&VR](https://arvr.google.com), [Kuaishou Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html), [Baidu](https://baidu.com).
 In my spare time, I enjoy being in the nature, road tripping, and work on my [website templates](https://github.com/YiqinZhao/yiqinzhao.me-source).
