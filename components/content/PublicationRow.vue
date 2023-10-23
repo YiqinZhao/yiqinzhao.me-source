@@ -11,7 +11,7 @@ defineProps(['title', 'thumbnail', 'authors', 'venue', 'artifactLinks', 'hideBot
                 <span> <span class="mr-2 bg-gray-200 text-black py-[0.2em] text-sm px-2">
                         {{ venue.acronym }}'{{ venue.year % 1000 }}
                     </span></span>
-                <span class="mr-2">|</span>
+                <span v-if="artifactLinks" class="mr-2">|</span>
                 <span v-for="(link, artifact, i) in artifactLinks" v-bind:key="artifact">
                     <a class="bg-gray-700 text-white px-2 py-[0.2em] mr-1 no-underline text-sm" :href="link">{{ artifact
                     }}</a>
@@ -21,7 +21,7 @@ defineProps(['title', 'thumbnail', 'authors', 'venue', 'artifactLinks', 'hideBot
             <div class="dark:text-white font-bold my-4 text-2xl md:text-2xl">{{ title }}</div>
 
             <div class="md:flex md:flex-row items-start">
-                <img class="mr-4 w-full md:w-40 mt-1 mb-0 flex-grow-0" :src="`/assets/img/publications/${thumbnail}`"
+                <img v-if="thumbnail" class="mr-4 w-full md:w-40 mt-1 mb-0 flex-grow-0" :src="`/assets/img/publications/${thumbnail}`"
                     alt="" />
 
                 <div class="w-full mt-4 md:mt-0">
