@@ -28,6 +28,25 @@ artifactLinks:
 
 ::PublicationRow
 ---
+title: "Mobile AR Depth Estimation: Challenges & Prospects -- Extended Version"
+thumbnail: depth-estimation.png
+type: conference
+authors:
+    - Ashkan Ganj
+    - Yiqin Zhao
+    - Hang Su
+    - Tian Guo
+venue:
+    acronym: arXiv
+    year: 2023
+    name: "In submission."
+artifactLinks:
+    arXiv: https://arxiv.org/abs/2310.14437
+---
+::
+
+::PublicationRow
+---
 title: "Toward Scalable and Controllable AR Experimentation"
 thumbnail: expar.png
 type: conference
