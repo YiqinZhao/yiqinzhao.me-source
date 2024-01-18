@@ -10,25 +10,7 @@ title: Publications
 
 ::PublicationRow
 ---
-title: "Get-A-Sense: Designing Spatial Context Awareness for Mobile AR Environment Understanding"
-thumbnail: get-a-sense-hotmobile.png
-type: conference
-authors:
-    - Yiqin Zhao
-    - Ashkan Ganj
-    - Tian Guo
-venue:
-    acronym: arXiv
-    year: 2023
-    name: "In submission."
-artifactLinks:
-    arXiv: https://arxiv.org/abs/2310.10821
----
-::
-
-::PublicationRow
----
-title: "Mobile AR Depth Estimation: Challenges & Prospects -- Extended Version"
+title: "Mobile AR Depth Estimation: Challenges & Prospects"
 thumbnail: depth-estimation.png
 type: conference
 authors:
@@ -41,7 +23,7 @@ venue:
     year: 2023
     name: "In submission."
 artifactLinks:
-    arXiv: https://arxiv.org/abs/2310.14437
+    arXiv (extended version): https://arxiv.org/abs/2310.14437
 ---
 ::
 
