@@ -6,10 +6,10 @@
                 <div class="w-[55%] hidden md:flex flex-col items-center justify-start shadow-lg
                             p-12 py-8 z-20 h-fit absolute left-0 bg-neutral-100 dark:bg-neutral-700 bottom-16">
                     <p class="w-full text-6xl py-4 m-0">Yiqin Zhao</p>
-                    <p class="w-full text-xl pl-3 prose dark:prose-invert m-0">
+                    <p class="w-full text-xl pl-3 prose dark:prose-invert m-0 text-left">
                         赵一勤 | Yiqin (Pronunciation: Yi-Chin) <br />
                         CS Ph.D. candidate <a href="https://cake.wpi.edu">@wpicakelab</a> <br />
-                        Research: Mobile Computing, AR, CV
+                        #SpatialComputing, #MobileComputing, #SensingSystem, #ComputerGraphics
                     </p>
                     <p class="mt-4 w-full pl-3 m-0">
                         <span class="m-0">

@@ -4,10 +4,10 @@
 
             <div class="flex-col md:flex-row flex justify-between border-b-2 border-b-gray-300">
                 <div>
-                    <p class="text-sm">
+                    <p class="text-sm text-left">
                         赵一勤 | Yiqin (Pronunciation: Yi-Chin) <br />
                         CS Ph.D. Candidate <a href="https://cake.wpi.edu">@wpicakelab</a> <br />
-                        Research Interests: Mobile Computing, AR, CV
+                        #SpatialComputing, #MobileComputing, #SensingSystem, #ComputerGraphics
                     </p>
                 </div>
 

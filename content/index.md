@@ -74,6 +74,25 @@ Sept, 2015 - Jun, 2019
 
 ::PublicationRow
 ---
+title: "Demo: ARFlow: A Framework for Simplifying AR Experimentation Workflow"
+thumbnail: arflow.jpeg
+type: demo
+authors:
+    - Yiqin Zhao
+    - Tian Guo
+venue:
+    acronym: HotMobile
+    year: 2024
+    name: "25th International Workshop on Mobile Computing Systems and Applications"
+artifactLinks:
+    Website: https://cake.wpi.edu/ARFlow/
+    Proceeding: https://dl.acm.org/doi/10.1145/3638550.3643617
+    Code: https://github.com/cake-lab/ARFlow
+---
+::
+
+::PublicationRow
+---
 title: "Mobile AR Depth Estimation: Challenges & Prospects"
 thumbnail: depth-estimation.png
 type: conference
@@ -83,10 +102,11 @@ authors:
     - Hang Su
     - Tian Guo
 venue:
-    acronym: arXiv
-    year: 2023
-    name: "In submission."
+    acronym: HotMobile
+    year: 2024
+    name: "25th International Workshop on Mobile Computing Systems and Applications"
 artifactLinks:
+    Proceeding: https://dl.acm.org/doi/10.1145/3638550.3641122
     arXiv (extended version): https://arxiv.org/abs/2310.14437
 ---
 ::
