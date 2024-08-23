@@ -1,6 +1,7 @@
 {
   "private": true,
   "scripts": {
+    "predev": "node updateTimestamp.js",
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
