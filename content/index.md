@@ -76,7 +76,7 @@ Sept, 2015 - Jun, 2019
 
 <div class="xl:w-[40%]">
 
-## 🥷 Industry Experiences
+## 👨‍💻 Industry Experiences
 
 ::ExperienceRow{icon=adobe.png}
 **Adobe Research, San Jose, CA**\
@@ -287,7 +287,9 @@ hideBottomBorder: true
 
 **Academic services**
 
--  UbiComp 2022 student volunteer.
+- Conference Reviewer: MM’24, NeruIPS’24, ICDCS’23, CAAI’23, MMSys’20
+- Journal Reviewer: TMC’24, IJHCI’24
+- UbiComp 2022 student volunteer.
 
 **Awards**
 

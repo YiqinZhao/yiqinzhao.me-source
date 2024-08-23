@@ -8,6 +8,9 @@ title: Publications
 ---
 ::
 
+<div class="xl:flex xl:ml-[-37.5%] xl:w-[175%] xl:justify-between xl:flex-col">
+
+
 ::PublicationRow
 ---
 title: "Demo: ARFlow: A Framework for Simplifying AR Experimentation Workflow"
@@ -171,7 +174,7 @@ artifactLinks:
     Slides: https://drive.google.com/file/d/1iWW6l6XQu_LL-EuA323jecwnVPOa3mWa/view?usp=sharing
     Website: /project/xihe/
 ---
-<span class="text-red-600"><img class="inline w-4 my-0 mt-[-0.2em]" src="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_evaluated_functional_dl.jpg"/> Artifacts Evaluated – Functional v1.1</span>
+<span class="text-red-600"><img class="inline w-4 my-0 mt-[-0.2em]" src="/assets/img/icons/artifacts_evaluated_functional_dl.jpg"/> Artifacts Evaluated – Functional v1.1</span>
 ::
 
 ::PublicationRow
@@ -261,3 +264,5 @@ artifactLinks:
 hideBottomBorder: true
 ---
 ::
+
+</div>

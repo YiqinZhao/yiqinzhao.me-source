@@ -7,20 +7,22 @@ disableFancyImage: true
 ::MarkdownHeader
 ---
 title: News
-subtitle: "📢 Latest: I'm a Ph.D. candidate now!"
+subtitle: "📢 Latest: I'm on the academic job market now!"
 ---
 ::
 
-<!-- ![](/assets/img/me-news-google.png) -->
 
+- **05/13/2024** 🎉 I joined [Adobe Research](http://www.chongyangma.com/team/index.html) as a research scientist intern.
+- **03/01/2024** 🎉 Our demo [ARFlow: A Framework for Simplifying AR Experimentation Workflow](https://cake.wpi.edu/ARFlow/) has been accepted by HotMobile 2024!
+- **02/17/2024** 🎉 Our paper [Mobile AR Depth Estimation: Challenges & Prospects](https://arxiv.org/pdf/2310.14437) has been accepted by HotMobile 2024!
 - **06/10/2023** 🏆 Our paper, *Toward Scalable and Controllable AR Experimentation*, received **best paper runner-up** award at ImmerCom'23.
 - **03/31/2023** 🎉 We have released the [code](https://github.com/cake-lab/LitAR) of our UbiComp 2022 paper LitAR.
 - **12/15/2022** 🎉 Received student travel grant from HotMobile 2023, thank you!
 - **12/15/2022** 🎉 Passed my classes and research qualifications, I'm a Ph.D. candidate now!
-- **12/09/2022** 🎉 One paper accepted by HotMobile 2023!
+- **12/09/2022** 🎉 Our paper [Multi-Camera Lighting Estimation for Photorealistic Front-Facing Mobile Augmented Reality](https://arxiv.org/pdf/2301.06143) has been accepted by HotMobile 2023!
 - **01/18/2022** 🎉 I joined the [Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html) as a research intern.
-- **05/17/2022** 🎉 Our paper [LitAR](/project/litar) is accepted by UbiComp 2022!
-- **05/17/2022** 🎉 Our paper [Privacy-preserving Reflection Rendering for Augmented Reality](/project/privacy-preserving-reflection) is accepted by ACM MM 2022!
+- **05/17/2022** 🎉 Our paper [LitAR](/project/litar) has been accepted by UbiComp 2022!
+- **05/17/2022** 🎉 Our paper [Privacy-preserving Reflection Rendering for Augmented Reality](/project/privacy-preserving-reflection) has been accepted by ACM MM 2022!
 - **03/04/2022** 🎉 I will join Google as a research intern in the summer!
 - **01/18/2022** 🎉 I joined the [Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html) as a research intern.
 - **05/24/2021** ✨ We just released the [Xihe](/project/point-ar) source code! Check our [GitHub](https://github.com/cake-lab/Xihe) repo.
