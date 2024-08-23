@@ -7,21 +7,33 @@ disableFancyImage: true
 ::IndexHeader
 ::
 
+<div class="xl:w-[175%] xl:ml-[-37.5%] bg-gray-100 px-5 py-1 text-red-600">
+<p>🔊 I'm currently on the academic job market for a TTAP faculty position starting Fall 2025. Feel free to reach out if your department is looking for someone who works on emerging technologies in AR/VR/XR!
+Here is my <a class="text-red-700" href="/yiqinzhao-cv.pdf">CV</a>.
+</p>
+</div>
+
+
+<div class="xl:flex xl:ml-[-37.5%] xl:w-[175%] xl:justify-between">
+<div class="xl:w-[55%]">
+
 ## 🦸🏻‍♂️ About Me
 
-🔊 *My name pounces as: Yi-Chin*
-
-I am a fifth-year Computer Science M.S./Ph.D. candidate at [Worcester Polytechnic Institute (WPI)](https://wpi.edu) and a proud member of [The Cake Lab](https://cake-lab.github.io) research group.
+I am a final-year Computer Science Ph.D. candidate at [Worcester Polytechnic Institute (WPI)](https://wpi.edu) and a proud member of [The Cake Lab](https://cake-lab.github.io) research group.
 I feel extremely fortunate to be advised by my kind and wise advisor [Prof. Tian Guo](https://tianguo.info).
 
-My research interests lie in mobile computing, augmented reality, and computer vision. Recently, my research projects had a strong focus on improving photorealism in mobile AR by developing novel
-mobile AR environment understanding systems. In the past, I have designed machine learning models and real-time systems for improving mobile AR environment lighting estimation. I’m also interested in security and privacy
-issues associated with photorealism in AR. In addition to my primary focus on lighting estimation, I have also participated in multiple mobile AR research projects including depth estimation for mobile AR, mobile portrait photo editing, and AR software architecture design.
+
+My research interest primarily lies in augmented reality (AR) systems and also extends to the broad areas in mobile computing, computer vision, and computer graphics.
+During my Ph.D. study, I focused on the topic of *dynamic intelligent systems for immersive spatial computing*.
+My research helps AR researchers and application developers to build immersive user experiences that safely and robustly adapts to different real-world environment conditions.
 
 
-In the past, I have interned at [Google AR&VR](https://arvr.google.com), [Kuaishou Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html), [Baidu](https://baidu.com).
-In my spare time, I enjoy being in the nature, road tripping, and work on my [website templates](https://github.com/YiqinZhao/yiqinzhao.me-source).
+In the past, I also had the fortunate to work with and study from many awesome industry researchers during my time at [Adobe Research](https://research.adobe.com/), [Google AR&VR](https://arvr.google.com), [Kuaishou Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html), and [Baidu](https://baidu.com).
+<!-- In my spare time, I enjoy being in the nature, road tripping, and work on my [website templates](https://github.com/YiqinZhao/yiqinzhao.me-source). -->
 
+</div>
+
+<div class="xl:w-[40%]">
 
 ## 📰 News
 
@@ -30,13 +42,46 @@ In my spare time, I enjoy being in the nature, road tripping, and work on my [we
 
 [More news >>>](/news/)
 
-## 🥷 Experiences
+</div>
+
+</div>
+
+
+<div class="xl:flex xl:ml-[-37.5%] xl:w-[175%] xl:justify-between">
+<div class="xl:w-[55%]">
+
+## 🏫 Education
 
 ::ExperienceRow{icon=wpi.png}
 **Worcester Polytechnic Institute, Worcester, MA**\
 Ph.D. student.\
 Research assistant in [TheCakeLab](https://cake.wpi.edu), advised by [Prof. Tian Guo](https://tianguo.info)\
-Aug 2021 - Present
+Aug 2021 - Present (Expected: summer 2025)
+::
+
+::ExperienceRow{icon=wpi.png}
+**Worcester Polytechnic Institute, Worcester, MA**\
+M.S. student.\
+Research assistant  in [TheCakeLab](https://cake.wpi.edu), advised by [Prof. Tian Guo](https://tianguo.info)\
+Aug 2019 - June, 2021
+::
+
+::ExperienceRow{icon="tjnu.png"}
+**Tianjin Normal University, Tianjin, China**\
+Bachelor of Engineering in Software Engineering\
+Sept, 2015 - Jun, 2019
+::
+
+</div>
+
+<div class="xl:w-[40%]">
+
+## 🥷 Industry Experiences
+
+::ExperienceRow{icon=adobe.png}
+**Adobe Research, San Jose, CA**\
+Research Scientist Intern\
+May 2024 - Aug 2024
 ::
 
 ::ExperienceRow{icon=google.png}
@@ -51,24 +96,17 @@ Research Intern\
 Jan, 2022 - May, 2022
 ::
 
-::ExperienceRow{icon=wpi.png}
-**Worcester Polytechnic Institute, Worcester, MA**\
-M.S. student.\
-Research assistant  in [TheCakeLab](https://cake.wpi.edu), advised by [Prof. Tian Guo](https://tianguo.info)\
-Aug 2019 - June, 2021
-::
 
 ::ExperienceRow{icon=baidu.png}
 **Baidu, Beijing, China**\
 Software Engineering Intern\
 Jun, 2018 - Sept, 2018
 ::
+</div>
 
-::ExperienceRow{icon="tjnu.png"}
-**Tianjin Normal University, Tianjin, China**\
-Bachelor of Engineering in Software Engineering\
-Sept, 2015 - Jun, 2019
-::
+</div>
+
+<div class="xl:ml-[-37.5%] xl:w-[175%]">
 
 ## 📄 Selected Publications
 
@@ -244,6 +282,7 @@ hideBottomBorder: true
 
 [Full publication list >>>](/publication/)
 
+
 ## ❤️ Services and Awards
 
 **Academic services**
@@ -285,16 +324,11 @@ GitHub
 
 ::contact-item
 ---
-icon: twitter
+icon: x-social-media
 url: https://twitter.com/yiqin_zhao
 ---
-Twitter
+X
 ::
 
-::contact-item
----
-icon: instagram
-url: https://www.instagram.com/yiqinzhao1996
----
-Instagram
-::
+</div>
+

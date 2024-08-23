@@ -7,7 +7,7 @@
                     <p class="text-sm text-left">
                         赵一勤 | Yiqin (Pronunciation: Yi-Chin) <br />
                         CS Ph.D. Candidate <a href="https://cake.wpi.edu">@wpicakelab</a> <br />
-                        #SpatialComputing, #MobileComputing, #SensingSystem, #ComputerGraphics
+                        <i>Building dynamic intelligent systems for immersive spatial computing.</i>
                     </p>
                 </div>
 
@@ -15,8 +15,7 @@
                     <p class="text-sm md:text-right [&_br]:hidden [&_br]:md:inline">
                         <a href="mailto:yiqinzhao@outlook.com">E-Mail</a> <br />
                         <a href="https://github.com/YiqinZhao">GitHub</a> <br />
-                        <a href="https://twitter.com/yiqin_zhao">Twitter</a> <br />
-                        <a href="https://www.instagram.com/yiqinzhao1996">Instagram</a> <br />
+                        <a href="https://twitter.com/yiqin_zhao">X</a> <br />
                     </p>
                 </div>
             </div>
@@ -35,6 +34,9 @@
 </template>
 
 <script setup>
-const year = new Date().getFullYear()
-const datetime = new Date().toLocaleDateString()
+import lastUpdated from '~/static/lastUpdated';
+
+const lastUpdatedTime = new Date(lastUpdated.timestamp)
+const year = lastUpdatedTime.getFullYear()
+const datetime = lastUpdatedTime.toLocaleDateString()
 </script>

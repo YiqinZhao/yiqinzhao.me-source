@@ -19,7 +19,7 @@ What a beautiful coincidence!
 
 ![](/assets/img/personal/phoenix.jpeg)
 
-<div style="font-style: italic; text-align: center; margin-top: -1.5em; margin-bottom:1.5em; opacity: 0.7">Sunset and cloud. Jan 06, 2022. Phoenix, AZ.</div>
+<div style="font-style: italic; text-align: center; margin-top: -1.5em; margin-bottom:1.5em; opacity: 0.7">Sunset at Phoenix, AZ. Jan 06, 2022.</div>
 
 I also listen to a wide variety of music, including R&B, soul, country, K-pop etc.
 Recently, I have been very into EDMs.
