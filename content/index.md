@@ -218,7 +218,7 @@ artifactLinks:
 
 ::PublicationRow
 ---
-title: "Xihe: a 3D vision-based lighting estimation framework for mobile augmented reality"
+title: "Xihe: a 3D Vision-Based Lighting Estimation Framework for Mobile Augmented Reality"
 thumbnail: xihe-mobisys2021.png
 type: conference
 authors:
@@ -305,32 +305,6 @@ hideBottomBorder: true
     - 2017 - 2018 academic year top grade scholarship, top 5%
     - 2016 - 2017 academic year second grade scholarship, top 20%
     - 2015 - 2016 academic year first grade scholarship, top 10%
-
-## 📧 Find Me
-
-::contact-item
----
-icon: email
-url: mailto:yiqinzhao@outlook.com
----
-Email
-::
-
-::contact-item
----
-icon: github
-url: https://github.com/YiqinZhao
----
-GitHub
-::
-
-::contact-item
----
-icon: x-social-media
-url: https://twitter.com/yiqin_zhao
----
-X
-::
 
 </div>
 

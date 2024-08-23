@@ -41,5 +41,5 @@ subtitle: "📢 Latest: I'm on the academic job market now!"
 - **10/13/2018** 🏆 I received annual special scholarship at Tianjin Normal University (top 5%).
 - **08/15/2018** 🔥 Our paper about human speech emotion in spectrogram representation has submitted to ACM Multimedia 2018 ASMMC-MMAC workshop!
 - **07/04/2018** 👨🏻‍💻 I joined the DuerOS department at Baidu, Inc as a frontend software engineer intern.
-- **09/30/2017** 🏆  I received third prize of the 2017 China national Mobile Innovation Contest (top 6%).
-- **09/30/2016** 🏆  I received third prize of the 2016 China national Mobile Innovation Contest (top 10%).
+- **09/30/2017** 🏆 I received third prize of the 2017 China national Mobile Innovation Contest (top 6%).
+- **09/30/2016** 🏆 I received third prize of the 2016 China national Mobile Innovation Contest (top 10%).
