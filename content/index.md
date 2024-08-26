@@ -7,16 +7,16 @@ disableFancyImage: true
 ::IndexHeader
 ::
 
-<div class="xl:w-[175%] xl:ml-[-37.5%] bg-gray-100 px-5 py-1 text-red-600">
-<p>🔊 I'm currently on the academic job market for a TTAP faculty position starting Fall 2025. Feel free to reach out if your department is looking for someone who works on emerging technologies in AR/VR/XR!
+::UltraWideRow
+<div class="bg-gray-100 p-5 text-red-600">
+🔊 I'm currently on the academic job market for a TTAP faculty position starting Fall 2025. Feel free to reach out if your department is looking for someone who works on emerging technologies in AR/VR/XR!
 Here is my <a class="text-red-700" href="/yiqinzhao-cv.pdf">CV</a>.
-</p>
 </div>
+::
 
 
-<div class="xl:flex xl:ml-[-37.5%] xl:w-[175%] xl:justify-between">
-<div class="xl:w-[55%]">
-
+::SplitBlock
+#left
 ## 🦸🏻‍♂️ About Me
 
 I am a final-year Computer Science Ph.D. candidate at [Worcester Polytechnic Institute (WPI)](https://wpi.edu) and a proud member of [The Cake Lab](https://cake-lab.github.io) research group.
@@ -31,25 +31,18 @@ My research helps AR researchers and application developers to build immersive u
 In the past, I also had the fortunate to work with and study from many awesome industry researchers during my time at [Adobe Research](https://research.adobe.com/), [Google AR&VR](https://arvr.google.com), [Kuaishou Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html), and [Baidu](https://baidu.com).
 <!-- In my spare time, I enjoy being in the nature, road tripping, and work on my [website templates](https://github.com/YiqinZhao/yiqinzhao.me-source). -->
 
-</div>
-
-<div class="xl:w-[40%]">
-
+#right
 ## 📰 News
 
 ::ShortNews
 ::
 
 [More news >>>](/news/)
-
-</div>
-
-</div>
+::
 
 
-<div class="xl:flex xl:ml-[-37.5%] xl:w-[175%] xl:justify-between">
-<div class="xl:w-[55%]">
-
+::SplitBlock
+#left
 ## 🏫 Education
 
 ::ExperienceRow{icon=wpi.png}
@@ -72,10 +65,7 @@ Bachelor of Engineering in Software Engineering\
 Sept, 2015 - Jun, 2019
 ::
 
-</div>
-
-<div class="xl:w-[40%]">
-
+#right
 ## 👨‍💻 Industry Experiences
 
 ::ExperienceRow{icon=adobe.png}
@@ -102,12 +92,11 @@ Jan, 2022 - May, 2022
 Software Engineering Intern\
 Jun, 2018 - Sept, 2018
 ::
-</div>
 
-</div>
+::
 
-<div class="xl:ml-[-37.5%] xl:w-[175%]">
 
+::UltraWideRow
 ## 📄 Selected Publications
 
 ::PublicationRow
@@ -234,7 +223,7 @@ artifactLinks:
     Slides: https://drive.google.com/file/d/1iWW6l6XQu_LL-EuA323jecwnVPOa3mWa/view?usp=sharing
     Website: /project/xihe/
 ---
-<span class="text-red-600"><img class="inline w-4 my-0 mt-[-0.2em]" src="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_evaluated_functional_dl.jpg"/> Artifacts Evaluated – Functional v1.1</span>
+<span class="text-red-600"><img class="inline w-4 my-0 mt-[-0.2em]" src="/assets/img/icons/artifacts_evaluated_functional_dl.jpg"/> Artifacts Evaluated – Functional v1.1</span>
 ::
 
 ::PublicationRow
@@ -305,6 +294,5 @@ hideBottomBorder: true
     - 2017 - 2018 academic year top grade scholarship, top 5%
     - 2016 - 2017 academic year second grade scholarship, top 20%
     - 2015 - 2016 academic year first grade scholarship, top 10%
-
-</div>
+::
 

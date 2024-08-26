@@ -8,8 +8,7 @@ title: Publications
 ---
 ::
 
-<div class="xl:flex xl:ml-[-37.5%] xl:w-[175%] xl:justify-between xl:flex-col">
-
+::UltraWideRow
 
 ::PublicationRow
 ---
@@ -265,4 +264,4 @@ hideBottomBorder: true
 ---
 ::
 
-</div>
+::
