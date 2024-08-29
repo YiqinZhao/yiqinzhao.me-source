@@ -9,7 +9,7 @@ disableFancyImage: true
 
 ::UltraWideRow
 <div class="bg-gray-100 p-5 text-red-600">
-🔊 I'm currently on the academic job market for a TTAP faculty position starting Fall 2025. Feel free to reach out if your department is looking for someone who works on emerging technologies in AR/VR/XR!
+🔊 I'm currently on the academic job market for a TTAP faculty position starting Fall 2025. We should definitely have a chat if your department is looking for someone works on emerging technologies in AR/VR/XR!
 Here is my <a class="text-red-700" href="/yiqinzhao-cv.pdf">CV</a>.
 </div>
 ::
