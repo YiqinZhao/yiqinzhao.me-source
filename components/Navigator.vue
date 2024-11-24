@@ -6,7 +6,7 @@ const navigatorItems = [
     { path: '/', text: 'Home' },
     { path: '/news/', text: 'News' },
     { path: '/publication/', text: 'Publication' },
-    { path: '/research/', text: 'Research' },
+    // { path: '/research/', text: 'Research' },
     { path: '/project/', text: 'Projects' },
     { path: '/personal/', text: 'Personal' },
     // { path: '/blog/', text: 'Blog' },

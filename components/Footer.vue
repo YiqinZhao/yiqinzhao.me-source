@@ -15,7 +15,7 @@
                     <p class="text-sm md:text-right [&_br]:hidden [&_br]:md:inline">
                         <a href="mailto:yiqinzhao@outlook.com">E-Mail</a> <br />
                         <a href="https://github.com/YiqinZhao">GitHub</a> <br />
-                        <a href="https://twitter.com/yiqin_zhao">X</a> <br />
+                        <a href="https://bsky.app/profile/yiqinzhao.bsky.social">Bluesky</a> <br />
                     </p>
                 </div>
             </div>

@@ -9,8 +9,8 @@ disableFancyImage: true
 
 ::UltraWideRow
 <div class="bg-gray-100 p-5 text-red-600">
-🔊 I'm currently on the academic job market for a TTAP faculty position starting Fall 2025. We should definitely have a chat if your department is looking for someone works on emerging technologies in AR/VR/XR!
-Here is my <a class="text-red-700" href="/yiqinzhao-cv.pdf">CV</a>.
+🔊 I'm currently on the academic job market for a TTAP faculty position starting Fall 2025. We should definitely have a chat if your department is looking for someone works on applications of AI, mobile systems, and emerging technologies in AR/VR/XR!
+Here is my <a class="text-red-700" href="/yiqinzhao-cv.pdf">CV</a>, <a class="text-red-700" href="/research_statement.pdf">Research Statement</a>, and <a class="text-red-700" href="/teaching_statement.pdf">Teaching Statement</a>.
 </div>
 ::
 
@@ -23,12 +23,14 @@ I am a final-year Computer Science Ph.D. candidate at [Worcester Polytechnic Ins
 I feel extremely fortunate to be advised by my kind and wise advisor [Prof. Tian Guo](https://tianguo.info).
 
 
-My research interest primarily lies in augmented reality (AR) systems and also extends to the broad areas in mobile computing, computer vision, and computer graphics.
-During my Ph.D. study, I focused on the topic of *dynamic intelligent systems for immersive spatial computing*.
-My research helps AR researchers and application developers to build immersive user experiences that safely and robustly adapts to different real-world environment conditions.
+My research includes building AI models and AI system supports for dynamic application scenarios.
+In particular, my research pays special interest in exploring the emerging area of immersive computing.
+Specifically, my works aim to safely and robustly blend computing into physical environments.
+My work explores problems and solutions that allow mobile computing systems to adapt to the complex dynamics of key mobile computing stakeholders–user, device, environment, and AI system.
+Centered around this objective, I have worked on environment sensing and perception systems, context-aware generative AI systems, privacy-preserving AI content generation, and infrastructure projects for AR experimentation.
 
 
-In the past, I also had the fortunate to work with and study from many awesome industry researchers during my time at [Adobe Research](https://research.adobe.com/), [Google AR&VR](https://arvr.google.com), [Kuaishou Y-tech Graphics AI team](http://www.chongyangma.com/team/index.html), and [Baidu](https://baidu.com).
+In the past, I had the fortunate to work with and study from many awesome industry researchers during my time at Adobe Research, Google AR&VR, Kuaishou Y-tech Graphics AI team, and Baidu.
 <!-- In my spare time, I enjoy being in the nature, road tripping, and work on my [website templates](https://github.com/YiqinZhao/yiqinzhao.me-source). -->
 
 #right
@@ -271,7 +273,7 @@ hideBottomBorder: true
 
 [Full publication list >>>](/publication/)
 
-
+<!--
 ## ❤️ Services and Awards
 
 **Academic services**
@@ -294,5 +296,4 @@ hideBottomBorder: true
     - 2017 - 2018 academic year top grade scholarship, top 5%
     - 2016 - 2017 academic year second grade scholarship, top 20%
     - 2015 - 2016 academic year first grade scholarship, top 10%
-::
-
+:: -->

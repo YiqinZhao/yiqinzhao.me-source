@@ -27,9 +27,9 @@
                                 <img class="inline dark:invert w-6 mr-3 opacity-75 hover:opacity-100 transition-opacity m-0"
                                     src="/assets/img/icons/google-scholar.svg" alt="">
                             </a>
-                            <a href="https://twitter.com/yiqin_zhao">
+                            <a href="https://bsky.app/profile/yiqinzhao.bsky.social">
                                 <img class="inline dark:invert w-6 mr-3 opacity-75 hover:opacity-100 transition-opacity m-0"
-                                    src="/assets/img/icons/twitter.svg" alt="">
+                                    src="/assets/img/icons/bluesky.svg" alt="">
                             </a>
                         </span>
                     </p>
