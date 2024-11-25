@@ -8,7 +8,7 @@ disableFancyImage: true
 ::
 
 ::UltraWideRow
-<div class="bg-gray-100 p-5 text-red-600">
+<div class="bg-gray-100 p-5 text-red-600 text-justify">
 🔊 I'm currently on the academic job market for a TTAP faculty position starting Fall 2025. We should definitely have a chat if your department is looking for someone works on applications of AI, mobile systems, and emerging technologies in AR/VR/XR!
 Here is my <a class="text-red-700" target="_blank" href="/yiqinzhao-cv.pdf">CV</a>, <a class="text-red-700" target="_blank" href="/research_statement.pdf">Research Statement</a>, and <a class="text-red-700" target="_blank" href="/teaching_statement.pdf">Teaching Statement</a>.
 </div>
