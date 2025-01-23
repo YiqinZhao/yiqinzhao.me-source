@@ -103,6 +103,24 @@ Jun, 2018 - Sept, 2018
 
 ::PublicationRow
 ---
+title: "CleAR: Robust Context-Guided Generative Lighting Estimation for Mobile Augmented Reality"
+thumbnail: clear.png
+type: demo
+authors:
+    - Yiqin Zhao
+    - Mallesham Dasri
+    - Tian Guo
+venue:
+    acronym: arXiv
+    year: 2024
+    name: "arXiv"
+artifactLinks:
+    arXiv: https://arxiv.org/pdf/2411.02179
+---
+::
+
+::PublicationRow
+---
 title: "Demo: ARFlow: A Framework for Simplifying AR Experimentation Workflow"
 thumbnail: arflow.jpeg
 type: demo
