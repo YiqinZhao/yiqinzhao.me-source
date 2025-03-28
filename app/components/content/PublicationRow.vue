@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 defineProps(['title', 'thumbnail', 'authors', 'venue', 'artifactLinks', 'hideBottomBorder'])
 </script>
 
@@ -34,12 +34,12 @@ defineProps(['title', 'thumbnail', 'authors', 'venue', 'artifactLinks', 'hideBot
                     <div class="text-gray-500 text-sm">{{ venue.name }}</div>
 
                     <div class="prose dark:prose-invert [&_p]:my-0">
-                        <ContentSlot :use="$slots.default" unwrap="p" />
+                        <slot unwrap="p" />
                     </div>
 
                     <div class="flex flex-wrap mt-auto">
 
-                        <span v-for="(link, artifact, i) in artifactLinks" v-bind:key="artifact">
+                        <span v-for="(link, artifact, _) in artifactLinks" v-bind:key="artifact">
                             <a class="bg-gray-700 text-white px-2 py-[0.2em] mr-1 no-underline text-sm" :href="link">{{
                                 artifact
                             }}</a>

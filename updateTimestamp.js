@@ -2,7 +2,7 @@
 const fs = require('fs')
 const path = require('path')
 
-const filePath = path.join(__dirname, 'static', 'lastUpdated.js')
+const filePath = path.join(__dirname, 'app', 'static', 'lastUpdated.js')
 const currentTimestamp = new Date().toISOString()
 
 const content = `export default {

@@ -2,6 +2,7 @@
 defineProps([
     'title', 'hideTitle', 'subtitle'
 ])
+
 </script>
 
 <template>

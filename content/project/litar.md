@@ -2,9 +2,7 @@
 title: "LitAR: Visually Coherent Lighting for Mobile Augmented Reality"
 date: 2022-07-29
 thumbnail: /assets/img/project/litar/thumbnail.png
-# previewCardDirection: horizontal
 tag: research
-layout: default
 ---
 
 ::ProjectHeader

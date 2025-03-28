@@ -191,7 +191,7 @@ artifactLinks:
     Slides: https://drive.google.com/file/d/1iWW6l6XQu_LL-EuA323jecwnVPOa3mWa/view?usp=sharing
     Website: /project/xihe/
 ---
-<span class="text-red-600"><img class="inline w-4 my-0 mt-[-0.2em]" src="/assets/img/icons/artifacts_evaluated_functional_dl.jpg"/> Artifacts Evaluated – Functional v1.1</span>
+<div class="text-red-600 inline"><img class="inline w-4 my-0 mt-[-0.2em]" src="/assets/img/icons/artifacts_evaluated_functional_dl.jpg"/> Artifacts Evaluated – Functional v1.1</div>
 ::
 
 ::PublicationRow
