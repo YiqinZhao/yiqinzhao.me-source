@@ -8,7 +8,8 @@ export default defineContentConfig({
       schema: z.object({
         title: z.string(),
         hideTitle: z.boolean(),
-        disableFancyImage: z.boolean()
+        disableFancyImage: z.boolean(),
+        leadingImage: z.string()
       })
     }),
     project: defineCollection({
@@ -19,7 +20,8 @@ export default defineContentConfig({
         date: z.string(),
         previewCardDirection: z.string(),
         previewRedirectLink: z.string(),
-        thumbnail: z.string()
+        thumbnail: z.string(),
+        tag: z.string()
       })
     })
   },

@@ -5,9 +5,10 @@
             <div class="flex-col md:flex-row flex justify-between border-b-2 border-b-gray-300">
                 <div>
                     <p class="text-sm text-left">
-                        赵一勤 | Yiqin (Pronunciation: Yi-Chin) <br />
+                        赵一勤 | Yiqin (Pronunciation: ee-cheen) <br />
                         CS Ph.D. Candidate <a href="https://cake.wpi.edu">@wpicakelab</a> <br />
-                        <i>Building dynamic intelligent systems for immersive spatial computing.</i>
+                        Incoming Assistant Professor <a href="https://rit.edu">@RIT</a> <br />
+                        <i>Building dynamic intelligent systems for immersive mobile computing.</i>
                     </p>
                 </div>
 

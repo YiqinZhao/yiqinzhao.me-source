@@ -7,10 +7,11 @@ disableFancyImage: true
 ::MarkdownHeader
 ---
 title: News
-subtitle: "📢 Latest: I'm on the academic job market now!"
+subtitle: "📢 I will be joining IGM@RIT as a tenure track assistant professor in Fall 2025!"
 ---
 ::
 
+- **03/27/2025** 🎉 I will be joining IGM@RIT as a tenure track assistant professor in Fall 2025!
 - **08/11/2024** 🎉 One paper accepted at ImmerCom 2024!
 - **05/13/2024** 🎉 I joined [Adobe Research](http://www.chongyangma.com/team/index.html) as a research scientist intern.
 - **03/01/2024** 🎉 Our demo [ARFlow: A Framework for Simplifying AR Experimentation Workflow](https://cake.wpi.edu/ARFlow/) has been accepted by HotMobile 2024!

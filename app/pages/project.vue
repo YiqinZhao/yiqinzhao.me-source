@@ -32,14 +32,6 @@ const { data: query } = await useAsyncData(() => {
                 </div>
             </a>
         </div>
-        <!-- </template> -->
-
-        <!-- <template #not-found> -->
-        <!-- <div class="h-screen w-full"></div> -->
-        <!-- </template> -->
-
-        <!-- <ContentList :path="route.path" :query="query"> -->
-        <!-- </ContentList> -->
     </article>
 
     <Footer></Footer>

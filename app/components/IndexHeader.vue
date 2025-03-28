@@ -5,13 +5,14 @@
 
                 <div class="w-[55%] hidden md:flex flex-col items-center justify-start shadow-lg
                             p-12 py-8 z-20 h-fit absolute left-0 bg-neutral-100 dark:bg-neutral-700 bottom-16">
-                    <p class="w-full text-6xl py-4 m-0">Yiqin Zhao</p>
+                    <p class="w-full text-6xl py-4 m-0 font-bold">Yiqin Zhao</p>
                     <p class="w-full text-xl pl-3 prose dark:prose-invert m-0 text-left text-gray-500">
-                        赵一勤 | Yiqin (Pronunciation: Yi-Chin) <br />
+                        赵一勤 | Yiqin (Pronunciation: ee-cheen) <br />
                         CS Ph.D. candidate <a href="https://cake.wpi.edu" class="text-gray-500">@wpicakelab</a> <br />
+                        Incoming Assistant Professor <a href="https://rit.edu" class="text-gray-500">@RIT</a> <br />
                     </p>
                     <p class="w-full text-xl pl-3 prose dark:prose-invert mt-2 mb-0 text-left text-gray-500">
-                        <i>Building dynamic intelligent systems for immersive spatial computing.</i>
+                        <i>Building dynamic intelligent systems for immersive mobile computing.</i>
                     </p>
                     <p class="mt-4 w-full pl-3 m-0">
                         <span class="m-0">
