@@ -3,9 +3,13 @@ const props = defineProps([
     'title', 'links'
 ])
 
+const relatedProjects = props.links
+    .map((v: string) => `project${v}.md`)
+
 const { data: query } = await useAsyncData(() => {
     return queryCollection('project')
         .order("date", "DESC")
+        .where("id", "IN", relatedProjects)
         .limit(3)
         .all()
 })
@@ -23,12 +27,12 @@ const { data: query } = await useAsyncData(() => {
             class="w-full prose dark:prose-invert md:my-1 flex overflow-hidden flex-row [&_img]:hover:opacity-40 [&_img]:hover:scale-[1.02] max-w-none">
 
             <div class="w-1/4 flex items-center">
-                <a class="overflow-hidden rounded-md isolate" :href="`${article.id}`"><img
+                <a class="overflow-hidden rounded-md isolate" :href="`${article.previewRedirectLink ? article.previewRedirectLink : article.path}`"><img
                         class="m-0 transition-[opacity,transform] duration-500" :src="article.thumbnail"
                         alt="" /></a>
             </div>
 
-            <a :href="`${article.id}`" class="w-3/4 h-full decoration-transparent">
+            <a :href="`${article.previewRedirectLink ? article.previewRedirectLink : article.path}`" class="w-3/4 h-full decoration-transparent">
                 <div class="p-4 flex flex-col justify-between w-full h-full">
 
                     <div class="text-sm md:text-xl m-0 py-2 md:py-3">{{ article.title }}</div>
