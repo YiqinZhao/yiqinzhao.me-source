@@ -10,6 +10,7 @@ disableFancyImage: true
 ::UltraWideRow
 <div class="bg-gray-100 p-5 text-red-600 text-center">
 🔊 Super excited to announce that I will be joining <a class="text-red-600" target="_blank" href="https://www.rit.edu/computing/school-interactive-games-and-media">IGM@RIT</a> as a tenure-track assistant professor in Fall 2025.
+<br/>For prospective students, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfie31SwHILZwvDrkJvmW6hq6cYncXWjB2SP3NKikk-9wfK7Q/viewform?usp=dialog" target="_blank">Google Form</a> and send me an email to <a href="mailto:yiqinzhao@outlook.com">yiqinzhao@outlook.com</a>.
 </div>
 ::
 
