@@ -7,7 +7,7 @@ disableFancyImage: true
 ::MarkdownHeader
 ---
 title: News
-subtitle: "📢 I will be joining IGM@RIT as a tenure track assistant professor in Fall 2025!"
+subtitle: 🔊 I will be joining IGM@RIT as a tenure-track assistant professor in Fall 2025.
 ---
 ::
 

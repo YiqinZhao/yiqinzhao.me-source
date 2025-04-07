@@ -8,7 +8,7 @@ disableFancyImage: true
 ::
 
 ::UltraWideRow
-<div class="bg-gray-100 p-5 text-red-600 text-justify">
+<div class="bg-gray-100 p-5 text-red-600 text-center">
 🔊 Super excited to announce that I will be joining <a class="text-red-600" target="_blank" href="https://www.rit.edu/computing/school-interactive-games-and-media">IGM@RIT</a> as a tenure-track assistant professor in Fall 2025.
 </div>
 ::
@@ -265,28 +265,6 @@ artifactLinks:
 ---
 ::
 
-::PublicationRow
----
-title: "Exploring Spatio-Temporal Representations by Integrating Attention-based Bidirectional-LSTM-RNNs and FCNs for Speech Emotion Recognition"
-thumbnail: deep-spectrum-interspeech.png
-type: conference
-authors:
-    - Ziping Zhao
-    - Yu Zheng
-    - Zixing Zhang
-    - Haishuai Wang
-    - Yiqin Zhao
-    - Chao Li
-venue:
-    acronym: INTERSPEECH
-    year: 2018
-    name: "Annual Conference of the International Speech Communication Association"
-artifactLinks:
-    Proceeding: https://www.isca-speech.org/archive_v0/Interspeech_2018/abstracts/1477.html
-    Website: /project/deep-spectrum/
-hideBottomBorder: true
----
-::
 
 [Full publication list >>>](/publication/)
 
