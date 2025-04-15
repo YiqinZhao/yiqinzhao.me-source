@@ -43,28 +43,29 @@ const activeItem = navigatorItems.filter(v => v.active)[0]
     </div>
 
     <div
-        class="fixed flex md:hidden flex-row justify-between p-5 text-black dark:text-white bg-gray-100 dark:bg-gray-800 z-30 w-full top-0">
+        class="fixed flex md:hidden flex-row justify-between p-5 text-black dark:text-white bg-gray-100 dark:bg-gray-800 z-50 w-full top-0">
         <span class="text-xl font-bold">{{ activeItem.text }}</span>
         <span v-on:click="onMenuButtonClick">
-            <img class="inline dark:invert" :src="menuOpen ? '/assets/img/icons/close.svg' : '/assets/img/icons/menu.svg'"
-                alt="">
+            <img class="inline dark:invert"
+                :src="menuOpen ? '/assets/img/icons/close.svg' : '/assets/img/icons/menu.svg'" alt="">
         </span>
     </div>
 
     <div
-        class="flex md:hidden opacity-0 flex-row justify-between p-5 text-black dark:text-white bg-gray-100 dark:bg-gray-800 z-30 w-full top-0">
+        class="flex md:hidden opacity-0 flex-row justify-between p-5 text-black dark:text-white bg-gray-100 dark:bg-gray-800 z-50 w-full top-0">
         <span class="text-xl font-bold">{{ activeItem.text }}</span>
         <span v-on:click="onMenuButtonClick">
-            <img class="inline dark:invert" :src="menuOpen ? '/assets/img/icons/close.svg' : '/assets/img/icons/menu.svg'"
-                alt="">
+            <img class="inline dark:invert"
+                :src="menuOpen ? '/assets/img/icons/close.svg' : '/assets/img/icons/menu.svg'" alt="">
         </span>
     </div>
 
-    <div class="fixed w-full h-full top-0 left-0 z-20 bg-black transition-opacity opacity-0"
+    <div class="fixed w-full h-full top-0 left-0 z-40 bg-black transition-opacity opacity-0"
         :class="{ 'translate-y-[-100vh]': !menuOpen, 'opacity-40': menuOpen }">
     </div>
-    <div class="md:hidden fixed flex flex-col justify-between w-full h-full top-0 left-0 bg-gray-100 dark:bg-gray-800 z-20
-        transition-transform duration-500" :class="{ 'duration-0 translate-y-[-100vh] opacity-0': !menuOpen, 'opacity-100': menuOpen }">
+    <div class="md:hidden fixed flex flex-col justify-between w-full h-full top-0 left-0 bg-gray-100 dark:bg-gray-800 z-40
+        transition-transform duration-500"
+        :class="{ 'duration-0 translate-y-[-100vh] opacity-0': !menuOpen, 'opacity-100': menuOpen }">
         <div class="flex flex-col p-5 pt-24 text-xl text-gray-400 dark:text-gray-500">
             <a class="transition-color py-3" v-for="item in navigatorItems" v-bind:key="item.text" :href="item.path">
                 <div class="flex justify-between">

@@ -1,5 +1,13 @@
 <template>
     <div class="mb-16">
+        <div class="fixed z-50 left-0 top-0 w-full h-full flex justify-center items-center bg-black/80 flex-col opacity-0 transition-opacity duration-500"
+            :class="{ 'opacity-100': animalDetailViewOpen, 'translate-y-[-100vh]': !animalDetailViewOpen }"
+            v-on:click="onAnimalImageClick">
+            <img class="w-full mb-2 md:w-1/2" src="/assets/img/animals.png"
+                title="Shiloh, my cat, and Stella, my dog" />
+            <p class="text-white text-center text-2xl mt-0">🐈‍⬛ Shiloh & 🐕Stella</p>
+        </div>
+
         <div class="container md:w-[140%] md:ml-[-20%] px-0 md:pt-0">
             <div class="flex py-0 dark:text-white relative justify-end items-center mx-auto">
 
@@ -36,6 +44,10 @@
                     </p>
                 </div>
 
+                <img class="w-1/2 md:w-1/3 shadow-lg my-0 md:my-12 z-30 absolute right-[-2%] bottom-[-2%] md:bottom-[-1em] md:right-[-3%]"
+                    src="/assets/img/animals.png" title="Shiloh, my cat, and Stella, my dog"
+                    v-on:click="onAnimalImageClick" />
+
                 <img class="w-full md:w-1/2 shadow-lg my-0 md:my-12 z-10" src="/assets/img/hero-3-4.jpg" alt="" />
 
                 <div class="absolute h-full w-[75%] left-0 z-[-1]"></div>
@@ -46,7 +58,8 @@
 
         </div>
 
-        <div class="hidden md:block w-full h-fit p-0 m-0 absolute mx-auto top-0 left-0 z-[-2] bg-neutral-200 dark:bg-neutral-800">
+        <div
+            class="hidden md:block w-full h-fit p-0 m-0 absolute mx-auto top-0 left-0 z-[-2] bg-neutral-200 dark:bg-neutral-800">
             <div class="max-w-prose mt-[3.4rem] opacity-0">
                 <div class="container w-[140%] ml-[-20%] px-0 md:pt-0">
                     <div class="flex py-0 dark:text-white relative justify-end items-center mx-auto">
@@ -58,3 +71,18 @@
 
     </div>
 </template>
+
+<script>
+export default {
+    data() {
+        return {
+            animalDetailViewOpen: false
+        }
+    },
+    methods: {
+        onAnimalImageClick() {
+            this.animalDetailViewOpen = !this.animalDetailViewOpen
+        }
+    }
+}
+</script>

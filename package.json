@@ -3,7 +3,7 @@
   "scripts": {
     "predev": "node updateTimestamp.js",
     "build": "nuxt build",
-    "dev": "nuxt dev",
+    "dev": "nuxt dev --host",
     "generate": "nuxi generate",
     "preview": "nuxt preview",
     "deploy": "bash scripts/deploy.sh"
