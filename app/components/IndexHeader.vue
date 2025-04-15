@@ -44,7 +44,7 @@
                     </p>
                 </div>
 
-                <img class="w-1/2 md:w-1/3 shadow-lg my-0 md:my-12 z-30 absolute right-[-2%] bottom-[-2%] md:bottom-[-1em] md:right-[-3%]"
+                <img class="w-1/2 md:w-1/3 shadow-lg my-0 md:my-12 z-30 absolute right-[-2%] bottom-[-2%] md:bottom-[-1em] md:right-[-3%] cursor-pointer"
                     src="/assets/img/animals.png" title="Shiloh, my cat, and Stella, my dog"
                     v-on:click="onAnimalImageClick" />
 
