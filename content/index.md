@@ -7,30 +7,34 @@ disableFancyImage: true
 ::IndexHeader
 ::
 
-::UltraWideRow
+<!-- ::UltraWideRow
 <div class="bg-gray-100 p-5 text-red-600 text-center">
 🔊 Super excited to announce that I will be joining <a class="text-red-600" target="_blank" href="https://www.rit.edu/computing/school-interactive-games-and-media">IGM@RIT</a> as a tenure-track assistant professor in Fall 2025.
 <br/>For prospective students, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfie31SwHILZwvDrkJvmW6hq6cYncXWjB2SP3NKikk-9wfK7Q/viewform?usp=dialog" target="_blank">Google Form</a> and send me an email to <a href="mailto:yiqinzhao@outlook.com">yiqinzhao@outlook.com</a>.
 </div>
-::
+:: -->
 
 
 ::SplitBlock
 #left
 ## 🦸🏻‍♂️ About Me
 
-I am a final-year Computer Science Ph.D. candidate at [Worcester Polytechnic Institute (WPI)](https://wpi.edu) and a proud member of [The Cake Lab](https://cake-lab.github.io) research group.
-I feel extremely fortunate to be advised by my kind and wise advisor [Prof. Tian Guo](https://tianguo.info).
+<!-- I am a final-year Computer Science Ph.D. candidate at [Worcester Polytechnic Institute (WPI)](https://wpi.edu) and a proud member of [The Cake Lab](https://cake-lab.github.io) research group.
+I feel extremely fortunate to be advised by my kind and wise advisor [Prof. Tian Guo](https://tianguo.info). -->
+
+I am an assistant professor at [Rochester Insitute of Technology (RIT)](https://rit.edu).
+I received my Ph.D. from [Worcester Polytechnic Institute (WPI)](https://wpi.edu) in August 2025.
+During my Ph.D. study, I have worked on AR environment sensing and perception systems, context-aware generative AI systems, privacy-preserving AI content generation, and infrastructure projects for AR experimentation.
+My current research focuses on building AI models and system support for real-world applications in dynamic contexts, with a special emphasis on enabling the seamless integration between virtual contents and the physical world.
+In the past, I also had the fortunate to work with many awesome industry researchers at Adobe Research, Google AR&VR, Kuaishou Y-tech Graphics AI team, and Baidu.
 
 
-My research includes building AI models and AI system supports for dynamic application scenarios.
+<!-- My research includes building AI models and AI system supports for dynamic application scenarios.
 In particular, my research pays special interest in exploring the emerging area of immersive computing.
 Specifically, my works aim to safely and robustly blend computing into physical environments.
-My work explores problems and solutions that allow mobile computing systems to adapt to the complex dynamics of key mobile computing stakeholders–user, device, environment, and AI system.
-Centered around this objective, I have worked on environment sensing and perception systems, context-aware generative AI systems, privacy-preserving AI content generation, and infrastructure projects for AR experimentation.
+My work explores problems and solutions that allow mobile computing systems to adapt to the complex dynamics of key mobile computing stakeholders–user, device, environment, and AI system. -->
 
 
-In the past, I had the fortunate to work with and study from many awesome industry researchers during my time at Adobe Research, Google AR&VR, Kuaishou Y-tech Graphics AI team, and Baidu.
 <!-- In my spare time, I enjoy being in the nature, road tripping, and work on my [website templates](https://github.com/YiqinZhao/yiqinzhao.me-source). -->
 
 #right
@@ -43,7 +47,7 @@ In the past, I had the fortunate to work with and study from many awesome indust
 ::
 
 
-::SplitBlock
+<!-- ::SplitBlock
 #left
 ## 🏫 Education
 
@@ -95,7 +99,7 @@ Software Engineering Intern\
 Jun, 2018 - Sept, 2018
 ::
 
-::
+:: -->
 
 
 ::UltraWideRow
@@ -111,9 +115,9 @@ authors:
     - Mallesham Dasri
     - Tian Guo
 venue:
-    acronym: arXiv
-    year: 2024
-    name: "arXiv"
+    acronym: IMWUT
+    year: 2025
+    name: "The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
 artifactLinks:
     arXiv: https://arxiv.org/pdf/2411.02179
 ---

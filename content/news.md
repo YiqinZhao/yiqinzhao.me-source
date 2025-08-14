@@ -7,10 +7,10 @@ disableFancyImage: true
 ::MarkdownHeader
 ---
 title: News
-subtitle: 🔊 I will be joining IGM@RIT as a tenure-track assistant professor in Fall 2025.
 ---
 ::
 
+- **13/08/2025** 🎉 Joined IGM@RIT as a tenure track assistant professor.
 - **03/27/2025** 🎉 I will be joining IGM@RIT as a tenure track assistant professor in Fall 2025!
 - **08/11/2024** 🎉 One paper accepted at ImmerCom 2024!
 - **05/13/2024** 🎉 I joined [Adobe Research](http://www.chongyangma.com/team/index.html) as a research scientist intern.

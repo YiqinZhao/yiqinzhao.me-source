@@ -16,8 +16,9 @@
                     <p class="w-full text-6xl py-4 m-0 font-bold">Yiqin Zhao</p>
                     <p class="w-full text-xl pl-3 prose dark:prose-invert m-0 text-left text-gray-500">
                         赵一勤 | Yiqin (Pronunciation: ee-cheen) <br />
-                        CS Ph.D. candidate <a href="https://cake.wpi.edu" class="text-gray-500">@wpicakelab</a> <br />
-                        Incoming Assistant Professor <a href="https://rit.edu" class="text-gray-500">@RIT</a> <br />
+                        Assistant Professor  <br />
+                        School of Interactive Games and Media  <br />
+                        Rochester Institute of Technology
                     </p>
                     <p class="w-full text-xl pl-3 prose dark:prose-invert mt-2 mb-0 text-left text-gray-500">
                         <i>Building dynamic intelligent systems for immersive mobile computing.</i>
