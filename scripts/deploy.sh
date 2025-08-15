@@ -3,7 +3,7 @@
 npm run generate
 
 if [ ! -d ./.deploy/deployment ]; then
-    git clone -b master git@github.com:YiqinZhao/yiqinzhao.phd.git ./.deploy/deployment
+    git clone git@github.com:YiqinZhao/yiqinzhao.phd.git ./.deploy/deployment
 fi
 
 mv ./.deploy/deployment/.git ./.deploy/
