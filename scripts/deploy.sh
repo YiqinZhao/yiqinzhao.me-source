@@ -3,7 +3,7 @@
 npm run generate
 
 if [ ! -d ./.deploy/deployment ]; then
-    git clone -b master git@github.com:YiqinZhao/yiqinzhao.me.git ./.deploy/deployment
+    git clone -b master git@github.com:YiqinZhao/yiqinzhao.phd.git ./.deploy/deployment
 fi
 
 mv ./.deploy/deployment/.git ./.deploy/
@@ -16,7 +16,7 @@ touch ./.deploy/deployment/CNAME
 
 GIT_SHA=$(git rev-parse HEAD)
 
-echo "yiqinzhao.me" > ./.deploy/deployment/CNAME
+echo "yiqinzhao.phd" > ./.deploy/deployment/CNAME
 echo "${GIT_SHA}" > ./.deploy/deployment/version.txt
 
 cd ./.deploy/deployment

@@ -14,7 +14,7 @@ videoLink: https://www.youtube.com/embed/ovTUDxt86mk
 authors:
     - name: Yiqin Zhao
       avatar: /assets/img/project/xihe/avatars/yiqin.png
-      url: https://yiqinzhao.me
+      url: https://yiqinzhao.phd
       affiliation: Worcester Polytechnic Institute
     - name: Tian Guo
       avatar: /assets/img/project/xihe/avatars/tian.png

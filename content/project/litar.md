@@ -12,7 +12,7 @@ venue: UbiComp 2022 (IMWUT 2022)
 videoLink: https://www.youtube.com/embed/tpvCqiFV9sM
 authors:
     - name: Yiqin Zhao
-      url: https://yiqinzhao.me
+      url: https://yiqinzhao.phd
       affiliation: Worcester Polytechnic Institute
     - name: Chongyang Ma
       url: http://www.chongyangma.com/

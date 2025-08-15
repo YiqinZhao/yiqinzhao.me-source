@@ -20,7 +20,7 @@ venue: ECCV 2020
 videoLink: https://www.youtube.com/embed/Mg-dFJRPSH4
 authors:
     - name: Yiqin Zhao
-      url: https://yiqinzhao.me
+      url: https://yiqinzhao.phd
       affiliation: Worcester Polytechnic Institute
     - name: Tian Guo
       url: https://tianguo.info

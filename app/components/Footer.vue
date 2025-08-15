@@ -24,7 +24,7 @@
 
             <div class="text-gray-500 dark:text-gray-400 mx-auto text-sm">
                 <p>
-                    © <a href="https://yiqinzhao.me">Yiqin Zhao</a> {{ year }}. Last updated: {{ datetime }}.
+                    © <a href="https://yiqinzhao.phd">Yiqin Zhao</a> {{ year }}. Last updated: {{ datetime }}.
                     Use my website <a class="underline" href="https://github.com/YiqinZhao/yiqinzhao.me-source">template</a>.
                 </p>
             </div>

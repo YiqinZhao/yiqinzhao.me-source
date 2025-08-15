@@ -12,7 +12,7 @@ title: "Privacy-preserving Reflection Rendering for Augmented Reality"
 venue: ACM Multimedia 2022
 authors:
     - name: Yiqin Zhao
-      url: https://yiqinzhao.me
+      url: https://yiqinzhao.phd
       affiliation: Worcester Polytechnic Institute
     - name: Sheng Wei
       url: http://eceweb1.rutgers.edu/~sw891/
