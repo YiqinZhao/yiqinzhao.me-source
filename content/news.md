@@ -10,7 +10,8 @@ title: News
 ---
 ::
 
-- **13/08/2025** 🎉 Joined IGM@RIT as a tenure track assistant professor.
+- **13/08/2025** 🎉 I joined IGM@RIT as a tenure track assistant professor.
+- **03/07/2025** 🎉 Our paper, [CleAR: Robust Context-Guided Generative Lighting Estimation for Mobile Augmented Reality](https://arxiv.org/pdf/2411.02179) has been accepted by IMWUT 2025!
 - **03/27/2025** 🎉 I will be joining IGM@RIT as a tenure track assistant professor in Fall 2025!
 - **08/11/2024** 🎉 One paper accepted at ImmerCom 2024!
 - **05/13/2024** 🎉 I joined [Adobe Research](http://www.chongyangma.com/team/index.html) as a research scientist intern.

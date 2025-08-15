@@ -14,7 +14,7 @@ const { data: news } = await useAsyncData(() => {
 </script>
 
 <template>
-    <div class="[&_li:nth-of-type(1n+7)]:hidden [&_img]:hidden [&_h1]:hidden [&_h2]:hidden">
+    <div class="[&_li:nth-of-type(1n+5)]:hidden [&_img]:hidden [&_h1]:hidden [&_h2]:hidden">
         <ContentRenderer :value="news" />
     </div>
 </template>
