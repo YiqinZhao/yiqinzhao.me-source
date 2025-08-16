@@ -18,14 +18,17 @@
                         赵一勤 | Yiqin (Pronunciation: ee-cheen) <br />
                         Assistant Professor  <br />
                         School of Interactive Games and Media  <br />
+                        Golisano College of Computing and Information Sciences
                         Rochester Institute of Technology
                     </p>
-                    <p class="w-full text-xl pl-3 prose dark:prose-invert mt-2 mb-0 text-left text-gray-500">
-                        <i>Building dynamic intelligent systems for immersive mobile computing.</i>
+                    <p class="w-full text-l pl-3 prose dark:prose-invert mt-2 mb-0 text-left text-gray-400">
+                        <b>Office:</b> GOL-2545  <br />
+                        20 Lomb Memorial Dr,
+                        Rochester, NY 14623
                     </p>
                     <p class="mt-4 w-full pl-3 m-0">
                         <span class="m-0">
-                            <a href="mailto:yiqinzhao@outlook.com">
+                            <a href="mailto:yzigm@rit.edu">
                                 <img class="inline dark:invert w-6 mr-3 opacity-75 hover:opacity-100 transition-opacity m-0"
                                     src="/assets/img/icons/email.svg" alt="">
                             </a>
@@ -45,11 +48,17 @@
                     </p>
                 </div>
 
-                <img class="w-1/2 md:w-1/3 shadow-lg my-0 md:my-12 z-30 absolute right-[-2%] bottom-[-2%] md:bottom-[-1em] md:right-[-3%] cursor-pointer"
+                <img class="w-1/2 md:w-1/3 shadow-lg my-0 md:my-12 z-30 absolute right-[-2%] bottom-[-2%] md:bottom-[-1em] md:right-[-3%] cursor-pointer hover:scale-105 transition duration-300"
                     src="/assets/img/animals.png" title="Shiloh, my cat, and Stella, my dog"
                     v-on:click="onAnimalImageClick" />
 
-                <img class="w-full md:w-1/2 shadow-lg my-0 md:my-12 z-10" src="/assets/img/hero-3-4.jpg" alt="" />
+                <div class="relative w-full md:w-1/2 shadow-lg my-0 md:my-12 z-10">
+                    <a class="hover:opacity-100" href="https://rit.edu">
+                        <img class="w-1/6 m-0 absolute top-5 right-3 hover:scale-110 transition duration-300" src="/assets/img/rit-logo.png" alt="">
+                    </a>
+                    <img class="w-full my-0" src="/assets/img/hero-3-4.jpg" alt="" />
+                </div>
+                
 
                 <div class="absolute h-full w-[75%] left-0 z-[-1]"></div>
 

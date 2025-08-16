@@ -86,7 +86,3 @@ Annual Conference of the International Speech Communication Association, **INTER
   year={2018}
 }
 ```
-
-## Contact
-
-If you have any questions, please feel free to contact [Yiqin Zhao](mailto:yiqinzhao@outlook.com).
