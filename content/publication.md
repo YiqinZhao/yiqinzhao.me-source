@@ -20,9 +20,9 @@ authors:
     - Mallesham Dasri
     - Tian Guo
 venue:
-    acronym: arXiv
-    year: 2024
-    name: "arXiv"
+    acronym: IMWUT
+    year: 2025
+    name: "The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
 artifactLinks:
     arXiv: https://arxiv.org/pdf/2411.02179
 ---

@@ -12,7 +12,7 @@ disableFancyImage: true
 #left
 ## 🦸🏻‍♂️ About Me
 
-I am an assistant professor at [Rochester Insitute of Technology (RIT)](https://rit.edu).
+I am an assistant professor at [Rochester Institute of Technology (RIT)](https://rit.edu).
 I received my Ph.D. from [Worcester Polytechnic Institute (WPI)](https://wpi.edu) in August 2025.
 During my Ph.D. study, I have worked on AR environment sensing and perception systems, context-aware generative AI systems, privacy-preserving AI content generation, and infrastructure projects for AR experimentation.
 My current research focuses on building AI models and system support for real-world applications in dynamic contexts, with a special emphasis on enabling the seamless integration between virtual contents and the physical world.
@@ -197,28 +197,3 @@ artifactLinks:
 
 
 [Full publication list >>>](/publication/)
-
-<!--
-## ❤️ Services and Awards
-
-**Academic services**
-
-- Conference Reviewer: MM’24, NeruIPS’24, ICDCS’23, CAAI’23, MMSys’20
-- Journal Reviewer: TMC’24, IJHCI’24
-- UbiComp 2022 student volunteer.
-
-**Awards**
-
-- Best paper runner-up, ImmerCom'23.
-- ACM HotMobile 2023 Student Travel Grant.
-- ACM HotMobile 2020 Student Travel Grant.
-- China Collegiate Computing Contest.
-    - 2017 national third prize, top 6%
-    - 2016 national third prize, top 10%
-- University Scholarship, Tianjin Normal University
-    - 2018 - 2019 academic first grade scholarship, top 10%
-    - Wang Kechang Culture and Technology Innovation Scholarship, ≤ 1%
-    - 2017 - 2018 academic year top grade scholarship, top 5%
-    - 2016 - 2017 academic year second grade scholarship, top 20%
-    - 2015 - 2016 academic year first grade scholarship, top 10%
-:: -->
