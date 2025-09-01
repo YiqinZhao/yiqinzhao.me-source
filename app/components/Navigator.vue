@@ -8,6 +8,7 @@ const navigatorItems = [
     { path: '/publication/', text: 'Publication' },
     // { path: '/research/', text: 'Research' },
     { path: '/project/', text: 'Projects' },
+    { path: '/teaching/', text: 'Teaching' },
     { path: '/personal/', text: 'Personal' },
     // { path: '/blog/', text: 'Blog' },
     { path: '/yiqinzhao-cv.pdf', text: 'CV' },
