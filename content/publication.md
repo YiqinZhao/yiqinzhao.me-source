@@ -24,7 +24,9 @@ venue:
     year: 2025
     name: "The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
 artifactLinks:
+    Paper: https://dl.acm.org/doi/10.1145/3749535
     arXiv: https://arxiv.org/pdf/2411.02179
+    Code: https://github.com/cake-lab/CleAR
 ---
 ::
 
