@@ -10,6 +10,7 @@ title: News
 ---
 ::
 
+- 💰 **Oct 21, 2025** Our research on interactive imaging received a grant from [Lambda Research](https://lambda.ai/research). Thank you, Lambda!
 - 🎉 **August 13, 2025** I joined IGM@RIT as a tenure track assistant professor.
 - 🎉 **July 03, 2025** Our paper, [CleAR: Robust Context-Guided Generative Lighting Estimation for Mobile Augmented Reality](https://arxiv.org/pdf/2411.02179) has been accepted by IMWUT 2025!
 - 🎉 **March 27, 2025** I will be joining IGM@RIT as a tenure track assistant professor in Fall 2025!
