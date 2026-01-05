@@ -10,7 +10,8 @@ title: Teaching
 
 **Teaching at Rochester Institute of Technology**
 
-- Fall 2025, IGME 309 - Data Structures & Algorithms for Games & Simulations II.
+- Spring 2026, IGME 330 - Rich Media Web Development I.
+- Fall 2025, IGME 309 - Real-time Game and Simulation II
 
 **Teaching Assistant at Worcester Polytechnic Institute**
 
@@ -27,5 +28,9 @@ title: Teaching
 
 **Graduate student mentored**
 
+- Xilin Zhu (RIT)
+- Piyush Patankar (RIT)
+- Yige Lu (RIT)
 - Tamanna Taneja (RIT)
+- Zhanhong Huang (WPI)
 
