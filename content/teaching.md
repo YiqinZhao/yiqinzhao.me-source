@@ -12,7 +12,7 @@ title: Teaching
 
 - Fall 2025, IGME 309 - Data Structures & Algorithms for Games & Simulations II.
 
-**Teaching Assistant at Worcester Polytechnic Institute of Technology**
+**Teaching Assistant at Worcester Polytechnic Institute**
 
 - CS539 Machine Learning
 - CS543 Computer Graphics

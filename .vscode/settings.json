@@ -18,5 +18,9 @@
         "xihe"
     ],
     "explorer.excludeGitIgnore": true,
-    "nuxt.isNuxtApp": false
+    "nuxt.isNuxtApp": false,
+    "[markdown]": {
+        "editor.formatOnSave": false
+    },
+    "editor.formatOnSave": false
 }

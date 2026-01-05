@@ -10,15 +10,16 @@ title: News
 ---
 ::
 
+- 💰 **Dec 03, 2025** Our research on interactive imaging received a grant from [Nvidia](https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program). Thank you, Nvidia!
 - 💰 **Oct 21, 2025** Our research on interactive imaging received a grant from [Lambda Research](https://lambda.ai/research). Thank you, Lambda!
 - 🎉 **August 13, 2025** I joined IGM@RIT as a tenure track assistant professor.
 - 🎉 **July 03, 2025** Our paper, [CleAR: Robust Context-Guided Generative Lighting Estimation for Mobile Augmented Reality](https://arxiv.org/pdf/2411.02179) has been accepted by IMWUT 2025!
 - 🎉 **March 27, 2025** I will be joining IGM@RIT as a tenure track assistant professor in Fall 2025!
 - 🎉 **August 11, 2024** One paper accepted at ImmerCom 2024!
-- 🎉 **May 13, 2024** I joined [Adobe Research](http://www.chongyangma.com/team/index.html) as a research scientist intern.
+- 🎉 **May 13, 2024** I joined [Adobe Research](https://research.adobe.com/) as a research scientist intern.
 - 🎉 **March 01, 2024** Our demo [ARFlow: A Framework for Simplifying AR Experimentation Workflow](https://cake.wpi.edu/ARFlow/) has been accepted by HotMobile 2024!
 - 🎉 **February 17, 2024** Our paper [Mobile AR Depth Estimation: Challenges & Prospects](https://arxiv.org/pdf/2310.14437) has been accepted by HotMobile 2024!
-- 🏆 **June 10, 2023** Our paper, *Toward Scalable and Controllable AR Experimentation*, received **best paper runner-up** award at ImmerCom'23.
+- 🏆 **June 10, 2023** Our paper, _Toward Scalable and Controllable AR Experimentation_, received **best paper runner-up** award at ImmerCom'23.
 - 🎉 **March 31, 2023** We have released the [code](https://github.com/cake-lab/LitAR) of our UbiComp 2022 paper LitAR.
 - 🎉 **December 15, 2022** Received student travel grant from HotMobile 2023, thank you!
 - 🎉 **December 15, 2022** Passed my classes and research qualifications, I'm a Ph.D. candidate now!
