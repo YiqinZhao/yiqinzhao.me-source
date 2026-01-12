@@ -10,6 +10,7 @@ title: News
 ---
 ::
 
+- 🎉 **Jan 12, 2026** Our paper [AR as an Evaluation Playground: Bridging Metric and Visual Perception of Computer Vision Models](https://arxiv.org/pdf/2508.04102) has been accepted by MMSys 2026! Congratulation to the lead author, Ashkan Ganj.
 - 💰 **Dec 03, 2025** Our research received a grant from [Nvidia](https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program). Thank you, Nvidia!
 - 💰 **Oct 21, 2025** Our research received a grant from [Lambda Research](https://lambda.ai/research). Thank you, Lambda!
 - 🎉 **August 13, 2025** I joined IGM@RIT as a tenure track assistant professor.

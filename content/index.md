@@ -32,6 +32,24 @@ In the past, I also had the fortunate to work with many awesome industry researc
 
 ::PublicationRow
 ---
+title: "AR as an Evaluation Playground: Bridging Metrics and Visual Perception of Computer Vision Models"
+thumbnail: arcade.png
+type: demo
+authors:
+    - Ashkan Ganj
+    - Yiqin Zhao
+    - Tian Guo
+venue:
+    acronym: MMSys
+    year: 2026
+    name: "The 17th ACM Multimedia System Conference"
+artifactLinks:
+    arXiv: https://arxiv.org/pdf/2508.04102
+---
+::
+
+::PublicationRow
+---
 title: "CleAR: Robust Context-Guided Generative Lighting Estimation for Mobile Augmented Reality"
 thumbnail: clear.png
 type: demo
