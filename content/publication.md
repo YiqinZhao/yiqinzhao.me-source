@@ -24,7 +24,9 @@ venue:
     year: 2026
     name: "The 17th ACM Multimedia System Conference"
 artifactLinks:
+    Paper: https://dl.acm.org/doi/10.1145/3793853.3795748
     arXiv: https://arxiv.org/pdf/2508.04102
+    Code: https://github.com/cake-lab/ARCADE
 ---
 ::
 
