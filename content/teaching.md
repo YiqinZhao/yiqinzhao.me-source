@@ -28,6 +28,7 @@ title: Teaching
 
 **Graduate student mentored**
 
+- Michael Eaton (RIT)
 - Xilin Zhu (RIT)
 - Piyush Patankar (RIT)
 - Yige Lu (RIT)
