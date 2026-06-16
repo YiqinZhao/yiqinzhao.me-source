@@ -58,7 +58,7 @@
                     </a>
                     <img class="w-full my-0" src="/assets/img/hero-3-4.jpg" alt="" />
                 </div>
-                
+
 
                 <div class="absolute h-full w-[75%] left-0 z-[-1]"></div>
 
