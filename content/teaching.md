@@ -10,6 +10,7 @@ title: Teaching
 
 **Teaching at Rochester Institute of Technology**
 
+- Fall 2026, IGME 330 - Rich Media Web Development I.
 - Spring 2026, IGME 330 - Rich Media Web Development I.
 - Fall 2025, IGME 309 - Real-time Game and Simulation II
 
