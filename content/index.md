@@ -12,10 +12,10 @@ disableFancyImage: true
 #left
 ## 🦸🏻‍♂️ About Me
 
-I am an assistant professor at [Rochester Institute of Technology (RIT)](https://rit.edu).
+I am an assistant professor at [Rochester Institute of Technology (RIT)](https://rit.edu) where I lead the [DISCO Research Group](https://disco.rit.edu). Our research focuses on empowering mobile computing systems to adapt to the complex dynamics from key mobile computing stakeholders-user, device, environment, and AI system. Combining dynamic intelligence and immersive computing systems our broader goal is to empower humans to transcend the limitations of distance and physical presence.
+
 I received my Ph.D. from [Worcester Polytechnic Institute (WPI)](https://wpi.edu) in August 2025.
 During my Ph.D. study, I have worked on AR environment sensing and perception systems, context-aware generative AI systems, privacy-preserving AI content generation, and infrastructure projects for AR experimentation.
-My current research focuses on building AI models and system support for real-world applications in dynamic contexts, with a special emphasis on enabling the seamless integration between virtual contents and the physical world.
 In the past, I also had the fortunate to work with many awesome industry researchers at Adobe Research, Google AR&VR, Kuaishou Y-tech Graphics AI team, and Baidu.
 
 #right
